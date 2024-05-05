@@ -5,5 +5,5 @@ Process:
 # Gather documents contemporary to the person being researched:  Marriage records, deeds, wills, tax records, etc.
 # Arrange a timeline of facts based on the documents.
 # Provide a biography with "just enough" narrative language to connect the documented facts.
-# Clearly identify any information that is an estimate or guess or "possibility" and provide their basis or how they were calculated.
+# Clearly identify any information that is an estimate or guess or "possibility", and explain the reasoning or calculation.
 # Any conclusions should follow the rule of "fewest assumptions".
