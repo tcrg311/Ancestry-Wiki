@@ -1,6 +1,6 @@
 == Biography ==
 
-It is estimated that Mary was born about 1765<ref>The estimate is based on Daniel Lip's will, the order of the named siblings as the birth order, and a rough estimate of their birth years.</ref>.
+It is estimated that Mary was born about 1765<ref>The estimate is based on Daniel Lip's will, and assumption that the order of the names in the will is the birth order, and a rough estimate of their birth years.</ref>.
 
 The Last Will and Testament of Daniel Lip 24 Oct 1795<ref>Order Books, 1793-1892; Author: Virginia. County Court (Madison County); Probate Place: Madison, Virginia, Will Book 1, page 157</ref>:
 * Daniel had no heirs, and the devisees in his will include his mother, Elizabeth, and siblings in this order:  Henry, Mary, Jacob, and Elizabeth Good.  From the 1782 Personal Property tax list for Culpeper County, it appears that Daniel is the oldest of the siblings, and the sibling names are possibly in birth order.
@@ -8,7 +8,14 @@ The Last Will and Testament of Daniel Lip 24 Oct 1795<ref>Order Books, 1793-1892
 * The will was certified 28 Dec 1795, and Mary Lip married [[Rothgeb-117.wikitext|Peter Rothgeb]] the next day.
 * The will was "fully proved" and recorded 25 Jan 1798.
 
-[[Rothgeb-117.wikitext|Peter Rothgeb (abt.1739-1824)]] married Mary Lip 28 Dec 1795<ref>Marriage Bonds & Consents, 1793-1798, Library of Virginia County Records microfilm, Madison County, Reel 67</ref> (see note<ref>It is widely held that Mary Lip married Peter Roadcap ''Jr.'', b 1762 d 1839, but analysis of tax lists and deeds supports Peter Roadcap Jr. b. about 1797 and son of [[Rothgeb-117.wikitext|Peter Rothgeb (abt.1739-1824)]] and Mary Lip.</ref>).
+Based on tax lists, year of Elizabeth's marriage, and other assumptions, a rough estimate of the siblings and birth years:
+# Henry Lip b. Abt 1760 (Appears to be the elder of "Henry & Daniel" in the tax list)
+# Daniel Lip b. Abt 1762 (Named as a "Tythable" in 1782 Culpeper Personal Property Tax list, so at least 16 then; Counted (unnamed) with Henry with "Above 21" in 1784, so at least 21 then.)
+# Mary Lip b. Abt 1765 (Based on Daniel's will's birth order and an assumption that she was older than normal marrying age in 1795)
+# Jacob Lip b. Abt 1766 (Shows 21 & above in 1787 list)
+# Elizabeth Lip b. Abt 1770
+
+[[Rothgeb-117.wikitext|Peter Rothgeb (abt.1739-1824)]] married Mary Lip 28 Dec 1795<ref>Marriage Bonds & Consents, 1793-1798, Library of Virginia County Records microfilm, Madison County, Reel 67</ref> (see note<ref>It is widely held that Mary Lip married Peter Roadcap ''Jr.'', b 1762 d 1839, but analysis of tax lists and deeds supports Peter Roadcap Jr. b. about 1797 and son of [[Rothgeb-117.wikitext|Peter Rothgeb]] and Mary Lip.</ref>).
 * Mary provided her own consent:  "This is to Certify That I am Willing to marry Peter Roadcap  Please to Issue Licence  Given under my Hand This 28th Day of December 1795"
 * The marriage bond does not provide her father's name.
 * Bond signed 28 Dec 1795 by Peter Roadcap (His Mark), and Daniel Good
