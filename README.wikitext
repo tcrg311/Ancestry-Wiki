@@ -10,7 +10,11 @@ Process:
 # Use reference documents to correct common misconceptions in Family Trees.
 # Any conclusions should follow the rule of "fewest assumptions".
 
-Current research:
+Current Rothgeb/Rodecap/Roadcap research:
 * [[Rothgeb/Rothgeb-117.wikitext|Peter Roadcap Sr]] b. 1739? d. 1824
 * [[Rothgeb/Lipp-177.wikitext|Mary Lip/Lipp]] m. Peter Roadcap Sr 28 Dec 1795
 * [[Rothgeb/Rothgeb-184.wikitext|Peter Roadcap Jr]] b. Abt 1797 d. 1869
+
+Current Koontz research:
+* [[Koontz/Koontz-229.wikitext|Peter Koontz Sr (abt.1738-1835)]]
+* [[Koontz/Koontz-1153.wikitext|Peter Koontz Jr (abt.1764-1844)]]
