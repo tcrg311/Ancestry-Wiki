@@ -6,4 +6,11 @@ Process:
 # Arrange a timeline of facts based on the documents.
 # Provide a biography with "just enough" narrative language to connect the documented facts.
 # Clearly identify any information that is an estimate or guess or "possibility", and explain the reasoning or calculation.
+# Clearly identify any information from a Family Tree that has no references.  Use such information only when the search for reference documents is exhausted,
+# Use reference documents to correct common misconceptions in Family Trees.
 # Any conclusions should follow the rule of "fewest assumptions".
+
+Current research:
+* [[Rothgeb/Rothgeb-117.wikitext|Peter Roadcap Sr]] b. 1739? d. 1824
+* [[Rothgeb/Lipp-177.wikitext|Mary Lip/Lipp]] m. Peter Roadcap Sr 28 Dec 1795
+* [[Rothgeb/Rothgeb-184.wikitext|Peter Roadcap Jr]] b. Abt 1797 d. 1869

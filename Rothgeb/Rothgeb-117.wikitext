@@ -1,13 +1,24 @@
 == Biography ==
 
+=== Vital Facts ===
 * Name:  Peter Rothgeb or Roadcap
+* Parents:  Hans Jacob Roadcap/Rothgeb and Elizabeth Rinderknecht
 * Spouse (1):  Hannah<ref>Deeds, Vols. E-F 1783-1788, Shenandoah County, Virginia, Vol F, p 306, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-233Y-W?i=404&cat=385833</ref>
 * Spouse (2):  [[Lipp-177.wikitext|Mary Lip]]<ref>"Virginia, Vital Records, 1715-1901", database, FamilySearch (https://familysearch.org/ark:/61903/3:1:3QSQ-G9XF-N2B3?cc=4149585 : 7 November 2023), > image 1 of 1., Madison County (Virginia). County Clerk</ref>, m. 28 Dec 1795
+* Residence: Shenandoah birth-1786; Rockingham 1787-death
 * Death:  1824<ref>Administration Bonds, Vol 2, 1819-1864, p 17, https://www.familysearch.org/ark:/61903/3:1:3QS7-99PH-C94P-8?i=1200&cat=362867.</ref>
 ** Probate:  4 Oct 1824<ref>Rockingham County Minute Book 11 (1824-1826), page 174, https://www.rockinghamcountyva.gov/DocumentCenter/View/1869/Minute-Book-11-1824-1826?bidId=</ref>: "The Last will and Testament of Peter Roadcap deceased was presented in court and proved by the oath of George Mauck and Christian Shoemaker 2 witnesses thereto and ordered to be recorded whereupon George & Christian Fulk the executors named in the said will and the execution therein named refused to qualify as executors which is ordered to be certified."
 ** Administrator:  "Samuel Cootes administrator with the will annexed of Peter Rodecap".  Deeds from Peter and Joseph also mention a will:
 *** In a 12 Mar 1831 Deed<ref>Book 10 Page 154, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-8QJ5-Z?i=440&cat=386882</ref> "Peter Roadcap" is selling his interest in the "plantation or Tract of land whereon his mother Mary Roadcap now lives in Brocks Gap", "the same land willed to same Peter Roadcap by his Father Peter Roadcap Deceased".  He also sells "interest he purchased of his Brother Joseph Roadcap in another tract of Land willed to sa[id] Joseph Roadcap by same Peter Roadcap dec'd".
 *** In a 19 Sep 1831 deed<ref>Burnt deed books, Vols. 9-10 1829-1832, Book 10 p 361, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-8QJK-6?cat=386882</ref>, Joseph "Redcap" is selling land "Containing one Hundred Acres belonging to the Estate [of] Peter Redcap Sr. Deceased and which land was willed by the Said Peter Redcap Sr. to his two Sons [ ] Said Joseph Redcap Jr. which will is of Record in the County office of the County Court of [Rock]ingham ..."
+
+=== Birth ===
+Generally considered to be born in 1739.
+* There is no document with Peter's birth year, and none with his age at any point in time, aside from being "above 45" in the 1810 and 1820 censuses.
+* 
+
+Hans Jacob's will 19 Dec 1752<ref>Rockingham County, Virginia, Will book V. 1 1745-1753, page 497, https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CZT?cat=279443</ref> begins his list of children with Peter, and mentions that Peter's brother, John George, was not "at age".  Because Hans Jacob had only been married 18 years, it is likely all of his children were under 21 when he died.
+
 
 === Children ===
 
@@ -89,6 +100,10 @@ Answer from John George Roadcap:
 * Appraisment was taken to Winchester and there recorded in the Court of Frederick County, in which county the land then laid.
 * Catharine "intermarried with a certain Henry Easinsey of Salisbury in the State of North Carolina"
 * Mother "intermarried with a certain George Hollowback [or Hollyback], and they agreed to sell her dower land to John George.
+
+== Research Notes ==
+[[https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CHZ?i=571&cat=279443|Hans Jacob's probate inventory]]
+[[]]
 
 == Sources ==
 <references />
