@@ -17,7 +17,7 @@ Generally considered to be born in 1739.
 
 If Peter is the younger brother and is not of age in 1761, as the guardian bond suggests, then his birth year could be several years later than what is generally considered to be true.
 
-===> Research Note:  
+'''===> Research Note:
 
 Published Brumbach family genealogy research<ref>Genealogy of the Brumbach families, Gaius Marcus Brumbach, Frederick H Hitchcock Genealogical Publisher, New York, 1913, p 273</ref> contains a narrative of Hans Jacob's arrival in America:
 
@@ -33,7 +33,7 @@ Adding the names to the Brumbach information, and interpreting the specific word
 
 Given the era, it would be surprising for a couple married in 1734 to avoid childbirth for so long.  A researcher must decide whether the Brumbach narrative can be trusted, because trusting it would significantly alter the perceived birth years of the children.  Considering that the age of orphans would be younger than 21, the children listed in the guardian bond (and certainly Peter) would have been born after 1740, and John George's absence from the list suggests that he is the eldest, and possibly born 1740.  It is possible that the timing of the guardian bond was prompted by John George reaching majority age.
 
-<===
+'''<===
 
 === Children ===
 
@@ -44,11 +44,11 @@ Hannah:
 * ? Jacob{{Citation needed}} b. 1781<ref>Peter's tithable count rises to 2 in 1798 and back to 1 in 1791 without a new Roadcap son appearing in the list.  This is possibly just a clerical error, or possibly a son who moved away before the 1799 enumeration.</ref>
 * Emanuel b. 15 Sep 1787<ref>Frieden's Lutheran and German Reformed Church (Rockingham County, Va.). Baptisms, 1789. Accession 27621, microfilm (Misc. reel 349). Church records collection, The Library of Virginia, Richmond, Va. 23219.</ref> and baptized 23 Aug 1789.
 
-===> Research Note:  
+'''===> Research Note:
 
 The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
 
-<===
+'''<===
 
 Mary:
 * Peter Jr. b. Abt. 1797{{Citation needed}}
@@ -57,11 +57,11 @@ Mary:
 
 The names Peter Jr and Joseph both intially appear in the tax list in 1824, even though Peter Sr's tithable count increased from 1 to 2 in 1813, and 2 to 3 in 1817.  In 1826 they appear together as "Peter & Jo", and in 1830 they appear in the land tax as "Peter Jr & Jos".  The order of the names is taken to show that Peter Jr is the older of the two, and their birth years are calculated as being 16 years before the corresponding increases in Peter Sr's tithable count.
 
-===> Research Note:  
+'''===> Research Note:
 
 The 1810 census<ref>Year: 1810; Census Place: Harrisonburg, Rockingham, Virginia; Roll: 67; Page: 144; Image: Vam252_67-0195; FHL Roll: 0181427</ref> shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
 
-<===
+'''<===
 
 === Residence in Shenandoah County, Virginia ===
 Land Transactions:
