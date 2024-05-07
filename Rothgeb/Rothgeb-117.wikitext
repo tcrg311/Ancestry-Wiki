@@ -57,7 +57,11 @@ Mary:
 
 The names Peter Jr and Joseph both intially appear in the tax list in 1824, even though Peter Sr's tithable count increased from 1 to 2 in 1813, and 2 to 3 in 1817.  In 1826 they appear together as "Peter & Jo", and in 1830 they appear in the land tax as "Peter Jr & Jos".  The order of the names is taken to show that Peter Jr is the older of the two, and their birth years are calculated as being 16 years before the corresponding increases in Peter Sr's tithable count.
 
-===> Research Note:  The 1810 census<ref>Year: 1810; Census Place: Harrisonburg, Rockingham, Virginia; Roll: 67; Page: 144; Image: Vam252_67-0195; FHL Roll: 0181427</ref> shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
+===> Research Note:  
+
+The 1810 census<ref>Year: 1810; Census Place: Harrisonburg, Rockingham, Virginia; Roll: 67; Page: 144; Image: Vam252_67-0195; FHL Roll: 0181427</ref> shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
+
+<===
 
 === Residence in Shenandoah County, Virginia ===
 Land Transactions:
@@ -132,7 +136,6 @@ Answer from John George Roadcap:
 
 == Research Notes ==
 [[https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CHZ?i=571&cat=279443|Hans Jacob's probate inventory]]
-[[]]
 
 == Sources ==
 <references />
