@@ -14,10 +14,31 @@
 
 === Birth ===
 Generally considered to be born in 1739.
-* There is no document with Peter's birth year, and none with his age at any point in time, aside from being "above 45" in the 1810 and 1820 censuses.
-* 
+* There is no document with Peter's birth year, and none with even a decade bracket at any point in time, aside from being "45 and above" in the 1810 and 1820 censuses.
+* Hans Jacob had only been married 18 years, so it is likely that Peter was under 18 when Hans Jacob died.
+* On 19 May 1761:  "Peter, Elizabeth, Hannah, Barbara, Catharine, Orphans of Jacob Rodcap, to be bound to Geo. Hollowback.  Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>
 
-Hans Jacob's will 19 Dec 1752<ref>Rockingham County, Virginia, Will book V. 1 1745-1753, page 497, https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CZT?cat=279443</ref> begins his list of children with Peter, and mentions that Peter's brother, John George, was not "at age".  Because Hans Jacob had only been married 18 years, it is likely all of his children were under 21 when he died.
+If Peter is the younger brother and is not of age in 1761, as the guardian bond suggests, then his birth year could be several years later than what is generally considered to be true.
+
+===> Research Note:  
+
+Published Brumbach family genealogy research<ref>Genealogy of the Brumbach families, Gaius Marcus Brumbach, Frederick H Hitchcock Genealogical Publisher, New York, 1913, p 273</ref> contains a narrative of Hans Jacob's arrival in America:
+
+:According to tradition among some of his Virginia descendants, he and a young woman, his fellow passenger across the Atlantic, served ''Joseph Strickler'' for seven years.
+
+The researcher further explains that the laws about this kind of indenture varied, and the term could have been shorter.  While unable to identify the "young woman", the narrative continues:
+
+:After their service to Strickler ended they married and had one son, ''George''.  After the death of this wife Jacob Roadcap married a widow ''Good'' (first name unknown), and had by her one child, ''Peter''.  
+
+Another account of the trip across the Atlantic<ref>A history of the Goshenhoppen Reformed charge, Montgomery County, Pennsylvania (1727-1819), William John Hinke, Lancaster [Press of the New era printing company], 1920, p 101, https://archive.org/details/historyofgoshen00hink/page/100/mode/2up</ref>
+
+:The journey of the colonists from Zurich to Basle down the Rhine is told at length in a pamphlet which Ludwig Weber, one of the emigrants, who returned to Zurich from Holland, wrote and published at Zurich in 1735 as a warning to later venturesome spirits<ref>The title page of this pamphlet reads: ''Der Hinckende Bott von Carolina Oder Ludivig Webers von Walliselen Beschreibung seiner Reitse von Zurich gen Rotterdam, mit derjenigen Gesellschaft welch neulich aus dem Schweizerland nach Carolinam zu Ziehen gedachte'', Zurich, MDCCXXXV, pp. 32. Only known copy in the city library at Zurich</ref>
+
+This account lists "Jacob Rathgeb and Barbara Haller" among the four couples who were married by a Reformed minister in Neuwied in October 1734.  They arrived in Philadelphia 29 May 1735.
+
+In this era, it would be surprising for a couple married in 1734 to avoid childbirth for so long.  A research must decide whether the Brumbach narrative can be trusted, and trusting it would significantly alter the perceived birth years of their children.
+
+<===
 
 
 === Children ===
@@ -29,14 +50,20 @@ Hannah:
 * ? Jacob{{Citation needed}} b. 1781<ref>Peter's tithable count rises to 2 in 1798 and back to 1 in 1791 without a new Roadcap son appearing in the list.  This is possibly just a clerical error, or possibly a son who moved away before the 1799 enumeration.</ref>
 * Emanuel b. 15 Sep 1787<ref>Frieden's Lutheran and German Reformed Church (Rockingham County, Va.). Baptisms, 1789. Accession 27621, microfilm (Misc. reel 349). Church records collection, The Library of Virginia, Richmond, Va. 23219.</ref> and baptized 23 Aug 1789.
 
-===> Research Note:  The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
+===> Research Note:  
+
+The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
+
+<===
 
 Mary:
-* Peter Jr.{{Citation needed}} b. Abt. 1797{{Citation needed}}
+* Peter Jr. b. Abt. 1797{{Citation needed}}
 * Ann b. Bef. 1798 m. Isaac Rudy 3 Oct 1840<ref>Rockingham County, Virginia - Self Service SRA, marriage document 1820-00071, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2745207?search=DOCSEARCH133S8</ref>.  Bond shows Ann is daughter of Peter Roadcap Sr.  (William Herron's "Sr" can look like "Jr", but inspection of his list of tithables in the 1820 personal property tax list confirms that Ann's father is "Sr" and not "Jr".)
-* Joseph{{Citation needed}} b. Abt. 1801{{Citation needed}}
+* Joseph b. Abt. 1801{{Citation needed}}
 
-===> Research Note:  The 1810 census{{Citation needed}} shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
+The names Peter Jr and Joseph both intially appear in the tax list in 1824, even though Peter Sr's tithable count increased from 1 to 2 in 1813, and 2 to 3 in 1817.  In 1826 they appear together as "Peter & Jo", and in 1830 they appear in the land tax as "Peter Jr & Jos".  The order of the names is taken to show that Peter Jr is the older of the two, and their birth years are calculated as being 16 years before the corresponding increases in Peter Sr's tithable count.
+
+===> Research Note:  The 1810 census<ref>Year: 1810; Census Place: Harrisonburg, Rockingham, Virginia; Roll: 67; Page: 144; Image: Vam252_67-0195; FHL Roll: 0181427</ref> shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
 
 === Residence in Shenandoah County, Virginia ===
 Land Transactions:
@@ -72,7 +99,7 @@ In a deed 9 Mar 1798<ref>Rockingham Deed book 00, page 261, https://www.familyse
 Peter Roadcap Sr is listed continuously in the Rockingham Personal Property Tax<ref>Personal property tax lists of Rockingham County, 1782-1863, Virginia. Commissioner of the Revenue (Rockingham County), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1955</ref> from 1788 through 1824.
 
 After Peter's death, his sons Peter and Joseph sold the land they inherited.
-* Feb 1831 Deed from "Peter Roadcap" to William W. Pollack, Book 10 Page 154<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-8QJ5-Z?i=440&cat=386882</ref>. In this deed, Peter Jr. is selling his interest in the "plantation or Tract of land whereon his mother Mary Roadcap now lives in Brocks Gap", "the same land willed to same Peter Roadcap by his Father Peter Roadcap Deceased".  He also sells "interest he purchased of his Brother Joseph Roadcap in another tract of Land willed to sa[id] Joseph Roadcap by same Peter Roadcap dec'd".
+* Feb 1831 Deed from "Peter Roadcap" to William W. Pollack, Book 10 Page 154<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-8QJ5-Z?i=440&cat=386882</ref>. In this deed, Peter Jr. is selling his interest in Because of thisthe "plantation or Tract of land whereon his mother Mary Roadcap now lives in Brocks Gap", "the same land willed to same Peter Roadcap by his Father Peter Roadcap Deceased".  He also sells "interest he purchased of his Brother Joseph Roadcap in another tract of Land willed to sa[id] Joseph Roadcap by same Peter Roadcap dec'd".
 * 1838 Deed from "Peter Roadcap" to Jacob R. Roadcap, Book 13 Page 193<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-B8J3?i=130&cat=386882</ref>, selling "one hundred acres more or less in Brocks Gap", which "was granted to George Kilmer by patent [in] 1794".
 
 === 1803 Chancery Case:  Lyon vs. Roadcap ===
