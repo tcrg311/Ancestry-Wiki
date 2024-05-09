@@ -18,7 +18,7 @@ A later birth year is possible because of a 19 May 1762 guardian bond.
 ** Peter and all of Hans Jacob's daughters would not be of age in 1762, and their birth years would be 1742 or later.  
 ** John George is 21 or older in 1742, and his birth year would be 1741 or earlier.
 
-[[#research-note-1|See Research Note #1]]
+[[#migration-research-notes|See Research Note #1]]
 
 === Children ===
 
@@ -29,24 +29,17 @@ Hannah:
 * ? Jacob{{Citation needed}} b. 1781<ref>Peter's tithable count rises to 2 in 1798 and back to 1 in 1791 without a new Roadcap son appearing in the list.  This is possibly just a clerical error, or possibly a son who moved away before the 1799 enumeration.</ref>
 * Emanuel b. 15 Sep 1787<ref>Frieden's Lutheran and German Reformed Church (Rockingham County, Va.). Baptisms, 1789. Accession 27621, microfilm (Misc. reel 349). Church records collection, The Library of Virginia, Richmond, Va. 23219.</ref> and baptized 23 Aug 1789.
 
-'''===> Research Note:
+[[#census-notes|See census notes below]]
 
-The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
-
-'''<===
 
 Mary:
 * Peter Jr. b. Abt. 1797{{Citation needed}}
 * Ann b. Bef. 1798 m. Isaac Rudy 3 Oct 1840<ref>Rockingham County, Virginia - Self Service SRA, marriage document 1820-00071, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2745207?search=DOCSEARCH133S8</ref>.  Bond shows Ann is daughter of Peter Roadcap Sr.  (William Herron's "Sr" can look like "Jr", but inspection of his list of tithables in the 1820 personal property tax list confirms that Ann's father is "Sr" and not "Jr".)
 * Joseph b. Abt. 1801{{Citation needed}}
 
-The names Peter Jr and Joseph both intially appear in the tax list in 1824, even though Peter Sr's tithable count increased from 1 to 2 in 1813, and 2 to 3 in 1817.  In 1826 they appear together as "Peter & Jo", and in 1830 they appear in the land tax as "Peter Jr & Jos".  The order of the names is taken to show that Peter Jr is the older of the two, and their birth years are calculated as being 16 years before the corresponding increases in Peter Sr's tithable count.
-
-'''===> Research Note:
+[[#census-notes|See census notes below]]
 
 The 1810 census<ref>Year: 1810; Census Place: Harrisonburg, Rockingham, Virginia; Roll: 67; Page: 144; Image: Vam252_67-0195; FHL Roll: 0181427</ref> shows 1 male under 10, and 2 males 10-15.  It is possible that there is a son missing from the children by Mary, either because of migration or an early death. It is also possible that there is a clerical error, or that a relative's son was living with the family to help on the farm.
-
-'''<===
 
 === Residence in Shenandoah County, Virginia ===
 Land Transactions:
@@ -124,7 +117,7 @@ Answer from John George Roadcap:
 == Research Notes ==
 [[https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CHZ?i=571&cat=279443|Hans Jacob's probate inventory]]
 
-=== Research Note #1 ===
+=== Migration Research Notes ===
 Brumbach family genealogy<ref>Genealogy of the Brumbach families, Gaius Marcus Brumbach, Frederick H Hitchcock Genealogical Publisher, New York, 1913, p 273</ref> describes Hans Jacob's arrival in America and family as follows:
 
 :According to tradition among some of his Virginia descendants, he and a young woman, his fellow passenger across the Atlantic, served ''Joseph Strickler'' for seven years.
@@ -148,6 +141,11 @@ On the other hand, Wayland<ref>A History of Shenandoah County Virginia, John W. 
 :There is a Roadcap genealogy in the large "Genealogy of the Brumbach Families".  There are some errors in this Roadcap or Rothgeb record, which are reprinted in Stricklers "Forerunners".  The stirps, John Jacob Rothgeb, died about 1752, owner of 400 acres in the Page area, was not a redemptioner.  
 
 While Brumbach cites a "tradition among some of his Virginia descendants" as the source of his information.  Wayland does not provide a source for his, but it is confirmed in Henke's account, showing the Swiss emigrants had paid for their passage to Philadelphia, so would not be called Redemptioners (a colonial emigrant from Europe to America who paid for the voyage by serving for a specified period as a bondservant).  Nevertheless, the account of their saga includes the need to replenish funds along the way, and it is unlikely that any of them arrived in Phildelphia with a surplus of cash to buy land or the means to begin a trade.
+
+=== Census Notes ===
+The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
+
+The names Peter Jr and Joseph both intially appear in the tax list in 1824, even though Peter Sr's tithable count increased from 1 to 2 in 1813, and 2 to 3 in 1817.  In 1826 they appear together as "Peter & Jo", and in 1830 they appear in the land tax as "Peter Jr & Jos".  The order of the names is taken to show that Peter Jr is the older of the two, and their birth years are calculated as being 16 years before the corresponding increases in Peter Sr's tithable count.
 
 == Sources ==
 <references />
