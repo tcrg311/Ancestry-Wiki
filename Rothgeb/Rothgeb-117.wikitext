@@ -145,9 +145,22 @@ In this analysis, because Peter and John George did not sell their inherited lan
 
 On the other hand, Wayland<ref>A History of Shenandoah County Virginia, John W. Wayland, Shenandoah Publishing House, Strasburg, Virginia, 1927, page 636</ref> states:
 
-:There is a Roadcap genealogy in the large "Genealogy of the Brumbach Families".  There are some errors in this Roadcap or Rothgeb record, which are reprinted in Stricklers "Forerunners".  The stirps, John Jacob Rothgeb, died about 1752, owner of 400 acres in the Page area, was not a redemptioner.  
+:There is a Roadcap genealogy in the large "Genealogy of the Brumbach Families".  There are some errors in this Roadcap or Rothgeb record, which are reprinted in Stricklers "Forerunners".  The stirps, John Jacob Rothgeb, died about 1752, owner of 400 acres in the Page area, was not a redemptioner.
 
-While Brumbach cites a "tradition among some of his Virginia descendants" as the source of his information.  Wayland does not provide a source for his, but it is confirmed in Henke's account, showing the Swiss emigrants had paid for their passage to Philadelphia, so would not be called Redemptioners (a colonial emigrant from Europe to America who paid for the voyage by serving for a specified period as a bondservant).  Nevertheless, the account of their saga includes the need to replenish funds along the way, and it is unlikely that any of them arrived in Phildelphia with a surplus of cash to buy land or the means to begin a trade.
+Henke cites a pamphlet describing the migration written by Ludwig Weber, who reports "88 as taking ship to England", and the rest
+
+:The rest, 143 persons, signed their names for passage to Philadelphia.  They agreed with the owner of a ship [Schiffpatron] to pay six doubloons for an adult and three for a child. If any of them should die, the survivors pledged themselves to pay their passage money.
+
+This list does not include Jacob and Barbara, and Henke continues...
+
+:This company with some others who evidently joined them after Ludwig Weber had started on his return journey to Switzerland, and whose names he could not therefore record, reached Philadelphia on May 29, 1735, in the ship Mercury, William Wilson, master. It carried in all 186 passengers, 61 men, 51 women, 37 boys and 34
+girls.
+
+It is difficult to assess the Redemptioner status from this contemporary narrative because it is not know how the "143 persons" paid for their passage, and it is not know how "some others who evidently joined them" managed paying for their passage.
+
+As a result, it is undetermined whether Jacob was truly a Redemptioner (a colonial emigrant from Europe to America who paid for the voyage by serving for a specified period as a bondservant) or not.  It would help to know why Wayland thought Jacob was not a Redemptioner.
+
+There may have been other reasons for a period of indenture, such as lack of money or the promise of land.  Adopting the view that Jacob and Barbara married in 1734 but did not have children until 1741 requires accounting for the gap.  Because of the family story that they were indentured, and because the duration of the gap falls within a typical timeframe of indenture, we assume that the family story is true.
 
 === Census Notes ===
 The 1783 and 1785 Virginia censuses (see below) show "6 White Souls". The list above satisfies this tally, but "Mary" and "Jacob" have not been confirmed in contemporary documents. 
