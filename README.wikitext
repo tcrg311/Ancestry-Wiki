@@ -11,6 +11,7 @@ Process:
 # Any conclusions should follow the rule of "fewest assumptions".
 
 Current Rothgeb/Rodecap/Roadcap research:
+* [[Rothgeb/Radtgab-6.wikitext|Hans Jacob Radtgab]] b. 1708 d. 1753
 * [[Rothgeb/Rothgeb-117.wikitext|Peter Roadcap Sr]] b. 1739? d. 1824
 * [[Rothgeb/Lipp-177.wikitext|Mary Lip/Lipp]] m. Peter Roadcap Sr 28 Dec 1795
 * [[Rothgeb/Rothgeb-184.wikitext|Peter Roadcap Jr]] b. Abt 1797 d. 1869
