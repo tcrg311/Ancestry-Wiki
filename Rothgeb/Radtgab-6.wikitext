@@ -13,6 +13,20 @@
 
 In ''A history of the Goshenhoppen Reformed charge''<ref>A history of the Goshenhoppen Reformed charge, Montgomery County, Pennsylvania (1727-1819), William John Hinke, Lancaster [Press of the New era printing company], 1920, https://archive.org/details/historyofgoshen00hink, pp. 97ff</ref>  John Henke describes the departure from Zurich, based on an 7 Oct 1734 article in ''Nachrichten von Zurich'', a local newspaper.  The article tells of three boats that left Zurich for "the so called Carolina island".
 
+Carolina contained two successful colonies of Swiss emigrants<ref>Lists of Swiss emigrants in the eighteenth century to the American colonies, Albert Bernhardt Faust, v.1, Zurich, 1734-1744, from the Archives of Switzerland, National Genealogical Society, Gaius M. Brumbaugh, Managing Editor, Washington D. C., 1920, p. 1</ref>.
+
+:The central authorities, in the year 1744, sent a circular letter to all the districts of Zürich, which in turn sent the message to all the parishes, demanding to know the names, with dates of birth, departure etc. , of every man, woman and child who had left the country between 1734 and 1744 with the purpose of going to Pennsylvania or Carolina. The persons who executed the order were the local preachers , whose signatures appear in the manuscript attesting the accuracy of their reports. Each report is numbered, and there are as many as ninetyeight numbers or reports in the manuscript<ref>Faust, op cit, p v</ref>.
+
+The list from Wallissellen<ref>Faust, op cit, p 92-93</ref> ("No. 88. LIST OF PERSONS FROM THE PARISH WALLISSELLEN, WHO SINCE THE YEAR 1734 LEFT FOR CAROLINA") contains some names pertinent to Hans Jacob Rathgeb:
+* Anna Näff, baptized 23 Jun 1715, daughter of Konrad Näff and Ana Barb. Däppeler
+* Anna Näff, baptized 28 Jul 1720, daughter of Jacob Näff and Lisabeth Kuhn
+* Jacob Näff, "above Conrad Näff's son", baptized 1 Dec 1710, and wife Elsbeth Haller, baptized 24 May 1711
+* Barbara Haller ["unmarried"], daugher of Hans Geörg, baptized 7 Oct 1708
+* Hans Jacob Rathgeb, "son of Jacob deceased", baptized 29 Jul 1708.
+
+The list from Wangen<ref>Faust, op cit, p 96</ref> ("No. 92. FROM WANGEN THERE WENT TO CAROLINA THE FOLLOWING TWO Boys") includes:
+* Caspar Gut, "baptized November 14, 1713. Went there after the death of both his parents, anno 1734."
+
 The first departure was led by Maurice Goetschy, with his wife and children, and a "considerable number of country people, old and young".
 
 :Shortly afterwards another boat followed him with like, we must say, silly people, making a total of 174 persons for that day.  Many thousands saw them depart with great pity for them, especially because they were undertaking so thoughtlessly, with wife and child, and but poorly provided for, the dangerous journey of 300 hours in cold, rain and wind, now, when the days are getting shorter.  Nevertheless, kindhearted and distinguished persons supplied them
@@ -31,6 +45,9 @@ difficulties, they finally reached Rotterdam eight days after the main party."
 :# Conrad Geweiller, a gardener.
 
 Ultimately, Maurice Goetschy "received...assurance of his appointment as minister to Pennsylvania, he returned to Rotterdam and acquainted his party of emigrants with his changed plans.  Most of them readily accepted his proposal to change their destination from Carolina to Pennsylvania."
+
+Meanwhile,
+:Zürich ...issu[ed] a decree, November 3 , 1734, forbidding her people to travel to Carolina, preventing the sale of property by those wishing to emigrate, proclaiming punishment of agents enticing people to emigrate or distributing seductive literature. This was followed after a few months by the decree of January 29, 1735 , which repeated the previous commands, and added sterner measures, deprivation of citizenship and land- rights forever, punishment also of the purchasers of property sold by emigrants, close watch over and severe punishment of persons enticing others to leave. The decrees were read from all the pulpits in town and country, they were posted in public places, yet Zürich, as the records show, found it necessary to let large numbers depart.<ref></ref>
 
 In ''Brumbach family genealogy''<ref>Genealogy of the Brumbach families, Gaius Marcus Brumbach, Frederick H Hitchcock Genealogical Publisher, New York, 1913, p 273</ref>, Gaius Marcus Brumbach identifies Jacob as a "Redemptioner", a colonial emigrant from Europe to America who paid for the voyage by serving for a specified period as a bondservant.
 
@@ -60,6 +77,11 @@ Adopting the view that Jacob and Barbara married in 1734 but did not have childr
 <u>(2) Anna Naef m. ~1750?</u>
 
 In his 1752 will, Jacob names is "dear wife" Anna.  Anna is said to be the widow of Caspar Guth/Good.  After Jacob's death (and before his probate) Anna married George Hollonbeck, named as guardian in the 1762 bond.
+
+A court order for a guardian bond for Casper Good's two children<ref>Augusta County, Virginia, Order Book No. 3, 1749-1753, Film # 007893723 [Image 724 of 756], https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4H-HQZ6-L?i=723&cat=275633</ref>, who chose their guardian, occurred on the same day Jacob's will was presented in court.
+
+:'''A court held for Augusta County May the 16, 1753'''
+:Connard [sic] Cood and Jacob Cood Orphans of Casper Cood, dec'd chose Paul Long their Guardian whereupon the s'd Long with John Dellard his security entered into and acknowledged their Bond in the Penalty of Fifty Pounds for securing the said Orphans Estate and Indemnifying the Court.
 
 === Children ===
 
