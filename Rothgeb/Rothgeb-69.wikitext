@@ -11,6 +11,11 @@
 * Death:  1823 ([[#death|See below]])
 
 === Birth ===
+Jacob's will 19 Dec 1752<ref>Augusta County, Will books, v. 1 1745-1753, film 30314, Will Book 1, page 497</ref> makes account for a time when John George would be "at age", and no similar account is made for the other children, particularly Peter, who was to inherit half the land.  Possibly because of this, it is often assumed only John George had not attained majority by the time Jacob died.
+
+However, on 19 May 1762:  "Ord. Church Wardens bind Peter Road Cap, Eliz, Hanah, Barbara, & Cath Roadcap orphans of Jacob Rodcap to Geo. Hollowback."<ref>Augusta County Minute Book, 1762, page 31, Court session 19 May 1762, Library of Virginia, Augusta County microfilm, Reel 62D</ref>.  Chalkley adds "Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>.
+
+John George is missing from the list of orphans being bonded, making it possible to assume that he had attained majority, while his siblings had not, and that John George is Jacob's oldest son and oldest child.  On the basis of the information in the guardian bond (i.e. at least 21 in 1762), John George's birth year is estimated at 1741.
 
 === Marriage ===
 
@@ -45,6 +50,11 @@ With Mary Greybill or Barbara Bear:
 
 === Residence in Shenandoah ===
 
+Census:
+* 1783<ref>List of inhabitants (Virginia), 1782 - 1785, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKJ-3SYW-J?cat=386611</ref> George Roodcap | 14 white Souls
+* 1785<ref>List of inhabitants (Virginia), 1782 - 1785, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKJ-3SY3-X?i=691&cat=386611</ref> George Roadcap | 13 white souls | 1 dwelling house | 2 out house
+* 1810<ref>Year: 1810; Census Place: Shenandoah, Virginia; Roll: 71; Page: 16; Image: Vam252_71-0032; FHL Roll: 0181431</ref> George Roadcap Sen.| 1 male 10-15 | 1 male 16-25 | 1 male 26-44 | 1 male 45+ | 1 female 10-15 | 2 females 16-25 | 1 female 45+
+
 Land transactions:
 * 1777 Casper Good to George Rothcap Book C p 537:  "Casper Good and Catharina his wife of the County of Shanadoah & Colony of Virginia of the one part and George Rothcap of the County and Colony aforesaid...land containing thirty acres more or less ... formerly granted to Jacob Rothcap by deed...".  (Peter Roadcap had sold this 30 acres to Casper Good in 1774.)
 * 25 Sep 1786 George Roadcap to Daniel Heite Book F p 213, "between George Roadcap and Barbara his wife... and Daniel Hite... a small Tract of Thirty acres which the said George Roadcap purchased of one Casper Good which was part of a larger Trace of four hundred acres which was formerly Granted to Jacob Roadcap by Deed from the proprietors office bearing the date the Fifteenth day of September an'o Dom' 1749..."
@@ -59,11 +69,10 @@ Land transactions:
 ** p 386:  "Between George Gander and Anna his wife...of the one part and George Roadcap ...of the other part.  ...a certain tract piece or parcel of land lying and being in the County aforesaid [Shenandoah] on the South river of Shenandoah being a part of the tract whereon the said Gander now lives, which was granted to him by the Heirs of Christian Hershberg dec'd by their certain deed of Bargain an sale bearing date the second day of October one thousand eight hundred and _________ containing _____ acres, ... containing one hundred and seven acres
 ** p 388: (Anna Gander could not "conveniently" come to court, so magistrates needed to be authorized to get her approval of the sale.)
 
-
 === Death ===
 George Roadcap is listed in the Shenandoah County Property Tax list until 1823<ref>Shenandoah, 1823, Jos. Strickler's property tax list, p 20, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29D8-M?i=319&cat=695422</ref>, and his 1817 will was not proved until 11 Nov 1823.
 
-[[https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PF-H7P1?i=141&cat=366558|Jacob Rotecap's 1817 will, proved 11 Nov 1823]]
+[[https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PF-H7P1?i=141&cat=366558 |Jacob Rotecap's 1817 will, proved 11 Nov 1823]]
 
 == Sources ==
 <references />
