@@ -1,14 +1,14 @@
 == Biography ==
 
 === Vital Facts ===
-* Name:  John George Rothgeb (Raodcap)
+* Name:  John George Rothgeb (Roadcap)
 * Birth: Abt. 1741
 * Parents:  Hans Jacob Roadcap/Rothgeb and Barbara Haller
 * Spouse (1):  Magdalena Beidler
 * Spouse (2):  Mary Greybill (died giving birth to twins George and Christian)
-* Spouse (3):  Barbara Bear
+* Spouse (3):  Barbara Bear d. Abt 1828<ref>Page County Will book, v. A, 1831-1838, p 309, https://www.familysearch.org/ark:/61903/3:1:3QS7-89P4-FLKN?i=189&cat=377952</ref>
 * Residence: 
-* Death:  1823
+* Death:  1823 ([[#death|See below]])
 
 === Birth ===
 
@@ -20,7 +20,7 @@ With Magdalena Beidler:
 * Isaac b. ?; m. Ann Bear daughter of Blasius Bear<ref>Shenandoah County, Deed Book H p 500</ref>
 * Abraham
 * Jacob
-* Elizabeth
+* Elizabeth b. 28 Oct 1766<ref>Genealogy of the Brumbach families, Gaius Marcus Brumbach, Frederick H Hitchcock Genealogical Publisher, New York, 1913, p 274, quoting her husband</ref>; m. John Brumbach 27 Mar 1787<ref>ibid, p. 274</ref>
 
 With Mary Greybill:
 * David
@@ -61,6 +61,9 @@ Land transactions:
 
 
 === Death ===
+George Roadcap is listed in the Shenandoah County Property Tax list until 1823<ref>Shenandoah, 1823, Jos. Strickler's property tax list, p 20, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29D8-M?i=319&cat=695422</ref>, and his 1817 will was not proved until 11 Nov 1823.
+
+[[https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PF-H7P1?i=141&cat=366558|Jacob Rotecap's 1817 will, proved 11 Nov 1823]]
 
 == Sources ==
 <references />
