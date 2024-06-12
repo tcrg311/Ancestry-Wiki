@@ -22,17 +22,10 @@ With Barbara Waller:
 With Anna Naef:
 * [[Rothgeb-117.wikitext|Peter]] b. Abt 1751; m. Hannah (Good?) Bef. 24 May 1774<ref>Deed Book A Page 494, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VS4K-Y?i=279&cat=385833</ref>, m. [[Lipp-177.wikitext|Mary Lip]] 28 Dec 1795<ref>"Virginia, Vital Records, 1715-1901", database, FamilySearch (https://familysearch.org/ark:/61903/3:1:3QSQ-G9XF-N2B3?cc=4149585 : 7 November 2023), > image 1 of 1., Madison County (Virginia). County Clerk</ref>.
 
-There is no historic document that supplies birth years for Jacob's children, but his will and a 1762 bond suggest that they were all younger than 12 when he died in 1753.
+Except for John George's birth year, these birth years differ from other genealogies<ref>History of the Rothgeb & Raodcap Families in the United States, Robert Elton Roadcap, 1994, p 3</ref>.  See [[birth-years-of-children|Birth Years of Children]] for analysis of Jacob Rothgeb's will and a 1762 guardian bond, in support of these estimations.
 
-Jacob Rothgab's will makes account for a time when John George would be "at age", and no similar account is made for the other children, particularly Peter, who was to inherit half the land.  Possibly because of this, it is often assumed only John George had not attained majority by the time Jacob died.
-
-However, on 19 May 1762:  "Ord. Church Wardens bind Peter Road Cap, Eliz, Hanah, Barbara, & Cath Roadcap orphans of Jacob Rodcap to Geo. Hollowback."<ref>Augusta County Minute Book, 1762, page 31, Court session 19 May 1762, Library of Virginia, Augusta County microfilm, Reel 62D</ref>.  Chalkley adds "Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>.
-
-John George is missing from the list of orphans being bonded, making it possible to assume that he had attained majority, while his siblings had not, and that John George is Jacob's oldest son and oldest child.  On the basis of the information in the guardian bond, John George's birth year is estimated at 1741.
-
-Regarding Peter, the land identified in Jacob's will was not divided between John George and Peter until 1772<ref>Deed Book A Page 76, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VSC6-1?i=47&cat=385833</ref>.  In this deed, John George is grantor and Peter is grantee.  Later in the same year, there is a 1772 deed to Gasper Good<ref>Deed Book A Page 494, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VS4K-Y?i=279&cat=385833</ref>, from "Peter Roadcap and Hannah his wife of the County of Dunmon and colony of Virginia":  "containing 30 acres more or less being part of a larger Tract formerly granted to Jacob Roadcap by deed from Proprietors H[???] bearing date the 15th day of September one thousand seven hundred and forty nine which said land is situate on Mill run in the said County..."  Because the execution of the division of land required by the will did not occur until 1772, it can be assumed that Peter had not attained majority until 1772, and so was not legally able to own land until then.  On the basis of these deeds, Peter's birth year is estimated at 1751.
-
-Taking the Brumbach information above, identifying the names of Hans Jacob's wives, and parsing the specific words used, the "one son" phrasing would place John George and all of Hans Jacob's daughters with Barbara Haller, and Peter ("one child") would have been the only child with Anna (Naef) Good.
+=== Residence in Augusta County ===
+Jacob Roadcap received a Land Grant from Lord Fairfax<ref>Northern Neck grants, 1690-1862, Grants no. G 1747-1751, page 322, Film 29513, image 373, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-FS8G-S?i=372&cat=414338</ref>
 
 === Death ===
 [[https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CZT?i=567&cat=279443|Hans Jacob's Will 19 Dec 1752 | Administrator Bond 16 May 1753]]
@@ -122,6 +115,19 @@ Anna Naef m. ~1750?
 :Connard [sic] Cood and Jacob Cood Orphans of Casper Cood, dec'd chose Paul Long their Guardian whereupon the s'd Long with John Dellard his security entered into and acknowledged their Bond in the Penalty of Fifty Pounds for securing the said Orphans Estate and Indemnifying the Court.
 
 After Jacob's death (and before his probate) Anna married George Hollonbeck, who was named as guardian of Jacob's orphans in the 1762 bond.
+
+=== Birth Years of Children ===
+There is no historic document that supplies birth years for Jacob's children, but his will and a 1762 bond suggest that they were all younger than 12 when he died in 1753.
+
+Jacob Rothgab's will makes account for a time when John George would be "at age", and no similar account is made for the other children, particularly Peter, who was to inherit half the land.  Possibly because of this, it is often assumed only John George had not attained majority by the time Jacob died.
+
+However, on 19 May 1762:  "Ord. Church Wardens bind Peter Road Cap, Eliz, Hanah, Barbara, & Cath Roadcap orphans of Jacob Rodcap to Geo. Hollowback."<ref>Augusta County Minute Book, 1762, page 31, Court session 19 May 1762, Library of Virginia, Augusta County microfilm, Reel 62D</ref>.  Chalkley adds "Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>.
+
+John George is missing from the list of orphans being bonded, making it possible to assume that he had attained majority, while his siblings had not, and that John George is Jacob's oldest son and oldest child.  On the basis of the information in the guardian bond, John George's birth year is estimated at 1741.
+
+Regarding Peter, the land identified in Jacob's will was not divided between John George and Peter until 1772<ref>Deed Book A Page 76, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VSC6-1?i=47&cat=385833</ref>.  In this deed, John George is grantor and Peter is grantee.  Later in the same year, there is a 1772 deed to Gasper Good<ref>Deed Book A Page 494, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VS4K-Y?i=279&cat=385833</ref>, from "Peter Roadcap and Hannah his wife of the County of Dunmon and colony of Virginia":  "containing 30 acres more or less being part of a larger Tract formerly granted to Jacob Roadcap by deed from Proprietors H[???] bearing date the 15th day of September one thousand seven hundred and forty nine which said land is situate on Mill run in the said County..."  Because the execution of the division of land required by the will did not occur until 1772, it can be assumed that Peter had not attained majority until 1772, and so was not legally able to own land until then.  On the basis of these deeds, Peter's birth year is estimated at 1751.
+
+Taking the Brumbach information above, identifying the names of Hans Jacob's wives, and parsing the specific words used, the "one son" phrasing would place John George and all of Hans Jacob's daughters with Barbara Haller, and Peter ("one child") would have been the only child with Anna (Naef) Good.
 
 === TBD ===
 Occurrences of "Henry Easensey" in geographic and historic proximity:
