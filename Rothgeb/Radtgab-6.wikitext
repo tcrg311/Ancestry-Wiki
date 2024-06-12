@@ -25,7 +25,7 @@ With Anna Naef:
 Except for John George's birth year, these birth years differ from other genealogies<ref>History of the Rothgeb & Roadcap Families in the United States, Robert Elton Roadcap, 1994, p 3</ref>.  See [[#birth-years-of-children|Birth Years of Children]] for analysis of Jacob Rothgeb's will and a 1762 guardian bond, in support of these estimations.
 
 === Residence in Augusta County ===
-Jacob Roadcap received a Land Grant from Lord Fairfax<ref>Northern Neck grants, 1690-1862, Grants no. G 1747-1751, page 322, Film 29513, image 373, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-FS8G-S?i=372&cat=414338</ref>
+Jacob Roadcap received a Land Grant from Lord Fairfax 15 Sep 1749<ref>Northern Neck grants, 1690-1862, Grants no. G 1747-1751, page 322, Film 29513, image 373, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYD-FS8G-S?i=372&cat=414338</ref>
 
 (''See [[land-grant-notes|Land Grant Notes]]'')
 
@@ -35,6 +35,47 @@ Jacob Roadcap received a Land Grant from Lord Fairfax<ref>Northern Neck grants, 
 [[https://www.familysearch.org/ark:/61903/3:1:3QS7-99P7-3CHZ?i=571&cat=279443|Hans Jacob's probate inventory 25 Aug 1753]]
 
 == Research Notes ==
+
+=== Marriage to Barbara Haller ===
+Barbara Haller m. 1734 (Neuwied, Germany) and m. Abt. 1740 (Virginia)
+
+As noted in the migration section, Jacob married Barbara Haller at Neuwied in 1734, on their way from Zurich to Philadelphia.  Considering the piety of the travelers, it is possible that this was needed to allow single men and women to travel together.  After arriving in Philadelphia, the terms of an indenture would normally include a prohibition of matrimony.  After the term of indenture expired, they may have needed to marry again in Virginia for social and/or legal reasons.
+
+In ''Brumbach family genealogy''<ref>Brumbach, p 273</ref>, Gaius Marcus Brumbach describes Hans Jacob's arrival in America and family as follows:
+
+:According to tradition among some of his Virginia descendants, he and a young woman, his fellow passenger across the Atlantic, served ''Joseph Strickler'' for seven years.
+
+Brumbach cites several laws about indenture, and notes difference in the duration of the term among them, so the term could have been shorter, but because the duration of the gap falls within a typical timeframe of indenture,  the family story that they were indentured may certainly be true.  Accepting Wayland's statement that Jacob was not a "Redemptioner", it is possible that the indenture was for land.
+
+While unable to identify the "young woman", Brumbach continues:
+
+:After their service to Strickler ended they married and had one son, ''George''.  After the death of this wife Jacob Roadcap married a widow ''Good'' (first name unknown), and had by her one child, ''Peter''.<ref>Brumbach does not provide any references for this information.</ref>
+
+=== Marriage to Anna Naef ===
+Anna Naef m. ~1750?
+
+"[M]y dear wife Anna" is named in Jacob's 1752 will.  Anna is said to be the widow of Caspar Guth/Good, and it is notable that, on the same day Jacob's will was presented in court, there was a court order for a guardian bond for Casper Good's two children<ref>Augusta County, Virginia, Order Book No. 3, 1749-1753, Film # 007893723 [Image 724 of 756], https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4H-HQZ6-L?i=723&cat=275633</ref>, who chose their guardian:
+
+:'''A court held for Augusta County May the 16, 1753'''
+:Connard [sic] Cood and Jacob Cood Orphans of Casper Cood, dec'd chose Paul Long their Guardian whereupon the s'd Long with John Dellard his security entered into and acknowledged their Bond in the Penalty of Fifty Pounds for securing the said Orphans Estate and Indemnifying the Court.
+
+After Jacob's death (and before his probate) Anna married George Hollonbeck, who was named as guardian of Jacob's orphans in the 1762 bond.
+
+=== Birth Years of Children ===
+There is no historic document that supplies birth years for Jacob's children, but his will and a 1762 bond suggest that they were all younger than 12 when he died in 1753.
+
+Jacob Rothgab's will makes account for a time when John George would be "at age", and no similar account is made for the other children, particularly Peter, who was to inherit half the land.  Possibly because of this, it is often assumed only John George had not attained majority by the time Jacob died.
+
+However, on 19 May 1762:  "Ord. Church Wardens bind Peter Road Cap, Eliz, Hanah, Barbara, & Cath Roadcap orphans of Jacob Rodcap to Geo. Hollowback."<ref>Augusta County Minute Book, 1762, page 31, Court session 19 May 1762, Library of Virginia, Augusta County microfilm, Reel 62D</ref>.  Chalkley adds "Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>.
+
+John George is missing from the list of orphans being bonded, making it possible to assume that he had attained majority, while his siblings had not, and that John George is Jacob's oldest son and oldest child.  On the basis of the information in the guardian bond, John George's birth year is estimated at 1741.
+
+Regarding Peter, the land identified in Jacob's will was not divided between John George and Peter until 1772<ref>Deed Book A Page 76, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VSC6-1?i=47&cat=385833</ref>.  In this deed, John George is grantor and Peter is grantee.  Later in the same year, there is a 1772 deed to Gasper Good<ref>Deed Book A Page 494, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VS4K-Y?i=279&cat=385833</ref>, from "Peter Roadcap and Hannah his wife of the County of Dunmon and colony of Virginia":  "containing 30 acres more or less being part of a larger Tract formerly granted to Jacob Roadcap by deed from Proprietors H[???] bearing date the 15th day of September one thousand seven hundred and forty nine which said land is situate on Mill run in the said County..."  Because the execution of the division of land required by the will did not occur until 1772, it can be assumed that Peter had not attained majority until 1772, and so was not legally able to own land until then.  On the basis of these deeds, Peter's birth year is estimated at 1751.
+
+Taking the Brumbach information above, identifying the names of Hans Jacob's wives, and parsing the specific words used, the "one son" phrasing would place John George and all of Hans Jacob's daughters with Barbara Haller, and Peter ("one child") would have been the only child with Anna (Naef) Good.
+
+This view is supported in the writings of George W. Rothgeb<ref>''Papa's Diary'', Rita (Rothgeb) White, p. 8</ref>:
+:Jacob had two sons, George, and Peter son of his second wife.
 
 === Migration from Switzerland to Philadelphia ===
 In ''A history of the Goshenhoppen Reformed charge''<ref>Hinke, pp. 97ff</ref>  John Hinke describes the departure from Zurich, based on an 7 Oct 1734 article in ''Nachrichten von Zurich'', a local newspaper.  The article tells of three boats that left Zurich for "the so called Carolina island".
@@ -79,47 +120,6 @@ Ultimately, Maurice Goetschy "received...assurance of his appointment as ministe
 
 Meanwhile,
 :Zürich ...issu[ed] a decree, November 3 , 1734, forbidding her people to travel to Carolina, preventing the sale of property by those wishing to emigrate, proclaiming punishment of agents enticing people to emigrate or distributing seductive literature. This was followed after a few months by the decree of January 29, 1735 , which repeated the previous commands, and added sterner measures, deprivation of citizenship and land- rights forever, punishment also of the purchasers of property sold by emigrants, close watch over and severe punishment of persons enticing others to leave. The decrees were read from all the pulpits in town and country, they were posted in public places, yet Zürich, as the records show, found it necessary to let large numbers depart.<ref>Faust, p 7</ref>
-
-=== Marriage to Barbara Haller ===
-Barbara Haller m. 1734 (Neuwied, Germany) and m. Abt. 1740 (Virginia)
-
-As noted in the migration section, Jacob married Barbara Haller at Neuwied in 1734, on their way from Zurich to Philadelphia.  Considering the piety of the travelers, it is possible that this was needed to allow single men and women to travel together.  After arriving in Philadelphia, the terms of an indenture would normally include a prohibition of matrimony.  After the term of indenture expired, they may have needed to marry again in Virginia for social and/or legal reasons.
-
-In ''Brumbach family genealogy''<ref>Brumbach, p 273</ref>, Gaius Marcus Brumbach describes Hans Jacob's arrival in America and family as follows:
-
-:According to tradition among some of his Virginia descendants, he and a young woman, his fellow passenger across the Atlantic, served ''Joseph Strickler'' for seven years.
-
-Brumbach cites several laws about indenture, and notes difference in the duration of the term among them, so the term could have been shorter, but because the duration of the gap falls within a typical timeframe of indenture,  the family story that they were indentured may certainly be true.  Accepting Wayland's statement that Jacob was not a "Redemptioner", it is possible that the indenture was for land.
-
-While unable to identify the "young woman", Brumbach continues:
-
-:After their service to Strickler ended they married and had one son, ''George''.  After the death of this wife Jacob Roadcap married a widow ''Good'' (first name unknown), and had by her one child, ''Peter''.<ref>Brumbach does not provide any references for this information.</ref>
-
-=== Marriage to Anna Naef ===
-Anna Naef m. ~1750?
-
-"[M]y dear wife Anna" is named in Jacob's 1752 will.  Anna is said to be the widow of Caspar Guth/Good, and it is notable that, on the same day Jacob's will was presented in court, there was a court order for a guardian bond for Casper Good's two children<ref>Augusta County, Virginia, Order Book No. 3, 1749-1753, Film # 007893723 [Image 724 of 756], https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4H-HQZ6-L?i=723&cat=275633</ref>, who chose their guardian:
-
-:'''A court held for Augusta County May the 16, 1753'''
-:Connard [sic] Cood and Jacob Cood Orphans of Casper Cood, dec'd chose Paul Long their Guardian whereupon the s'd Long with John Dellard his security entered into and acknowledged their Bond in the Penalty of Fifty Pounds for securing the said Orphans Estate and Indemnifying the Court.
-
-After Jacob's death (and before his probate) Anna married George Hollonbeck, who was named as guardian of Jacob's orphans in the 1762 bond.
-
-=== Birth Years of Children ===
-There is no historic document that supplies birth years for Jacob's children, but his will and a 1762 bond suggest that they were all younger than 12 when he died in 1753.
-
-Jacob Rothgab's will makes account for a time when John George would be "at age", and no similar account is made for the other children, particularly Peter, who was to inherit half the land.  Possibly because of this, it is often assumed only John George had not attained majority by the time Jacob died.
-
-However, on 19 May 1762:  "Ord. Church Wardens bind Peter Road Cap, Eliz, Hanah, Barbara, & Cath Roadcap orphans of Jacob Rodcap to Geo. Hollowback."<ref>Augusta County Minute Book, 1762, page 31, Court session 19 May 1762, Library of Virginia, Augusta County microfilm, Reel 62D</ref>.  Chalkley adds "Moses Maiden to be bound."<ref>Chronicles of the Scotch-Irish settlement in Virginia, Lyman Chalkley, [Virginia] : M.S. Lockwood, 1912, Vol 1 Page 97, https://www.familysearch.org/library/books/viewer/202922/?offset=0#page=97&viewer=picture&o=info&n=0&q=</ref>.
-
-John George is missing from the list of orphans being bonded, making it possible to assume that he had attained majority, while his siblings had not, and that John George is Jacob's oldest son and oldest child.  On the basis of the information in the guardian bond, John George's birth year is estimated at 1741.
-
-Regarding Peter, the land identified in Jacob's will was not divided between John George and Peter until 1772<ref>Deed Book A Page 76, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VSC6-1?i=47&cat=385833</ref>.  In this deed, John George is grantor and Peter is grantee.  Later in the same year, there is a 1772 deed to Gasper Good<ref>Deed Book A Page 494, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-VS4K-Y?i=279&cat=385833</ref>, from "Peter Roadcap and Hannah his wife of the County of Dunmon and colony of Virginia":  "containing 30 acres more or less being part of a larger Tract formerly granted to Jacob Roadcap by deed from Proprietors H[???] bearing date the 15th day of September one thousand seven hundred and forty nine which said land is situate on Mill run in the said County..."  Because the execution of the division of land required by the will did not occur until 1772, it can be assumed that Peter had not attained majority until 1772, and so was not legally able to own land until then.  On the basis of these deeds, Peter's birth year is estimated at 1751.
-
-Taking the Brumbach information above, identifying the names of Hans Jacob's wives, and parsing the specific words used, the "one son" phrasing would place John George and all of Hans Jacob's daughters with Barbara Haller, and Peter ("one child") would have been the only child with Anna (Naef) Good.
-
-This view is supported in the writings of George W. Rothgeb<ref>''Papa's Diary'', Rita (Rothgeb) White, p. 8</ref>:
-:Jacob had two sons, George, and Peter son of his second wife.
 
 === Redemptioner Status ===
 
