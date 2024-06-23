@@ -3,7 +3,7 @@
 * Birth:  1745<ref>Year: 1840; Census Place: Rockingham, Virginia; Roll: 577; Page: 69; Family History Library Film: 0029692</ref> or 1752<ref>Revolutionary War Pension and Bounty-Land Warrant Application Files (NARA microfilm publication M804, 2,670 rolls). Records of the Department of Veterans Affairs, Record Group 15. National Archives, Washington, D.C.</ref> (''see [[#birth|Birth]]'')
 * Marriage (1): Barbara Bly (or Blei) m. 1774, Shenandoah County<ref>Record of his marriage to "Barbara Blei" is found in notes of Rev. Peter Muhlenberg, who was serving as pastor in Woodstock, Virginia, from 1773-1776, see blurry image https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKJ-QQS1-T?i=18&cat=1173031, top of right page</ref>
 * Marriage (2): Rebecca "Peggy" Bond m. 1 Dec 1800, Shenandoah County<ref>"Virginia, County Marriage Records, 1771-1989," database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3Q9M-C91F-Y9F9-W?cc=2134304 : 14 November 2021), > image 1 of 1; Accomat county court clerk offices, Virginia.</ref>.  "Peggy" is the name in the marriage bond.
-* Death:  Abt 1843(''see [[#land-tax|Land Tax]]'')
+* Death:  Abt 1843 (''see [[#land-tax|Land Tax]]'')
 
 === Children ===
 * Elizabeth m. Phillip Koontz "Jr", son of Peter Koontz Sr
@@ -21,10 +21,13 @@ Phillip's Revolutionary War pension application<ref>Ancestry.com. U.S., Revoluti
 
 In a deposition 13 Nov 1802 for Chancery Cause Woodley vs March, Phillip offered that he was 50 years old.  Both this and the pension application put his birth year at 1752.  In the 1830 census, Phillip is in the "70 to 80" age bracket, keeping is birth year about 1752.  In a census of veterans in 1841, however, he offered that he was 95 years old, suggesting that the dates could be about 5 or 6 years earlier, 1746.
 
-Placing more reliability on Phillip's earlier statements of his age:
-* Phillip was born Abt. 1752.
-* Peter and Phillip, possibly with other siblings, migrated to South Branch of the Potomac (now in West Virginia) around 1771
-* They migrated to the Rockingham County area around 1773.
+If Phillip was born nearer 1746, then:
+* Moved to Virginia on the South Branch in 1765
+* Moved to Rockingham in 1767
+
+If Phillip was born nearer to 1752, then:
+* Moved for Virginia on the South Branch in 1771
+* Move to Rockingham in 1773
 
 === Marriage ===
 
@@ -48,5 +51,27 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 * 1843<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37S-S9WP?i=251&cat=410902</ref> Philip Koontz:  100 Acres Smiths Creek
 * 1844<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37S-S9WP?i=251&cat=410902</ref> Philip Koontz Est:  100 Acres Smiths Creek
 
+=== Personal Property Tax ===
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L198?i=251&cat=411278 1782 William MacDowell's List] Phillip Countz: 1 white tithable, 4 horses, 7 cattle
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LB1J?i=287&cat=411278 1783 William MacDowell's List]
+** Philip Counce:  1 white tithable, 4 horses, 8 cattle 
+** Peter Counce:  1 white tithable, 6 horses, 1 cattle
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L1NP?i=303&cat=411278 1784 William MacDowell's List] (Capt. James Huling's Company)
+** Peter Counce: 1 white tithable, 5 horses, 12 cattle 
+** Philip Counce: 1 white tithabLe, 4 horse, 4 cattle
+* 1785 William MacDowell's List, Capt Harrison's Compnay
+** [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LBYZ?i=320&cat=411278 Philip Counce]: 1 white tithalbe, 6 horse, 6 cattle
+** [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L1Q6?i=319&cat=411278 Peter Counce]: 1 white tithable, 5 horses, 12 cattle 
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LBK8?i=336&cat=411278 1786 Andrew Rader's, Capt Lair's Company]
+** Pet. Counts: 2 white tithables, 5 horses, 11 cattle
+** Phillip Counts:  1 white tithable, 6 horses, 3 cattle
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LBNM?i=382&cat=411278 1787]  (First alphabetical list)
+** Martin Counce:  1 white tithable, 2 horses, 4 cattle
+** Peter Counce:  2 white tithables (1 age 16-20), 5 horses, 13 cattle
+** Phillip Counce: 2 white tithables (1 age 16-20), 5 horses, 6 cattle
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LB4G?i=451&cat=411278 1788] (cattle not counted)
+** Peter Counce:  2 white tithables (1 age 16-20), 5 horses
+** Martin Counce:  1 white tithable, 2 horses
+** Phillip Counce: 2 white tithables (1 age 16-20), 5 horses
 == Sources ==
 <references />
