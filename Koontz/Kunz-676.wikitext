@@ -7,7 +7,7 @@
 
 === Children ===
 * Elizabeth m. Phillip Koontz "Jr" 15 February 1799. (Phillip Jr is son of Peter Koontz Sr.)
-* John b. Abt. 1778 [1797 Rockingham PP Tax]
+* John b. Abt. 1770 (Appears separately in the 1791 Rockingham PP Tax)
 * Jacob b. Abt. 1790 [1811 Rockingham PP Tax]
 
 == Research Notes ==
@@ -82,6 +82,40 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 ** Martin Counce, 1 white tithable, 3 horses
 ** Phillip Counce: 2 white tithables, 5 horses
 ** Peter Counce Sen:  1 white tithables, 6 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LYHT?i=578&cat=411278 1791]
+** Peter Counce Sen:  1 white tithables, 6 horses
+** Peter Counce: 1 white tithable, 2 horses
+** Phillip Counce: 1 white tithables, 5 horses
+** Martin Counce, 1 white tithable, 4 horses
+** John Counce, 1 white tithable, 2 horses
+*** Note:  John is not grouped with the others, but his entry into the list coincides with a decrement in Phillip's tithable count.  John's tithable count increases in 1792, and along with being separate from the group, his relationship to Phillip is unclear.
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LYSY?i=627&cat=411278 1792]
+** Peter Counce: 1 white tithable, 1 horse
+** Martin Counce, 1 white tithable, 4 horses
+** Peter Counce Sen:  2 white tithables, 7 horses
+** Phillip Counce: 1 white tithables, 3 horses
+** John Counce, 2 white tithables, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LTDG?i=702&cat=411278 1793]
+** Martin Counce, 1 white tithable, 4 horses
+** Phillip Counce: 1 white tithables, 3 horses
+** Peter Counce [Sen]:  2 white tithables, 7 horses
+** John Counce, 2 white tithables, 2 horses, 1 slave
+** <s>Peter Counce</s>
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L994-W?i=728&cat=411278 1794]
+** Phillip Counce: 2 white tithables, 3 horses
+** Peter Counce:  2 white tithables, 7 horses
+** Phillip Counce: 1 white tithable
+** Martin Counce, 1 white tithable, 4 horses
+** John Counce, 1 white tithables, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3PL-R?i=23&cat=411278 1795]
+** Martin Counce, 2 white tithables, 4 horses
+** Peter Counce:  3 white tithables, 7 horses
+** Phillip Counce: 1 white tithable, 1 horse
+** Phillip Counce Sen: 2 white tithables, 3 horses
+** [[Koontz-1153.wikitext|Peter Counce]]:  1 white tithable
+** John Counce, 1 white tithables, 2 horses
+
+
 
 == Sources ==
 <references />
