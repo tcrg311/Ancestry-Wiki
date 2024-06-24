@@ -55,7 +55,7 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 ** Phillip Countz: 1 white tithable, 4 horses, 7 cattle
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LB1J?i=287&cat=411278 1783 William MacDowell's List]
 ** Philip Counce:  1 white tithable, 4 horses, 8 cattle 
-** Peter Counce:  1 white tithable, 6 horses, 1 cattle
+** [[Koontz-229.wikitext|Peter Counce]]:  1 white tithable, 6 horses, 1 cattle
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L1NP?i=303&cat=411278 1784 William MacDowell's List] (Capt. James Huling's Company)
 ** Peter Counce: 1 white tithable, 5 horses, 12 cattle 
 ** Philip Counce: 1 white tithabLe, 4 horse, 4 cattle
@@ -78,7 +78,7 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 ** Phillip Counce: 2 white tithables, 5 horses
 ** Peter Counce:  2 white tithables, 6 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-LYJY?i=551&cat=411278 1790]
-** Peter Counce Jr: 1 white tithable, 2 horses
+** [[Koontz-1153.wikitext|Peter Counce Jr]]: 1 white tithable, 2 horses
 ** Martin Counce, 1 white tithable, 3 horses
 ** Phillip Counce: 2 white tithables, 5 horses
 ** Peter Counce Sen:  1 white tithables, 6 horses
@@ -101,6 +101,8 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 ** Peter Counce [Sen]:  2 white tithables, 7 horses
 ** John Counce, 2 white tithables, 2 horses, 1 slave
 ** <s>Peter Counce</s>
+*** [[Koontz-1153.wikitext|"Peter Kunce"]] appeared in the Augusta, Virginia personal property tax list in 1793.  
+*** He married Elizabeth Ann Jones, daughter of Enos Jones, in Augusta County, Virginia 2 Dec 1793
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-L994-W?i=728&cat=411278 1794]
 ** Phillip Counce: 2 white tithables, 3 horses
 ** Peter Counce:  2 white tithables, 7 horses
@@ -113,6 +115,7 @@ The Chancery Record 1844-005<ref>Virginia Memory, Chancery Record Index, Rocking
 ** Phillip Counce: 1 white tithable, 1 horse
 ** Phillip Counce Sen: 2 white tithables, 3 horses
 ** [[Koontz-1153.wikitext|Peter Counce]]:  1 white tithable
+*** Absent from the Augusta County personal property tax list in 1795
 ** John Counce, 1 white tithables, 2 horses
 
 
