@@ -246,7 +246,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Martin Koontz (Law man): 1 white tithables, 4 horses
 ** Phillip Koontz:  1 white tithable, 2 horses, 1 Stud $1.00
 ** Peter Koontz:  2 white tithable, 5 horses
-** John Koontz:  1 tithable, 1 horse
+** John Koontz [Jun]:  1 tithable, 1 horse
 ** Philip Koontz Senr:  2 white tithable, 1 horse
 ** John Koontz (The Runaway[?]): 1 tithable, 1 horse
 ** Peter Koontz (Kesletown): 2 tithables
@@ -254,7 +254,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3GR-R?i=424&cat=411278 1803]
 ** John Koonts: 1 tithable, 3 horses
 ** Philip Koontz Senr:  2 white tithable, 2 horses
-** John Koontz tanner at Keseltown: 1 tithable, 1 horse
+** John Koontz tanner at Keseltown<ref>Always appears near Peter Jr. "(hatter Keseltown)".  It seems possible that he could have a business relationship with a "hatter", but any family relationship is undetermined. Actively researching.</ref>: 1 tithable, 1 horse
 ** Martin Koontz: 1 white tithables, 4 horses
 ** Phillip Koontz:  1 white tithable, 2 horses
 ** Peter Koontz:  2 white tithable, 5 horses
@@ -268,8 +268,36 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Peter Kontz Sen:  1 white tithable, 4 horses
 ** Phillip Koontz:  1 white tithable, 2 horses
 ** John Kuns:  1 white tithable
-
-
+** <s>Peter Koontz (hatter Keseltown)</s> (Is present in Land Taxi with 3 lots and 1 acre.  Listed again in 1806)
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K35Z-V?i=517&cat=411278 1805]
+** Peter Kontz [Sen]:  1 white tithable, 5 horses
+** John Koontz [Jun?]: 1 white tithable, 1 horses
+** Philip Koontz:  1 white tithable, 3 horses
+** John Koontz Mesl[?]<ref>Enumerator's notation is uncertain.  This John Koontz may be the Col. John Koontz in the War of 1812, 4th Regiment Virginia.  He does not appear to be a relative of the other Koontzes.</ref>:  1 tithable, 2 blacks above 16, 5 horses
+** Widow Koontz [of Martin]: 0 tithable, 1 black above 16, 4 horses
+** John Koontz K.T.: 2 tithables, 4 horses
+** <s>George Kunts</s>
+** <s>Phillip Koontz</s>
+** <s>Peter Koontz (hatter Keseltown)</s> (Is present in Land Tax with 2 lots and 2 acres. Listed again in 1806)
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K35M-3?i=587&cat=411278 1807]
+** John Koontz Harrisonburg:  2 tithable, 3 blacks above 16, 6 horses
+** John Koontz Kesletown: 2 tithables, 2 blacks above 16, 4 horses
+** Peter Koontz:  1 tithables, 2 horses
+** Christiana Koontz (widow) of Martin: 0 tithable, 1 horse
+** Philip Koontz Jnr:  1 white tithable, 2 horses
+** John Koontz (Smith Creek):  1 tithable, 3 horses
+** Peter Koontz:  1 tithable, 6 horses
+** Adam Koontz: 1 tithable, 2 horses
+** Philip Koontz Snr:  2 white tithable, 4 horses
+* 1808 - No records
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3PR-7?i=608&cat=411278 1809]
+** John Koontz Keisle town: 2 tithables, 1 black above 16, 4 horses
+** Peter Koontz K. Town: 1 tithable, 2 horses
+** Christiana Koontz widow: 0 tithable, 2 horses
+** Adam Koontz: 1 tithable, 2 horses
+** John Koontz Junr S Creek:  1 tithable, 2 horses
+** Phillip Koontz Junr:  1 tithable, 2 horses
+** John Koontz Merchant:  2 tithable, 3 blacks above 16, 7 horses
 
 == Sources ==
 <references />
