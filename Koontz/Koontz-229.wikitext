@@ -30,10 +30,10 @@ Early land and tax records provide additional context for Peter's early residenc
 ** Residence:  Harrisonburg, Rockingham, Virginia
 ** Household:  1 Male over 45 and over; 1 Female 45 and over
 * 1820 Census<ref>Fourth Census of the United States, 1820; Census Place: Rockingham, Virginia; Page: 146; NARA Roll: M33_139; Image: 161</ref>
-** Residence:  [Not stated], Rockingham, Virginia
+** Residence:  &#91Not stated&#93, Rockingham, Virginia
 ** Household:  1 Male 45 and over; 2 Females under 10; 1 Female 45 and over; 5 slaves
 *1830 Census<ref>Year: 1830; Census Place: Rockingham, Virginia; Series: M19; Roll: 199; Page: 231; Family History Library Film: 0029678</ref>
-** Residence:  [Not stated], Rockingham, Virginia
+** Residence:  &#91Not stated&#93, Rockingham, Virginia
 ** Household: 1 Male 90 thru 99; 4 slaves
 
 === Siblings ===
@@ -42,7 +42,7 @@ The given primary source material supports Peter, Phillip, Jacob, Martin and Mar
 
 # In a deed book entry 20 April 1808<ref>Deed Book 0000, Burnt deed books [transcripts], 1778-1863, Rockingham County (Virginia). Clerk of the County Court (Salt Lake City, Utah : Filmed by the Genealogical Society of Utah) 1952, Page 145, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-Z9Z9-7?i=386&cat=386882</ref> Jacob Koontz signed a power of attorney for "my Brother Phillip Koountz[sic]" to act on Jacob's behalf in matters related to the estate of "My brother Martin Koountz[sic] Deceas'd", particularly after Martin's wife's decease.  If Phillip dies before she does, then Phillip's son Jacob is to act as attorney for his uncle Jacob.
 # Jacob Counts was born in 1747, according to a DAR burial record<ref>Ohio, Soldiers Grave Registration Cards, 1804-1958 (Fold3) 2017 https://www.fold3.com/image/615827006</ref> <ref>See also US, War of 1812 Service Record Index, 1812-1815, National Archives, Publication number M602, https://www.fold3.com/image/307279249/counts-jacob-page-1-us-war-of-1812-service-record-index-1812-1815.  A search found records for him in the War of 1812, in "1 Regiment (Scott's) Kentucky Vols", and his Soldiers Grave Registration Card can only be found searching for the War of 1812, but the card itself says "War served in:  Revolutionary".</ref> showing "Jacob Counts, b. 1747 d. 28 Sep 1829, buried at Riverside Cemetery, Troy, Miami County, Ohio".  The birth year is by calculation from information on the tombstone:  "Sept. 28 1829 in the 82nd year of his age". Peter would have been between 7 and 16 years old in 1747 when Jacob was born, based on the 1840 census 90-99 age range for Peter Koontz Senr, 
-# In Phillip's Revolutionary War pension application<ref>Ancestry.com. U.S., Revolutionary War Pension and Bounty-Land Warrant Application Files, 1800-1900 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2010.  Original data:Revolutionary War Pension and Bounty-Land Warrant Application Files (NARA microfilm publication M804, 2,670 rolls). Records of the Department of Veterans Affairs, Record Group 15. National Archives, Washington, D.C.</ref> he says he does not know what year he was born and estimates his age to be "about 80".  Similarly, in a deposition 13 Nov 1802<ref>Chronicles of the Scotch-Irish settlement in Virginia, Chalkley, Lyman, 1861-1934, Vol 2, M. S. Lockwood, 1912, page 45</ref> he stated that he was 50 years old.  However, in a census of veterans in 1840<ref>Year: 1840; Census Place: Rockingham, Virginia; Roll: 577; Page: 69; Family History Library Film: 0029692</ref>, he offered that he  was 95 years old, and the 1840 census<ref>Year: 1840; Census Place: Rockingham, Virginia; Roll: 577; Page: 69; Family History Library Film: 0029692</ref> he is shown in the 90-99 category.  In this analysis, the ages 50 and 80 in the testimonies may be taken as "in his 50's" and "in his 80's", which would better correlate to the age in 1840, and estimate his birth year as 1745.
+# In Phillip's Revolutionary War pension application<ref>Ancestry.com. U.S., Revolutionary War Pension and Bounty-Land Warrant Application Files, 1800-1900 &#91database on-line&#93. Provo, UT, USA: Ancestry.com Operations, Inc., 2010.  Original data:Revolutionary War Pension and Bounty-Land Warrant Application Files (NARA microfilm publication M804, 2,670 rolls). Records of the Department of Veterans Affairs, Record Group 15. National Archives, Washington, D.C.</ref> he says he does not know what year he was born and estimates his age to be "about 80".  Similarly, in a deposition 13 Nov 1802<ref>Chronicles of the Scotch-Irish settlement in Virginia, Chalkley, Lyman, 1861-1934, Vol 2, M. S. Lockwood, 1912, page 45</ref> he stated that he was 50 years old.  However, in a census of veterans in 1840<ref>Year: 1840; Census Place: Rockingham, Virginia; Roll: 577; Page: 69; Family History Library Film: 0029692</ref>, he offered that he  was 95 years old, and the 1840 census<ref>Year: 1840; Census Place: Rockingham, Virginia; Roll: 577; Page: 69; Family History Library Film: 0029692</ref> he is shown in the 90-99 category.  In this analysis, the ages 50 and 80 in the testimonies may be taken as "in his 50's" and "in his 80's", which would better correlate to the age in 1840, and estimate his birth year as 1745.
 # Chalkley shows a "Martin Counce" in a list of road workers for a road ordered 24 Nov 1753 "from Saml. Stalnaker's, on Holston River, to James Davis's"<ref>Chalkley, Vol 1, page 61</ref>.  Samuel Stalnaker was a "German emigrant from Pennsylvania who settled in 1750 on the middle fork of the Holston river, where he was still living in 1768-1769"<ref>Encyclopedia of Virginia Biography, edited by Lyon Gardiner Tyler (Lewis Historical Publishing Company, New York) 1915, Vol. I, Page 329</ref>.  The 1753 road worker would have been 16 years old or older, born 1737 or earlier, which would make Martin somewhat older than otherwise thought.  The location would have been in Augusta county at the time.  If it is the same Martin Koontz, it would make him likely the eldest of the siblings.
 # Mary m. Jacob Bargle.  She inherits some land from Martin, who had no children, with the provision that her son inherits after she dies.  A sibling relation is generally inferred from this.
 
@@ -74,7 +74,7 @@ No marriage record has been found for Peter, but it is thought he married Christ
 
 === Death ===
 
-Peter died testate in 1835, probably in October, but his will has not survived.  An Executor Bond 16 Nov 1835<ref>Executors' bonds, 1778-1854, Executors bonds book, v. 1, 1778-1815 -- Executors bonds book, v. 2, 1815-1822 -- Executors bonds book, v. 3, 1823-1854., Film 2079963, image 1233.  [The document in this image looks crossed-out and unsigned, and is possibly a duplicate.  Signed document reference TBD.]</ref> names Isaac Thomas as Peter Koontz's executor, signed by Isaac Thomas, Strawther Thomas, Henry Philips and Peter P. Koontz.  The 1836 Land Tax for Rockingham County shows Peter's land was distributed as follows<ref>Land tax lists of Rockingham County [Virginia] 1782-1863, Virginia. Commissioner of the Revenue (Rockingham County), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1955, Land tax lists, 1830-1836, Film 29968, image 707</ref>:
+Peter died testate in 1835, probably in October, but his will has not survived.  An Executor Bond 16 Nov 1835<ref>Executors' bonds, 1778-1854, Executors bonds book, v. 1, 1778-1815 -- Executors bonds book, v. 2, 1815-1822 -- Executors bonds book, v. 3, 1823-1854., Film 2079963, image 1233.  &#91The document in this image looks crossed-out and unsigned, and is possibly a duplicate.  Signed document reference TBD.&#93</ref> names Isaac Thomas as Peter Koontz's executor, signed by Isaac Thomas, Strawther Thomas, Henry Philips and Peter P. Koontz.  The 1836 Land Tax for Rockingham County shows Peter's land was distributed as follows<ref>Land tax lists of Rockingham County [Virginia] 1782-1863, Virginia. Commissioner of the Revenue (Rockingham County), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1955, Land tax lists, 1830-1836, Film 29968, image 707</ref>:
 * Adam, Daniel, "&c" Koontz of Tennessee own 2/3 of the 225 acres (142 3/4) on James Branch, and the 111 1/2 acres on Smiths Creek.
 * John Koontz owns 1/3 of the 225 acres (82 1/4) on James Branch.
 
@@ -240,15 +240,15 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Martain Koontz: 1 white tithables, 4 horses
 ** John Koonts Tanner:  2 tithables, 2 horses
 ** Peter Koonts (Keezel Town): 1 tithable
-** <s>John Koontz</s> [see 1802. "Runaway" is possibly this John]
-** <s>John Koontz (son of Peter)</s> [see 1802.  Possibly this John is just after Peter.]
+** <s>John Koontz</s> &#91see 1802. "Runaway" is possibly this John&#93
+** <s>John Koontz (son of Peter)</s> &#91see 1802.  Possibly this John is just after Peter.&#93
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3GY-3?i=407&cat=411278 1802]
 ** Martin Koontz (Law man): 1 white tithables, 4 horses
 ** Phillip Koontz:  1 white tithable, 2 horses, 1 Stud $1.00
 ** Peter Koontz:  2 white tithable, 5 horses
 ** John Koontz [Jun]:  1 tithable, 1 horse
 ** Philip Koontz Senr:  2 white tithable, 1 horse
-** John Koontz (The Runaway&#91?&#93]): 1 tithable, 1 horse
+** John Koontz (The Runaway&#91?&#93): 1 tithable, 1 horse
 ** Peter Koontz (Kesletown): 2 tithables
 ** John Koontz Kesletown: 1 tithable, 1 horse
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3GR-R?i=424&cat=411278 1803]
@@ -259,7 +259,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Phillip Koontz:  1 white tithable, 2 horses
 ** Peter Koontz:  2 white tithable, 5 horses
 ** Peter Koonz (hatter Keseltown):  2 tithables
-** <s>John Koontz</s> [possibly the 1802 "Runaway"?]
+** <s>John Koontz</s> &#91possibly the 1802 "Runaway"?&#93
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3GP-M?i=461&cat=411278 1804]
 ** Phillip Koontz:  1 white tithable, 3 horses
 ** George Kunts:  1 white tithable, 1 horse
@@ -271,10 +271,10 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** <s>Peter Koontz (hatter Keseltown)</s> (Is present in Land Taxi with 3 lots and 1 acre.  Listed again in 1806)
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K35Z-V?i=517&cat=411278 1805]
 ** Peter Kontz [Sen]:  1 white tithable, 5 horses
-** John Koontz [Jun?]: 1 white tithable, 1 horses
+** John Koontz &#91Jun?&#93: 1 white tithable, 1 horses
 ** Philip Koontz:  1 white tithable, 3 horses
 ** John Koontz Mesl&#91?&#93<ref>Enumerator's notation is uncertain.  This John Koontz may be the Col. John Koontz in the War of 1812, 4th Regiment Virginia.  He does not appear to be a relative of the other Koontzes.</ref>:  1 tithable, 2 blacks above 16, 5 horses
-** Widow Koontz [of Martin]: 0 tithable, 1 black above 16, 4 horses
+** Widow Koontz &#91of Martin&#93: 0 tithable, 1 black above 16, 4 horses
 ** John Koontz K.T.: 2 tithables, 4 horses
 ** <s>George Kunts</s>
 ** <s>Phillip Koontz</s>
