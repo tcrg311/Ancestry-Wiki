@@ -313,7 +313,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Adam Koontz: 1 tithable, 3 horses
 ** Phillip Koontz Jnr:  1 white tithable, 2 horses
 ** Peter Koontz Sen:  1 tithable, 4 horses
-** John Koontz: 1 tithable, 2 horses
+** John Koontz: 1 tithable, 2 horses &#91Smith Creek, "Junior"&#93
 ** Phillip Koontz Sen:  1 tithable, 2 horses
 ** John Koontz (K. Town): 2 tithables, 4 horses
 ** Peter Koontz (Do.): 1 tithable, 3 horses
@@ -324,13 +324,13 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** John Koontz: 2 tithables, 1 black above 16
 ** Philip Koontz Jur:  1 tithable, 3 horses
 ** Adam Koontz:  1 tithable, 4 horses
-** John Koontz:  1 tithable, 3 horses
+** John Koontz:  1 tithable, 3 horses &#91Smith Creek, "Junior"&#93
 ** Peter Koontz: 1 tithable, 4 horses
 ** Philip Koontz Sen: 1 tithable, 2 horses
 ** [https://www.wikitree.com/wiki/Koontz-472 Jacob Koontz] &#91Son of Phillip Koontz&#93:  1 tithable, 1 horse 
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3PY-8?i=711&cat=411278 1812]
 ** Jacob Koontz H.R.:  1 tithable
-** John Koontz: 1 tithable, 3 horses
+** John Koontz: 1 tithable, 3 horses &#91Smith Creek, "Junior"&#93
 ** Philip Koontz: 0 tithable, 3 horses
 ** Philip Kontz Sen:  1 tithable, 3 horses
 ** Peter Koontz: 1 tithable, 5 horses
@@ -338,7 +338,27 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Christena Koontz:  1 horse
 ** John Koontz (Colonel:  1 tithable, 2 slaves above 16, 1 slave between 12 & 16, 8 horses
 ** John Koontz KT: 1 tithables, 1 slave above 16, 7 horses
-** Peter Koontz Ditto: 2 tithable, 2 horses
+** Peter Koontz Ditto: 2 tithables, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3PG-B?i=762&cat=411278 1813]
+** Peter Koontz KT: 2 tithables, 2 horses
+** John Koontz KT: 1 tithables, 1 slave above 16, 6 horses
+** Jacob Koontz:  1 tithable, 1 horse
+** John Koontz (Col):  2 tithable, 2 slaves above 16, 1 slave between 12 & 16, 10 horses
+** Philip Koontz Jun: 2 horses
+** Christena Koontz:  1 horse
+** Peter Koontz Sen: 1 tithable, 5 horses
+** Philip Koontz Sen:  1 tithable, 3 horses
+** <s>John Koontz</s> &#91Smith Creek, "Junior"&#93
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WD3Y?i=47&cat=411278 1814]
+** Peter Koontz: 3 tithables, 2 horses
+** Christena Koontz:  1 horse
+** John Koontz S.C.: 1 tithable, 3 horses
+** Peter Koontz [Sen]: 1 tithable, 4 horses
+** Philip Koontz Jun: 1 tithable, 2 horses
+** Philip Koontz Sen:  1 tithable, 2 horses
+** John Koontz (Col):  2 tithable, 2 slaves above 16, 1 slave between 12 & 16, 14 horses
+** John Koontz K Town: 1 tithables, 7 horses
+** <s>Jacob Koontz</s>
 
 == Sources ==
 <references />
