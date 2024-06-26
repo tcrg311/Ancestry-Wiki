@@ -205,7 +205,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3P6-P?i=159&cat=411278 1797]
 ** John Koontz: 2 white tithables, 1 horse
 ** Martin Koontz: 1 white tithables, 3 horses
-** Peter Koontz:  1 white tithable
+** [https://www.wikitree.com/wiki/Koontz-1153 Peter Koontz]:  1 white tithable
 ** Peter Koontz:  1 white tithables, 6 horses
 ** Jos. Koontz:  1 white tithable, 1 horse
 ** Phillip Koonts [Sen]: 1 white tithable, 1 horses
@@ -295,9 +295,30 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Peter Koontz K. Town: 1 tithable, 2 horses
 ** Christiana Koontz widow: 0 tithable, 2 horses
 ** Adam Koontz: 1 tithable, 2 horses
+** Peter Koontz Snr:  1 tithable 4 horses
 ** John Koontz Junr S Creek:  1 tithable, 2 horses
 ** Phillip Koontz Junr:  1 tithable, 2 horses
 ** John Koontz Merchant:  2 tithable, 3 blacks above 16, 7 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3P5-7?i=645&cat=411278 1810]
+** John Koontz Majr:  2 tithable, 5 blacks above 16, 6 horses
+** Adam Koontz: 1 tithable, 3 horses
+** Phillip Koontz Jnr:  1 white tithable, 2 horses
+** Peter Koontz Sen:  1 tithable, 4 horses
+** John Koontz: 1 tithable, 2 horses
+** Phillip Koontz Sen:  1 tithable, 2 horses
+** John Koontz (K. Town): 2 tithables, 4 horses
+** Peter Koontz (Do.): 1 tithable, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-K3PR-G?i=696&cat=411278 1811]
+** John Koontz (Col:  2 tithable, 3 blacks above 16, 10 horses
+** Christena Koontz widow: 0 tithables
+** Peter Koontz (K.T.: 2 tithables
+** John Koontz: 2 tithables, 1 black above 16
+** Philip Koontz Jur:  1 tithable, 3 horses
+** Adam Koontz:  1 tithable, 4 horses
+** John Koontz:  1 tithable, 3 horses
+** Peter Koontz: 1 tithable, 4 horses
+** Philip Koontz Sen: 1 tithable, 2 horses
+** [https://www.wikitree.com/wiki/Koontz-1159 Jacob Koontz] &#91Son of Peter Koontz Jr (Keezletown)&#93:  1 tithable, 1 horse 
 
 == Sources ==
 <references />
