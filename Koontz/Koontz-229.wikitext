@@ -384,7 +384,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 *** Peter will return to the Northwest District list in 1822.
 *** Peter's son Jacob Koontz will marry Nancy Cline in 1822.
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WZDB?i=206&cat=411278 1817 - Northwest District]
-** John Koontz Tanner:  4 tithables, 5 horses
+** John Koontz Tanner:  4<ref>Division of land at John Koontz' death, Burnt deed book, v. 19, 1846-1847, page 311, identifies only 2 sons, Peter and John</ref> tithables, 5 horses
 ** Christina Koontz:  1 horse
 ** John Koontz &#91Smiths Creek&#93: 1 tithable, 5 horses
 ** Peter Koontz [Sen]: 1 tithable, 5 horses
@@ -417,7 +417,7 @@ No source material is provided, and aside from Catherine, no primary source conf
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDCL?i=315&cat=411278 1819 - Northwest District]
 ** Peter Koontz [Jr]:  3 tithables, 3 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDCN?i=364&cat=411278 1820 - Southeast District]
-** John Koontz Tanner:  1 tithables, 1 slave, 6 horses
+** John Koontz Tanner:  2 tithables, 1 slave, 6 horses
 ** John Koontz:  1 tithable
 ** John Koontz S Cr: 1 tithable, 4 horses
 ** Christina Koontz:  1 horse
@@ -425,10 +425,16 @@ No source material is provided, and aside from Catherine, no primary source conf
 ** Philip Koontz: 1 tithable, 4 horses
 ** Philip Koontz Sr: 1 tithable, 1 horse
 ** John Koontz Col.:  2 tithable, 3 slaves above 16, 6 horses
-
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W8LP?i=339&cat=411278 1820 - Northwest District]
 ** Peter Koontz [Jr]:  3 tithables, 3 horses
-
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WZSG?i=389&cat=411278 1821 - Southeast District] &#91Columns for Head of household's name, slaves above 12, horses, and the different types of carriages and wagons&#93
+** John Kunns 2 slaves above 12, 7 horses
+** Christina Koontz:  1 horse
+** Peter Koontz [Sen]: 1 slave, 3 horses
+** Philip Koontz Jr: 4 horses
+** John Koontz (S. Cr: 4 horses
+** Philip Koontz [Sr]: 1 horse
+** John Koontz Col:  3 slaves above 16, 2 horses
 
 == Sources ==
 <references />
