@@ -1,0 +1,64 @@
+== Biography ==
+
+* Name:  John B Cline<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref>
+* [[#birth|Birth]]:  1785-1788
+* Parents:  Johannes Klein and unknown mother.
+* Spouse:  Susannah Nair<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref> m. 28 Aug 1809.
+
+== Research Notes ==
+
+=== Birth ===
+"Kline John (of Conr." first appears in the 1819 Rockingham Personal Property Tax list.
+* Conrad Cline's tithable count increased to 2 in 1817.
+* It was still 2 in 1819, but was reduced to 1 in 1820.  Conrad's son Peter Cline would have been 21 in 1819<ref>1850 United States Federal Census, Year: 1850; Census Place: District 56, Rockingham, Virginia; Roll: M432_974; Image: 345</ref><ref>Rockingham County, Virginia, Death Index, 1853-1861</ref><ref>Tombstone image, Find a Grave, database and images (https://www.findagrave.com/memorial/54746398/peter-cline: accessed July 4, 2024), memorial page for Peter Cline (17 Aug 1798–8 Jul 1857), Find a Grave Memorial ID 54746398, citing Friedens United Church of Christ Cemetery, Friedens, Rockingham County, Virginia, USA; Maintained by Anonymous (contributor 47074340).</ref>,
+* The tithable count was not enumerated in the tax lists from 1821-1829.
+* "Peter Cline of Conrad" first appears in the 1830 Rockingham Personal Property Tax list, at age 32.
+
+Calculating birth year:
+# Married without father's consent in 1809 = 1788 or before
+# Census 1810 age 16-25 = 1785-1794
+# Census 1820 age 26-44 = 1776-1794
+# Census 1830 age 40-49 = 1781-1790
+Birth year range is 1785-1788
+
+=== Parents ===
+
+Usually "of Conr[ad]" in the tax list is an indicator of a father-son relationship, however the age difference suggests the more likely possibility of their being brothers.  Since Conrad had no sons until Peter's birth in 1798, it is possible that John lived with Conrad and helped with the farming.
+
+If it is true that John B is Conrad's brother, then Johannes is his father.  If the birth year calculation is correct, then John B was born before Christina Catharina Wacker died, and she is his mother.
+
+=== Marriage ===
+John and Susannah's marriage is listed in John Brown's minister's return.  Also included in the return's long list are Peter Cline to Christina Royer, Jacob Koontz to Nancy Cline, and other daughters of Conrad and Marie Cline.
+
+=== Residence: Rockingham County, Virginia ===
+
+Census:
+* 1810<ref>Year: 1810; Census Place: New Haven, Rockingham, Virginia; Roll: 67; Page: 133; Image: Vam252_67-0173; FHL Roll: 0181427</ref>:  Age bracket for John and wife is within 16-25, 1 daughter under 10
+* 1820<ref>Fourth Census of the United States, 1820; Census Place: Rockingham, Virginia; Page: 127; NARA Roll: M33_139; Image: 142</ref>:  Age bracket for John and wife is within 26-44, 4 sons under 10, 2 daughters under 10, 1 daughter 16-25
+* 1830<ref>Year: 1830; Census Place: Rockingham, Virginia; Series: M19; Roll: 199; Page: 205; Family History Library Film: 0029678</ref>:  Age bracket for John and wife is within 40-49, 2 sons under 5, 2 sons 5-9, 3 sons 10-14, 1 son 15-19, 2 daughters under 5, 2 daughters 20-29
+
+Property Tax lists:
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDCL?i=315&cat=411278 1819]:  Kline John (of Conr., 1 tithable, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W8LP?i=339&cat=411278 1820]:  Kline John of C., 1 tithable, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDN9?i=417&cat=411278 1821]:  Kline John, &#91;1 tithable &#93;, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W6HY?i=437&cat=411278 1822]:  Cline John of same [Conrad], &#91;1 tithable &#93;, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W86Z?i=492&cat=411278 1823]:  Kline John, &#91;1 tithable &#93;, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W6XL?i=565&cat=411278 1824]:  Cline John, &#91;1 tithable &#93;, 2 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WD9Q?i=592&cat=411278 1825]:  Cline John, &#91;1 tithable &#93;, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W8YM?i=681&cat=411278 1826]:  Kline John, &#91;1 tithable &#93;, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W6Q8?i=701&cat=411278 1827]:  Cline John, &#91;1 tithable &#93;, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSY6-P?i=48&cat=411278 1828]: Cline John, &#91;1 tithable &#93;, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSYD-J?i=79&cat=411278 1829]: Cline John, &#91;1 tithable &#93;, 3 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSY4-8?i=180&cat=411278 1830]:  John B Cline, 2 tithables, 3 horses &#91;Peter Cline first appears&#93;
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTF-K?i=210&cat=411278 1831]:  Not present.  "Peter Cline & Father" is in the list with 2 tithables and 5 horses (same number of horses as for Conrad in 1830).
+
+Deeds | Grantee:
+* 1816 Book 3 p 158
+* 1819 Book 4 p 154
+* 1818 Book 4 p 208, Book 4 p 224
+* 1822 Book 5 p 402
+* 1823 Book 5 p 531
+* 
+
+== Sources ==
+<references />
