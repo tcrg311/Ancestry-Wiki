@@ -1,24 +1,38 @@
 == Biography ==
 
-* Name:  Conrad Cline (alternate surnames Klein<ref>Württemberg, Germany, Family Tables, 1550-1985 [database on-line]. Lehi, UT, USA, Konfirmationen u· Familienregister 1742-1886</ref>, Kline)
-* Birth:  26 Jan 1772<ref>Konfirmationen u· Familienregister 1742-1886</ref>
-* Parents:  Johannes Klein, Christina Catharina Wacker<ref>Konfirmationen u· Familienregister 1742-1886</ref>
+* Name:  Conrad Cline
+* [[#birth|Birth]]: Abt 1765 (''see [[#schlierbach-familienregister|Schlierbach Familienregister]] for differentiation'')
+* Parents:  John Cline, mother's name undetermined
 * Spouse:  Marie Ruebush or Rautenbusch (as in Friedens Church record) or Raudenbush.  Ruebush is "proper English spelling".
+* [[#death|Death]]: 
 
-German church records<ref>Württemberg, Germany, Family Tables, 1550-1985 [database on-line]. Lehi, UT, USA, Konfirmationen u· Familienregister 1742-1886</ref> show that Conrad was born 26 Jan 1772, and confirmed in 1786.  According to the Frieden Lutheran and Reformed Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> Conrads first child, Elisabeth, was baptized 19 Feb 1792.  His birth year is calculated to be 1760-1770.
+Children:
+* John B.<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref> b. Abt 1788 
+* Elisabeth<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> b. 19 Feb 1792.
+* Mary Ann "Polly"<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref> b. Abt 1792<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 56, Rockingham, Virginia; Roll: 974; Page: 170b</ref>
+* Susannah<ref>op cit, p 12</ref> b. 3 Feb 1794
+* Sarah<ref>op cit, p 17</ref> b. 25 Jul 1796
+* Peter "a son"<ref>opc cit, p 24</ref> b. 29 Sep 1798
+* Anna<ref>op cit, p 38</ref> b. 24 Apr 1804
 
+=== Research Notes ===
+
+=== Birth ===
+* 1788 Property Tax:  age 21 or older = 1767 or earlier
+* 1810 Census: age in the over 45 bracket = 1765 or earlier birth year
+* 1820 Census: age in the over 45 bracket
+* 1830 Census: age in the 60-69 bracket = 1761-1770 birth year
+
+=== Residence in Rockingham, Virginia ===
 Conrad Cline received land from John Cline, likely his father.  The Rockingham County deed index<ref>General index to deeds, grantors and grantees, Vol. 4, 1778-1863, Virginia. County Court (Rockingham County) (Main Author), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1952</ref> shows Sep 1799 as the date of transfer, and that nothing of the deed survived.
-
-His relationship to his daughters is confirmed by the marriage bonds<ref>Rockingham County Marriage Bonds & Consents, 1817 - 1835, Library of Virginia reel 683</ref>.
 
 Until 1833, the land tax shows an 8 miles south "Distance and Bearing" from the courthouse.  A new courthouse was built "1833-1834"<ref>"Courthouse Square in Early Harrisonburg and Activities Connected with Court Days", Dale MacAllister, 2005, https://www.rockinghamcountyva.gov/DocumentCenter/View/179/Courthouse-Square-in-Early-Harrisonburg--Activities-Connected-with-Court-Days?bidId=</ref>.  In 1833 the land tax shows the bearing is SE of the courthouse.  (The distance is hidden in the microfilmed document, but later is consistenly shown to be 10 miles.)  This puts the land roughly half way between Cross Keys and Port Republic.
 
-Conrad Cline died about 1835, and his son Peter was administrator of the "incuperative will"<ref>Administrators' Bonds, 1778-1874; Author: Virginia. Circuit Court (Rockingham County); Probate Place: Rockingham, Virginia</ref>.  Rockingham County deed index shows that a deed occurred in April 1834, Conrad Cline was grantor and Peter Cline was grantee.  None of the deed survived.  The Rockingham County land tax for 1836<ref>Land tax lists of Rockingham County [Virginia] 1782-1863, image 749</ref> shows Peter Cline with 96 acres on Faughts Branch, inherited from Conrad.
-
-Peter Cline died 8 Jul 1857.  A deed 2 Jan 1858<ref>{{FamilySearch Image|3Q9M-CSPP-NSNY-B}}</ref> shows the daughters and their husbands selling the land to Wiliam Moyerheffer.  The land lies "on a branch of Faughts run".  Neighboring lands are owned by Jacob Ruebush and Jacob Earman, possibly with other neighbors whose names did not survive after burning.  Notably, the deed shows that daughter Mary Ann is unmarried.
-
-=== Research Notes ===
 Land Transactions:
+
+* 13 Oct 1828 Conrad Kline to John Roads Book 8 page 342 [partial recovery]
+* 17 Sep 1836 Conrad Kline to Wetsel Book 10 page 360 [partial recovery]
+
 In 1820, Conrad Cline purchased 120 acres on Curtis Creek<ref>Burnt Deed Book 4, page 115, Rockingham County, Virginia, {{FamilySearch Image|3Q9M-CSYX-KGLZ}}</ref>.  In 1827 he sold 20 acres of it to William Nair<ref>Burnt Deed Book 7, page 261, none of which survived</ref>.  The remainder of the land was sold to John Roads 8 Oct 1828<ref>Burnt Deed Book 8, page 342, Rockingham County, Virginia, {{FamilySearch Image|3Q9M-CSYX-K32M-V}}</ref>.
 
 Rockingham County Land Tax for 1836 shows Peter Cline owned the 96 acres on Faugths Creek "By Conrad Cline". Conrad had died in 1835, but transferred the land to Peter in April 1835, before his death<ref>Burnt Deed Book 11, Page 533, Rockingham County, Virginia.  None survived.</ref>
@@ -31,6 +45,25 @@ After Conrad died:
 Rockingham Atlas Published by D. J. Lake and Co. in 1885, page 7, Ashby Magisterial District - East, Dayton, Spring Creek, Bridgewater, Pleasant Valley Right, shows "Mrs. Jane Shenk" just south of "Mrs. E. Earman", just southwest of Cross Keys, on land near Faught's Branch, which runs parallel to Friedens Church Road.
 
 https://rockcova.interactivegis.com/map/
+
+=== Death ===
+Conrad Cline died about 1835, and his son Peter was administrator of the "incuperative will"<ref>Administrators' Bonds, 1778-1874; Author: Virginia. Circuit Court (Rockingham County); Probate Place: Rockingham, Virginia</ref>.  Rockingham County deed index shows that a deed occurred in April 1834, Conrad Cline was grantor and Peter Cline was grantee.  None of the deed survived.  The Rockingham County land tax for 1836<ref>Land tax lists of Rockingham County [Virginia] 1782-1863, image 749</ref> shows Peter Cline with 96 acres on Faughts Branch, inherited from Conrad.
+
+Peter Cline died 8 Jul 1857.  A deed 2 Jan 1858<ref>{{FamilySearch Image|3Q9M-CSPP-NSNY-B}}</ref> shows the daughters and their husbands selling the land to Wiliam Moyerheffer.  The land lies "on a branch of Faughts run".  Neighboring lands are owned by Jacob Ruebush and Jacob Earman, possibly with other neighbors whose names did not survive after burning.  Notably, the deed shows that daughter Mary Ann is unmarried.
+
+=== Schlierbach Familienregister ===
+The following information is provided to avoid an incorrect connection to a person with the same name.
+
+Context from Ancestry.com:
+:Beginning in 1808, family tables were extensively recorded in Württemberg and [they] supplement parish records. Three generations of a family are usually recorded on a single or double-page sheet. Each record begins with the male head of household. The family tables are generally arranged alphabetically according to the first letter of the family surname. Depending on the time period and on the individual forms used, you may generally find the following details in these records:
+
+:* Head of household, Father: Last Name, Given names, Occupation, Birthdate, Marriage Date, Death Date, details about his Parents
+:* Mother: Last Name, Maiden Name, Given names, Birthdate, Marriage Date, Death Date, details about her Parents
+:* Children: Last Name, Given names, Occupation, Birthdate, Confirmation or Communion, Marriage Date, details about Spouse, Death Date, often includes children born outside of or previous to the marriage.
+
+Schlierbach is a municipality in the district of Göppingen in Baden-Württemberg, Germany.  The Schlierbach Familienregister (Vol 1 January 1808)<ref>Württemberg, Germany, Family Tables, 1550-1985 [database on-line]. Lehi, UT, USA, Konfirmationen u· Familienregister 1742-1886.  Typed index begins at [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00790?pId=3680746 image 791], title page at [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00807?pId=3680746 image 808], followed by the hand-written index.  The Johannes Klein family is on [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00947?pId=3680746 page 267] of this registry.</ref>, shows a family of Johannes Klein.  In the list of children, "#4" is Conrad, born 26 Jan 1772 and confirmed in 1786.
+
+Translation of the annotations shows that Conrad "emigrated to Podolia" in the Ukraine area.  In addition, the birth year and list of siblings do not match any information in the Rockingham County records or census information.  More supportive information would need to come to light to connect the "Conrad Klein" in the family table to Conrad Cline in Rockingham County.  Otherwise, the connection may be labeled as unconfirmed, and doubtful.
 
 == Sources ==
 <references />

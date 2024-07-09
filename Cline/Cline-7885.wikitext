@@ -2,19 +2,19 @@
 
 * Name:  John B Cline<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref>
 * [[#birth|Birth]]:  1785-1788
-* Parents:  Johannes Klein and unknown mother.
+* Parents:  Possibly Johannes Klein and Christina Catharina Wacker.
 * Spouse:  Susannah Nair<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref> m. 28 Aug 1809.
 
 == Research Notes ==
 
 === Birth ===
-"Kline John (of Conr." first appears in the 1819 Rockingham Personal Property Tax list.
+"Kline John (of Conr." first appeared in the 1819 Rockingham Personal Property Tax list.
 * Conrad Cline's tithable count increased to 2 in 1817.
 * It was still 2 in 1819, but was reduced to 1 in 1820.  Conrad's son Peter Cline would have been 21 in 1819<ref>1850 United States Federal Census, Year: 1850; Census Place: District 56, Rockingham, Virginia; Roll: M432_974; Image: 345</ref><ref>Rockingham County, Virginia, Death Index, 1853-1861</ref><ref>Tombstone image, Find a Grave, database and images (https://www.findagrave.com/memorial/54746398/peter-cline: accessed July 4, 2024), memorial page for Peter Cline (17 Aug 1798–8 Jul 1857), Find a Grave Memorial ID 54746398, citing Friedens United Church of Christ Cemetery, Friedens, Rockingham County, Virginia, USA; Maintained by Anonymous (contributor 47074340).</ref>,
 * The tithable count was not enumerated in the tax lists from 1821-1829.
-* "Peter Cline of Conrad" first appears in the 1830 Rockingham Personal Property Tax list, at age 32.
+* "Peter Cline of Conrad" first appeared in the 1830 Rockingham Personal Property Tax list, at age 32.
 
-Calculating birth year:
+With the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, the birth year is calculated based on the following:
 # Married without father's consent in 1809 = 1788 or before
 # Census 1810 age 16-25 = 1785-1794
 # Census 1820 age 26-44 = 1776-1794
@@ -22,10 +22,26 @@ Calculating birth year:
 Birth year range is 1785-1788
 
 === Parents ===
+Based on the birth year calculation and the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, it is unlikely that John B Cline is the ''son'' of Conrad Cline, since Conrad would have been at most 16 years old when John B Cline was born.
 
-Usually "of Conr[ad]" in the tax list is an indicator of a father-son relationship, however the age difference suggests the more likely possibility of their being brothers.  Since Conrad had no sons until Peter's birth in 1798, it is possible that John lived with Conrad and helped with the farming.
+Possibilities:
+# He is Conrad's brother.  In this case, based on birth year, Johannes Klein is his father and Christina Catharina Wacker is his mother.  Because he is not named among Johannes and Christina's children in the Schlierbach Konfirmationen u· Familienregister 1742-1886, this seems less likely.
+# He is Conrad's cousin or nephew.
 
-If it is true that John B is Conrad's brother, then Johannes is his father.  If the birth year calculation is correct, then John B was born before Christina Catharina Wacker died, and she is his mother.
+There is another "Klein" family in the Schlierbach Konfirmationen u· Familienregister:
+* Joseph Klein b. 7 Jan 1740, d. 10 Jan 1818 &#91;in Virginia.  See Spouse (3)&#93;
+* Spouse (1) Elisabetha Hausmann b. 6 Jan 1726, (no marriage date), d. 8 Nov 1785; d/o Lorentz Hausmann and Euphrosina Schwartz
+* Spouse (2) Anna Eberlin b. 11 Oct 1751, m. 9 May 1786, d. 13 Mar 1788; d/o Jakob Eberlin and Anna Kohler
+* Spouse (3) Maria Barbara Schmid b 7 May 1742, m. 14 Oct 1788, d. 17 Mar 1813 in Virginia; d/o Christoph Schmid and Anna Maria Rebstock
+* Parents of Joseph:  Benedict Klein and Elisabetha Frowein
+* No children are listed in the family register.
+
+To put John B. Cline in this family is speculative but plausible
+* It is possible that his middle name could be "Benedict".
+* It is possible that Anna Eberlin is his mother, and died giving birth.
+* It is possible that Maria Barbara is his mother, and he is the "first fruit" of the marriage.
+
+
 
 === Marriage ===
 John and Susannah's marriage is listed in John Brown's minister's return.  Also included in the return's long list are Peter Cline to Christina Royer, Jacob Koontz to Nancy Cline, and other daughters of Conrad and Marie Cline.
@@ -51,14 +67,6 @@ Property Tax lists:
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSYD-J?i=79&cat=411278 1829]: Cline John, &#91;1 tithable &#93;, 3 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSY4-8?i=180&cat=411278 1830]:  John B Cline, 2 tithables, 3 horses &#91;Peter Cline first appears&#93;
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTF-K?i=210&cat=411278 1831]:  Not present.  "Peter Cline & Father" is in the list with 2 tithables and 5 horses (same number of horses as for Conrad in 1830).
-
-Deeds | Grantee:
-* 1816 Book 3 p 158
-* 1819 Book 4 p 154
-* 1818 Book 4 p 208, Book 4 p 224
-* 1822 Book 5 p 402
-* 1823 Book 5 p 531
-* 
 
 == Sources ==
 <references />
