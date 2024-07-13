@@ -1,10 +1,10 @@
 == Biography ==
 
-* Name:  Conrad Cline
-* [[#birth|Birth]]: Abt 1765 (''see [[#schlierbach-familienregister|Schlierbach Familienregister]] for differentiation'')
-* Parents:  John Cline, mother's name undetermined
-* Spouse:  Marie Ruebush or Rautenbusch (as in Friedens Church record) or Raudenbush.  Ruebush is "proper English spelling".
-* [[#death|Death]]: Abt Oct 1835
+* Name:  Conrad Cline (''see [[#Schlierbach_Familienregister|Schlierbach Familienregister]] for differentiation'')
+* [[#Birth|Birth]]: Abt 1765
+* [[#Parents|Parents]]:  John Cline, mother's name undetermined
+* Spouse:  Marie Ruebush or Rautenbusch (as in Friedens Church record) or Raudenbush.  Ruebush is "proper English spelling".  (''See [[#Swank_History_on_Ruebush|Swank History on Ruebush]]'')
+* [[#Death|Death]]: Abt Oct 1835
 
 Children:
 * John B.<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref> b. Abt 1788 
@@ -15,13 +15,24 @@ Children:
 * Peter "a son"<ref>opc cit, p 24</ref> b. 29 Sep 1798
 * Anna<ref>op cit, p 38</ref> b. 24 Apr 1804
 
-=== Research Notes ===
+== Research Notes ==
+John Cline is inferred as Conrad's father from the Rockingham County personal property and land tax lists
 
 === Birth ===
 * 1788 Property Tax:  age 21 or older = 1767 or earlier
 * 1810 Census: age in the over 45 bracket = 1765 or earlier birth year
 * 1820 Census: age in the over 45 bracket
 * 1830 Census: age in the 60-69 bracket = 1761-1770 birth year
+
+=== Parents ===
+John Cline is inferred as Conrad's father from the Rockingham County personal property and land tax lists.
+* 1788 Property Tax:  "Coonrod Cline" is first listed in sequence with John Cline.
+* 1791 Land Tax lists "John & Conrod" holding a newly acquired 133 acres.  This continues until 1797, when Conrad Cline is listed alone for the land, with the notation "from John".
+
+=== Marriage ===
+Marie Ruebush or Raudenbusch is believed to be Conrad's wife.
+* "Anna Maria Rautenbusch" was the sponsor at the baptism of Marie and Conrad's daughter, Susannah, at Frieden's Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 12</ref>
+* "Anna Maria Rautenbusch" is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush", b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.
 
 === Residence in Rockingham, Virginia ===
 Conrad Cline received land from John Cline, likely his father.  The Rockingham County deed index<ref>General index to deeds, grantors and grantees, Vol. 4, 1778-1863, Virginia. County Court (Rockingham County) (Main Author), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1952</ref> shows Sep 1799 as the date of transfer, and that nothing of the deed survived.
@@ -64,6 +75,12 @@ Context from Ancestry.com:
 Schlierbach is a municipality in the district of Göppingen in Baden-Württemberg, Germany.  The Schlierbach Familienregister (Vol 1 January 1808)<ref>Württemberg, Germany, Family Tables, 1550-1985 [database on-line]. Lehi, UT, USA, Konfirmationen u· Familienregister 1742-1886.  Typed index begins at [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00790?pId=3680746 image 791], title page at [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00807?pId=3680746 image 808], followed by the hand-written index.  The Johannes Klein family is on [https://www.ancestry.com/imageviewer/collections/61389/images/1056861-00947?pId=3680746 page 267] of this registry.</ref>, shows a family of Johannes Klein.  In the list of children, "#4" is Conrad, born 26 Jan 1772 and confirmed in 1786.
 
 Translation of the annotations shows that Conrad "emigrated to Podolia" in the Ukraine area.  In addition, the birth year and list of siblings do not match any information in the Rockingham County records or census information.  More supportive information would need to come to light to connect the "Conrad Klein" in the family table to Conrad Cline in Rockingham County.  Otherwise, the connection may be labeled as unconfirmed, and doubtful.
+
+=== Swank History on Ruebush ===
+
+From ''The Raudenbusch Family'' by John Robert Swank<ref>Accessed 12 Jul 2024 at https://www.habersack.com/?page_id=72</ref>:
+
+:400C. Marie Ruebush was born c.1776. She married Conrad Cline, and she and her husband also settled in Rockingham County. At least by 1792, Conrad was a near neighbor of the Wheelbargers and George. Mollie Keller Ruebush was the sponsor at the baptism of Marie and Conrad's daughter, Susannah, at Frieden's Church. Marie apparently died before 1820 since the Rockingham County Census for that year shows Conrad Kline as being over 45 years of age, and the only other person in his household was a female 16-21, probably his daughter, Susannah.
 
 == Sources ==
 <references />

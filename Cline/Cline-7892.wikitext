@@ -1,6 +1,6 @@
 == Biography ==
 * Name:  Adam Cline
-* Birth:  Abt 1771
+* [[#birth|Birth]]:  Abt 1771 or earlier
 * Parents:  John Cline and unknown mother
 * Spouse:  Suanna<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref>
 
@@ -11,6 +11,9 @@ Children:
 * Catharina<ref>op cit, p 26</ref> b 11 April 1799, bp 7 Jul 1799.  Sp. Catharina Brechern
 
 == Research Notes ==
+
+=== Birth ===
+When Adam appears in the tithable and tax lists in 1792, he has a 16-year-old apprentice Jacob Smith<ref>Tenth Legion tithables (Rockingham division) Rockingham County, Virginia tithables for 1792, Harry M. Stricker, Luray, Virginia : H.M. Strickler, 1930, page 26</ref>.  His oldest known child also was born in 1792.
 
 === Additional Church Records ===
 Baptism Sponsors:
@@ -27,9 +30,18 @@ The 1795 Rockingham County Land Tax shows that Adam received 164 acres from John
 
 There is a burnt deed index entry dated Sep 1799 with "______ Cline" as grantor and "C. Cline" as grantee.  None of the deed survived.  The date matches the timeframe when Adam appears to have left Rockingham, but Conrad Cline's acreage in the land tax did not change.
 
-There is a burnt deed date 17 Sep 1799<ref>Burnt Deed Book 00, page 363</ref> that accounts for the 164 acres:
+==== 1799 Land Sale ====
+The 1790 Rockingham County Land Tax shows John Cline's original purchase of 164 acres "from Jno. Crookshank & Catharine Cloverfield".  A search of the Burnt Deed index for Rockingham County did not find a deed from Crookshank or Cloverfield, or to Cline or Kline in this timeframe.  The minutes for the 27 Apr 1790 court session<ref>Rockingham County Minute Book 1, p 877 ([https://www.rockinghamcountyva.gov/DocumentCenter/View/16334/Minute-Book--1-1778-1792?bidId= PDF] page 857)</ref> contains the following entry:
 
-:...said John Gibson and Catharine his wife former Catharine Cloverfield, for and in consideration of the sum of one hundred Dollars to them in hand '''paid by John Cline''' the receipt thereof they do hereby acknowledge hath given granted bargained and sold unto the Aforesaid George Congwere and his heirs & Assigns for ever one full moiety on their full part of a certaint tract of Land containing one hundred & sixty four Acres be the same more or less granted to Gasper Miller by patent letters dated the 27th day of August 1770 and by him conveyed to Mary Cloverfield (now Crookshank) and Catharine Cloverfield (now the present wife of the said John Gibson[)] by deed of Bargain and Sale Dated the 26th day of August 1782.  Excepting two acres that was Deeded to Nickoless Poss out of said number Lying and being on the north side of the North river in the County of Rockingham and by them the said John Crook Shank and Mary his wife whose maiden name was Cloverfield and her sister Catharine Cloverfield then but now Gibson, after Making Sale of said Land and their pay also to John Cline did convey to the same by virtue of a deed of Bargain and Sale Dated the 27th day of April 1790 which said deed was executed before the said Catharine had arrived to the age required by Law for her to make conveyances or assurances to and for Lands.  Now these present are made for the more effectual Confirming and Establishing the right Title Interest and Claim of the aforesaid Land to George Congwere who purchased of '''Adam Cline''' who purchased of the afore mentioned '''John Cline''' to whom the before mentioned deed was made by them the said John Crookshank Mary his wife and her sister Catharine Cloverfield (now Gibson) the said Tract of Land is Bounded as follows...
+:Deed of B&S.  John Crookshank & Mary his wife She being Privately Exam. & Catherin Cloverfield to John Cline ack. &o to be recorded
+
+Unrecovered deeds for this court session are listed in Burnt Deed Book 000, page 370, and lists only one deed -- not this one.
+
+A search of the 1800 Land Tax showed 164 acres owned by George Congware, and this did not have a matching entry in 1799.  Search of the Burnt Deed Index for grantee George Congware provided the needed index entry for a 17 Sep 1799 deed of sale<ref>Burnt Deed Book 00, page 363</ref>, which held the details of the transaction.
+
+:...said John Gibson and Catharine his wife former Catharine Cloverfield, for and in consideration of the sum of one hundred Dollars to them in hand '''paid by John Cline''' the receipt thereof they do hereby acknowledge hath given granted bargained and sold unto the Aforesaid George Congwere and his heirs & Assigns for ever one full moiety on their full part of a certain tract of Land containing one hundred & sixty four Acres be the same more or less granted to Gasper Miller by patent letters dated the 27th day of August 1770 and by him conveyed to Mary Cloverfield (now Crookshank) and Catharine Cloverfield (now the present wife of the said John Gibson[)] by deed of Bargain and Sale Dated the 26th day of August 1782.  Excepting two acres that was Deeded to Nickoless Poss out of said number Lying and being on the north side of the North river in the County of Rockingham and by them the said John Crook Shank and Mary his wife whose maiden name was Cloverfield and her sister Catharine Cloverfield then but now Gibson, after Making Sale of said Land and their pay also to John Cline did convey to the same by virtue of a deed of Bargain and Sale Dated the 27th day of April 1790 which said deed was executed before the said Catharine had arrived to the age required by Law for her to make conveyances or assurances to and for Lands.  Now these present are made for the more effectual Confirming and Establishing the right Title Interest and Claim of the aforesaid Land to George Congwere who purchased of '''Adam Cline''' who purchased<ref>Rockingham County Land Tax shows Adam assumes ownership in 1795.</ref> of the afore mentioned '''John Cline''' to whom the before mentioned deed was made by them the said John Crookshank Mary his wife and her sister Catharine Cloverfield (now Gibson) the said Tract of Land is Bounded as follows...
+
+It seems likely that recept of "one hundred Dollars...paid by John Cline" is Catharine's ''legal'' acknowledgment of money recieved in 1790, when she was not of age to transact land.  It is possible that John Cline died before this land transaction took place.
 
 == Sources ==
 <references />
