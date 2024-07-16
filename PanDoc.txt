@@ -1,0 +1,22 @@
+-s standalone
+-f from
+-t to
+-o output
+[file name]
+
+pandoc -s -f mediawiki -o research-notes.docx research-notes.wikitext
+pandoc -s -f mediawiki -o WikiTree.docx WikiTree.wikitext
+
+pandoc -s -f mediawiki -o research-notes.html --metadata pagetitle="Page Title" research-notes.wikitext
+
+pandoc -f mediawiki -o reality-check.docx --reference-doc=ref.docx 01-front.wikitext 02-teterick-counts.wikitext 03-john-alderson-deed.wikitext 90-Bibliography.wikitext 91-Land-Surveys.wikitext
+
+pandoc -s -f mediawiki -o WikiTree-Profile.html --metadata pagetitle="Peter Koontz d. 1835" WikiTree-Profile.wikitext
+
+pandoc -s -f mediawiki -o WikiTree-Profile.html --metadata pagetitle="Peter Rothgeb/Roadcap d. 1824" wikitree.wikitext
+
+pandoc -s -f html -t mediawiki -o friedens-xfer.wikitext  Friedens.html
+
+pandoc -s -f html -t mediawiki -o raudenbusch-xfer.wikitext  Treatise
+pandoc -s -f html -t mediawiki -o descendants-of-hans-peter-raudenbusch.wikitext Descendants\ of\ Hans\ Peter\ Raudenbusch.html
+pandoc -s -f html -t mediawiki -o ruebush-connection.wikitext Ruebush\ Connection.html
