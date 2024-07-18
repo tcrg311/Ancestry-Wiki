@@ -3,13 +3,13 @@
 * Name:  Conrad Cline (''see [[#Schlierbach_Familienregister|Schlierbach Familienregister]] for differentiation'')
 * [[#Birth|Birth]]: Abt 1765
 * [[#Parents|Parents]]:  John Cline, mother's name undetermined
-* Spouse:  Marie Ruebush or Rautenbusch (as in Friedens Church record) or Raudenbush.  Ruebush is "proper English spelling".  (''See [[#Swank_History_on_Ruebush|Swank History on Ruebush]]'')
+* Spouse:  [[Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]].  (''See [[#Swank_History_on_Ruebush|Swank History on Ruebush]]'')
 * [[#Death|Death]]: Abt Oct 1835
 
 Children:
 * John B.<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref> b. Abt 1788 
 * Elisabeth<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> b. 19 Feb 1792.
-* Mary Ann "Polly"<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref> b. Abt 1792<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 56, Rockingham, Virginia; Roll: 974; Page: 170b</ref>
+* Mary Ann "Polly"<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref> b. Abt 1792?<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 56, Rockingham, Virginia; Roll: 974; Page: 170b</ref>.  Age on tombstone is 69 years 18 days, and death date is 15 Mar 1857, which would calculate a birth date 26 Feb 1788.
 * Susannah<ref>op cit, p 12</ref> b. 3 Feb 1794
 * Sarah<ref>op cit, p 17</ref> b. 25 Jul 1796
 * Peter "a son"<ref>opc cit, p 24</ref> b. 29 Sep 1798
@@ -30,11 +30,45 @@ John Cline is inferred as Conrad's father from the Rockingham County personal pr
 * 1791 Land Tax lists "John & Conrod" holding a newly acquired 133 acres.  This continues until 1797, when Conrad Cline is listed alone for the land, with the notation "from John".
 
 === Marriage ===
-Marie Ruebush or Raudenbusch is believed to be Conrad's wife.
+[[Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]] is believed to be Conrad's wife.
 * "Anna Maria Rautenbusch" was the sponsor at the baptism of Marie and Conrad's daughter, Susannah, at Frieden's Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 12</ref>
-* "Anna Maria Rautenbusch" is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush", b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.
+* "Anna Maria Rautenbusch" is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush" (see [[Keller-3030|Anna Mary (Keller) Ruebush (1736-1815)]]), b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.
+
+Conrad's wife, Marie, is thought to have been born about 1776.  If so, she would have been 34 in 1810, but this wasn not enumerated in the "26 and under 45" bracket in Conrad's household.
 
 === Residence in Rockingham, Virginia ===
+{| border="1" class="wikitable" | style="padding: 5px;"
+|+ 1810 Census<ref>"United States Census, 1810", Rockingham County, Virginia, p 133, {{FamilySearch Image|XH2Q-8D3}}</ref>  :  Not alphabetical, possible proximity to adjoining names.
+! rowspan=2 | Name !! colspan=5  | Males !! colspan=5 | Females !! rowspan=2 | Slaves
+|- 
+! under 10 !! 10 and under 16 !! 16 and under 26 !! 26 and under 45 !! 45 and upwards !! under 10 !! 10 and under 16 !! 16 and under 26 !! 26 and under 45 !! 45 and upwards !!
+|-
+| George Roudebush || 4 || 2 || - || 1 || - || 1 || 1 || 1 || 1 || - || -
+|-
+| '''Conrad Cline''' || 1 || - || - || - || 1 || 2 || 2 || 1 || - || - || -
+|-
+| John Cline || - || - || 1 || - || - || 1|| - || 1 || - || - || -
+|}
+
+Matching names of Conrad's children to the columns:
+# Male under 10 is Peter Cline (about 12. The Friedens Church baptismal record accounted to Peter does not name Conrad's son b. 17 Aug 1798, which allows for two possibilities: (1) the son born in 1798 is not Peter; (2) clerical error in the census.)
+# Male 45 and upwards is Conrad (about 50 or older)
+# Females under 10 (2) are Anna (age 6) and someone else
+# Females 10 and under 16 are Sarah (age 13 or 14) and someone else
+# Females 16 and under 26 are Susannah (age 16) and Elizabeth (age 18)
+Mary Polly married William Nair 20 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number 1809-00055, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8</ref>
+
+{| border="1" class="wikitable" | style="padding: 5px;"
+|+ 1820 Census<ref>"United States Census, 1820", Rockingham County, Virginia, p 145, {{FamilySearch Image|XHLZ-TYY}}</ref> : Alphabetical, proximig to adjoining names is possible but incomplete.
+! rowspan=2 | Name !! colspan=6  | Males !! colspan=5 | Females !! rowspan=2 | Slaves
+|- 
+! under 10 !! 10 and under 16 !! 16 and under 18 !! 16 and under 26 !! 26 and under 45 !! 45 and upwards !! under 10 !! 10 and under 16 !! 16 and under 26 !! 26 and under 45 !! 45 and upwards !!
+|-
+| '''Conrad Kline''' || - || 1 || - || - || - || 1 || - || 1 || 1 || - || - || - 
+|-
+| John Kline || 1 || - || - || - || 1 || - || 1 || - || 1 || - || - || -
+|}
+
 Conrad Cline received land from John Cline, likely his father.  The Rockingham County deed index<ref>General index to deeds, grantors and grantees, Vol. 4, 1778-1863, Virginia. County Court (Rockingham County) (Main Author), Salt Lake City, Utah : Filmed by the Genealogical Society of Utah, 1952</ref> shows Sep 1799 as the date of transfer, and that nothing of the deed survived.
 
 Until 1833, the land tax shows an 8 miles south "Distance and Bearing" from the courthouse.  A new courthouse was built "1833-1834"<ref>"Courthouse Square in Early Harrisonburg and Activities Connected with Court Days", Dale MacAllister, 2005, https://www.rockinghamcountyva.gov/DocumentCenter/View/179/Courthouse-Square-in-Early-Harrisonburg--Activities-Connected-with-Court-Days?bidId=</ref>.  In 1833 the land tax shows the bearing is SE of the courthouse.  (The distance is hidden in the microfilmed document, but later is consistenly shown to be 10 miles.)  This puts the land roughly half way between Cross Keys and Port Republic.
