@@ -8,12 +8,12 @@
 
 Children:
 * John B.<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref> b. Abt 1788 
+* Mary Ann "Polly"<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref> b. Abt 1782?<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 56, Rockingham, Virginia; Roll: 974; Page: 170b</ref>.  Age on tombstone is 69 years 18 days, and death date is 15 Mar 1857, which would calculate a birth date 26 Feb 1788.
 * Elisabeth<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> b. 19 Feb 1792.  Friedens Church baptism entry shows that her parents are "Conrad Klein & wife Maria".
-* Mary Ann "Polly"<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref> b. Abt 1792?<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 56, Rockingham, Virginia; Roll: 974; Page: 170b</ref>.  Age on tombstone is 69 years 18 days, and death date is 15 Mar 1857, which would calculate a birth date 26 Feb 1788.
-* Susannah<ref>op cit, p 12</ref> b. 3 Feb 1794. Friedens Church baptism entry shows that her parents are "Conrad Klein & wife".
-* Sarah<ref>op cit, p 17</ref> b. 25 Jul 1796. Friedens Church baptism entry shows that her parents are "Conrad Klein & wife Maria".
-* Peter "a son"<ref>op cit, p 24</ref> b. 29 Sep 1798. Friedens Church baptism entry shows that his father is "Conrad Klein".  Other baptisms on the same page show the father's name with "& wife".
-* Anna<ref>op cit, p 38</ref> b. 24 Apr 1804.  Friedens Church baptism entry shows that her father "Conrad Klein".  Other baptisms on the same page show both the father's and mother's names.
+* Susannah<ref>German Church Records, p 12</ref> b. 3 Feb 1794. Friedens Church baptism entry shows that her parents are "Conrad Klein & wife".
+* Sarah<ref>German Church Records, p 17</ref> b. 25 Jul 1796. Friedens Church baptism entry shows that her parents are "Conrad Klein & wife Maria".
+* Peter "a son"<ref>German Church Records, p 24</ref> b. 29 Sep 1798. Friedens Church baptism entry shows that his father is "Conrad Klein".  Other baptisms on the same page show the father's name with "& wife".
+* Anna<ref>German Church Records, p 38</ref> b. 24 Apr 1804.  Friedens Church baptism entry shows that her father is "Conrad Klein".  Other baptisms on the same page show both the father's and mother's names.
 
 == Research Notes ==
 
@@ -33,9 +33,32 @@ John Cline is inferred as Conrad's father from the Rockingham County personal pr
 * "Anna Maria Rautenbusch" was the sponsor at the baptism of Marie and Conrad's daughter, Susannah, at Frieden's Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 12</ref>
 * "Anna Maria Rautenbusch" is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush" (see [[Keller-3030|Anna Mary (Keller) Ruebush (1736-1815)]]), b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.
 
-Marie is thought to have been born about 1776 and to have died in 1820 or earlier.  However, the 1810 census does not show anyone in the female "26 and under 45" bracket in Conrad's household, which makes it possible that Marie died before 1810, or that she is living elsewhere, or that there was a clerical error.
 
+Marie is thought to have been born about 1776, but it is unclear where this estimate came from.  Some information suggests the possibility that Marie was born before 1776.
+* The calculated birth years for their children John B. and Mary Ann (around 1788) makes a 1776 birth year seem a little young, although it is possible that Marie is not Conrad's first wife, and biologically not the mother of John B. and Mary Ann.
+* Marie's father John died in 1787{{Citation needed}} , and on May 27, 1788, Michael, John's brother, was appointed guardian{{Citation needed}}  of three of John's children: Margaret, Susannah and George.  If she was born in 1776, Marie would have been about 12, and it seems unlikely that she would have been married at this age, though not legally impossible.
 
+No primary reference has been found to support a 1776 birth year.  The age of the older children and the guardian bond without her name suggests an earlier timeframe, 1770 or earlier.
+
+Marie is thought to have died in 1820 or earlier, because "the Rockingham County Census for that year shows Conrad Kline as being over 45 years of age, and the only other person in his household was a female 16-21, probably his daughter, Susannah<ref>Swank History on Ruebush, by John Robert Swank.  See https://www.habersack.com/?page_id=72, accessed 18 Jul 2024</ref>.  However, the 1810 census does not show anyone in the female "26 and under 45" bracket in Conrad's household, which indicates that it's possible that Marie died before 1810.  
+
+=== Children ===
+Neither John B. nor Mary Ann were listed in the baptismal records of Friedens Church.
+
+John B. married Susannah Nair 28 Aug 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref>.  There is no father's consent from Conrad in the Rockingham marriage records. It is possible to estimate that he was at least 21 in 1809, which calculates his birth year at 1788 or earlier.
+
+Mary Ann married William Nair 20 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1809-00055, [https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8 Marriage Bond]</ref>.  There is no father's consent from Conrad in the Rockingham marriage records.  There is conflicting information about her age.
+* The 1850 census<ref>"United States Census, 1850", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8DG-T89 : Fri Mar 08 10:43:53 UTC 2024), Entry for Wm Nair and Mary Nair, 1850.</ref> shows her age to be 68.
+* On her tombstone, her age at death is inscribed "69 years 18 days", and her death date is 15 Mar 1857, which would calculate a birth date 26 Feb 1788.
+
+=== Migration ===
+The details of Conrad's family's migration to Rockingham are unknown.  Because John Cline's entries in the Rockingham personal property tax list begins in 1787, enumerated 13 Mar 1787, it is plausible that he migrated to Rockingham 1786-1787.
+
+Conrad is first enumerated in Rockingham 7 Aug 1788, with the notation "no property".  It is possible that he migrated with John and was not an independent head of household in 1787 and now is.  It is possible that he delayed migration and is only just arriving in Rockingham.
+
+The arrival of the Clines in Rockingham is coincident with other family events:
+* John Ruebush (Marie's father) died in 1787.
+* Conrad's children John B. and Mary Ann were born around this time.
 
 === Residence in Rockingham, Virginia ===
 {| border="1" class="wikitable" | style="padding: 5px;"
