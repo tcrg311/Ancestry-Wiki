@@ -3,14 +3,13 @@
 * [[#Name|Name]]:  Willhelm Neher, also spelled William Nair
 * Birth:  28 Feb 1781{{Citation needed}}, New Holland, Lancaster County, PA, USA{{Citation needed}}
 * Parents:  [[Neher-50|Hans Martin Neher (1739-1790)]] and [[Oberle-18|Susanna (Oberle) Neher (1750-1790)]]
-* Spouse:  Mary Ann "Polly" (Cline) Neher
+* Spouse:  [[Cline-7903|Mary Ann "Polly" (Cline) Neher (abt.1788-)]]
 * Death:  20 Apr 1866{{Citation needed}}, Natural Bridge, Rockbridge County, VA, USA{{Citation needed}}
 
 == Research Notes ==
 
-
 === Name ===
-William like some of his other siblings, migrated to a new spelling Nair during his lifetime.
+William like some of his other siblings, migrated to a new spelling Nair during his lifetime.  In Friedens Church records he is entered as Wilhelm Neher or Near or Neer.
 
 === Residence in Rockingham, Virginia ===
 The Rockingham County Personal Property Tax list first shows William in 1809<ref>Another filming, 1992, of lists 1795-1813. (No list for 1808.), Rockingham County, Virginia, South East District, Reuben Harrison's list, page 13 {{FamilySearch Image|3Q9M-CSPG-K359-F}}</ref>, with Martin Sen, Martin Jun, and Henry Nair.
@@ -25,34 +24,68 @@ He cannot be found in the 1810 census, but is present in the 1820<ref>"United St
 
 The oldest female does not appear old enough to be Mary Ann "Polly" (Cline) Nair. 
 
+Personal Propety Tax:  Listed through 1853.  Not found after that.  Samuel Nair begins being listed in 1853.
+
 === Marriage ===
-He married Mary Ann "Polly" Cline 29 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number:  1809-00055 , https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8</ref>, and they had 13 children.
+He married [[Cline-7903|Mary Ann (Cline) Neher (abt.1788-)]] 29 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number:  1809-00055, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8</ref>, and they had 13 children.
 
 Throughout the church records Mary Ann is variously referred to as "Maria", "Maria Ann", and "Polly".  She cannot be accounted for in the 1820 census, but appears in church records in 1826 (see [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Luthern and Reformed Church Records, page 109]]).
 
 William has a sister named Maria, and care is needed in some records to distinguish between them.
 
+=== Rockingham County ===
+20 Apr 1840 deed<ref>Burnt Deed Index says Burnt Deed Book 13 p 84 or 64, but not found.  Index indicates nothing of the deed survived.  See Rockingham County Minute Book 20 page 169 for court entry of the deed</ref> from John Robinson to William Nair [et al? undecipherable clerk abbreviation]
+
+1 Mar 1845 deed<ref>Burnt Deed Book 18, page 49, {{FamilySearch Image|3Q9M-CSYX-VDLH}}</ref> from William Nair & wife (Mary Ann per signature line) and Reuben Sherfy (William's son-in-law) & wife (Susan per signature line) to Adam Croushorn 300 acres on Dry River ("N. Mountain" in Land Tax 1844).
+
 === Friedens Luthern and Reformed Church Records ===
 Page numbers are of the English transcription<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine</ref>.  They are presented in order of the page numbers in the original German records.  This is not always a chronological sequence.
-* p 67: "Wilhelm Nehr & Maria:  Elisabeth b 5 Dec 1811, bp 29 Jun 1812. Sp. the parents"
-* p 69: "Wilhelm Nehr & wife:  Susanna [b] 21 Jan [1813], bp 16 May 1813, Sp. Wilhelm Nehr[?]"
-* p 71: "Wilhelm Nehr & Maria:  Chadarina b 28 Jan 1814, bp 20 Mar 1814. Sp. Wil. Nehr & wife"
-* p 83: "Wilh. Nehr & Polly:  Petrus b 12 Mar 1819, bp 18 Jul 1819. Sp. the parents"
-* p 87: "Willhelm Nehr & Polly:  Samuel b 11 Aug 1820, bp 19 Nov 1820.  Sp. the parents"
-* p 89: "Willhelm Nehr & Polly:  Willhelm b 18 Feb 1822, bp 21 Apr 1822.  Sp. the parents"
-* p 95: "Willhelm Near & Polley:  George b 14 Dec 1823, bp 16 May 1824.  Sp. the parents"
-* p 97: Communicants 15 Sep 1805:  "Willhelm Neer"; also "Maria Rautebusch", "Martin Neer", "Sus. Neer"
-* p 100: Communicants 17 April 1808:  "Willh. Neer"; also "Mart. Neer"
-* p 104: Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
-* p 109: "Willhelm Nehr & Maria Ann:  Joe Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
-* p 117: Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
-* p 121: Communicants 16 Jun 1811:  "Will. Nehr"
-* p 122: Communicants September 1812:  "Will. Neer"; also "Joh. Klein", "Elies. Neer", "Elies. Klein", "Maria Rautebusch"
-* p 124: Communicants 19 September 1813:  "Willh. Nehr"; also "Mart. Neher", "Joh. Klein"
-* p 126: Communicants 12 Jun 1814: "Willh. Nehr"; also "Mart. Nehr", "Joh. Klein", "Martin Nehr", "Susanna Nehr", "Maria Rautebusch", "Polly Nehr", "Maria Nehr" (This was a confirmation service)
-* p 133: Communicants 21 September [1817]:  "Willh. Neer"; also "Mart. Neer"
-* p 136: Communicants 19 September [1818]:  "Wilh. Near"; also "Mart. Near"
-
+{|
+! colspan=2 | Page !! rowspan=2 | Entry
+|-
+! English !! German 
+|-
+| align=center | 67 || align=center | 0 || "Wilhelm Nehr & Maria:  Elisabeth b 5 Dec 1811, bp 29 Jun 1812. Sp. the parents"
+|-
+| align=center | 69 || align=center | 0 || "Wilhelm Nehr & wife Susanna [b] 21 Jan [1813], bp 16 May 1813, Sp. Wilhelm Nehr[?]"
+|-
+| align=center | 71 || align=center | 0 || "Wilhelm Nehr & Maria:  Chadarina b 28 Jan 1814, bp 20 Mar 1814. Sp. Wil. Nehr & wife"
+|-
+| align=center | 83 || align=center | 0 || "Wilh. Nehr & Polly:  Petrus b 12 Mar 1819, bp 18 Jul 1819. Sp. the parents"
+|-
+| align=center | 87 || align=center | 0 || "Willhelm Nehr & Polly:  Samuel b 11 Aug 1820, bp 19 Nov 1820.  Sp. the parents"
+|-
+| align=center | 89 || align=center | 0 || "Willhelm Nehr & Polly:  Willhelm b 18 Feb 1822, bp 21 Apr 1822.  Sp. the parents"
+|-
+| align=center | 95 || align=center | 0 || "Willhelm Near & Polley:  George b 14 Dec 1823, bp 16 May 1824.  Sp. the parents"
+|-
+| align=center | 97 || align=center | 0 || Communicants 15 Sep 1805:  "Willhelm Neer"; also "Maria Rautebusch", "Martin Neer", "Sus. Neer"
+|-
+| align=center | 100 || align=center | 0 || Communicants 17 April 1808:  "Willh. Neer"; also "Mart. Neer"
+|-
+| align=center | 104 || align=center | 0 || Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
+|-
+| align=center | 109 || align=center | 0 || "Willhelm Nehr & Maria Ann:  Joe Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
+|-
+| align=center | 117 || align=center | 0 || Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
+|-
+| align=center | 121 || align=center | 0 || Communicants 16 Jun 1811:  "Will. Nehr"
+|-
+| align=center | 122 || align=center | 0 || Communicants September 1812:  "Will. Neer"; also "Joh. Klein", "Elies. Neer", "Elies. Klein", "Maria Rautebusch"
+|-
+| align=center | 124 || align=center | 0 || Communicants 19 September 1813:  "Willh. Nehr"; also "Mart. Neher", "Joh. Klein"
+|-
+| align=center | 126 || align=center | 0 || Communicants 12 Jun 1814: "Willh. Nehr"; also "Mart. Nehr", "Joh. Klein", "Martin Nehr", "Susanna Nehr", "Maria Rautebusch", 
+"Polly Nehr", "Maria Nehr" (This was a confirmation service)
+|-
+| align=center | 133 || align=center | 0 || Communicants 21 September [1817]:  "Willh. Neer"; also "Mart. Neer"
+|-
+| align=center | 136 || align=center | 0 || Communicants 19 September [1818]:  "Wilh. Near"; also "Mart. Near"
+|}
+== Bibliography ==
+* [https://www.rockinghamcountyva.gov/667/Minute-Books | Rockingham County Minute Books]
+* German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine
+* Tauf und Kirchen Buch vor die gemeinschaftliche vereinigte Gemeinde an der Friedens Kirche Rockingham County, Library of Virginia Microfilm Misc. reel 349
 
 == Sources ==
 <references />
