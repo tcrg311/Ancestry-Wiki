@@ -38,6 +38,15 @@ William has a sister named Maria, and care is needed in some records to distingu
 
 1 Mar 1845 deed<ref>Burnt Deed Book 18, page 49, {{FamilySearch Image|3Q9M-CSYX-VDLH}}</ref> from William Nair & wife (Mary Ann per signature line) and Reuben Sherfy (William's son-in-law) & wife (Susan per signature line) to Adam Croushorn 300 acres on Dry River ("N. Mountain" in Land Tax 1844).
 
+The 1850 census<ref>"United States Census, 1850", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8DG-T89 : Fri Mar 08 10:43:53 UTC 2024), Entry for Wm Nair and Mary Nair, 1850.</ref> shows:
+* Pleasant Valley, Rockingham, Virginia, United States
+* Wm Nair age 61 years
+* Mary Nair age 68 years (wife or sister?)
+* Geo Nair age 27 years
+* Hugh Nair age 22 years (possibly "Joe Harrison" in [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Church Records]] p 109)
+* Malinda Nair age 18
+* Simeon Nair age 16
+
 === Friedens Luthern and Reformed Church Records ===
 Page numbers are of the English transcription<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine</ref>.  They are presented in order of the page numbers in the original German records.  This is not always a chronological sequence.
 {|
@@ -45,42 +54,41 @@ Page numbers are of the English transcription<ref>German Church Records of Rocki
 |-
 ! English !! German 
 |-
-| align=center | 67 || align=center | 0 || "Wilhelm Nehr & Maria:  Elisabeth b 5 Dec 1811, bp 29 Jun 1812. Sp. the parents"
+| align=center | 67 || align=center | 115 || "Wilhelm Nehr & Maria:  Elisabeth b 5 Dec 1811, bp 29 Jun 1812. Sp. the parents"
 |-
-| align=center | 69 || align=center | 0 || "Wilhelm Nehr & wife Susanna [b] 21 Jan [1813], bp 16 May 1813, Sp. Wilhelm Nehr[?]"
+| align=center | 69 || align=center | 117 || "Wilhelm Nehr & wife Susanna [b] 21 Jan [1813], bp 16 May 1813, Sp. Wilhelm Nehr[?]"
 |-
-| align=center | 71 || align=center | 0 || "Wilhelm Nehr & Maria:  Chadarina b 28 Jan 1814, bp 20 Mar 1814. Sp. Wil. Nehr & wife"
+| align=center | 71 || align=center | 120 || "Wilhelm Nehr & Maria:  Chadarina b 28 Jan 1814, bp 20 Mar 1814. Sp. Wil. Nehr & wife"
 |-
-| align=center | 83 || align=center | 0 || "Wilh. Nehr & Polly:  Petrus b 12 Mar 1819, bp 18 Jul 1819. Sp. the parents"
+| align=center | 83 || align=center | 138 || "Wilh. Nehr & Polly:  Petrus b 12 Mar 1819, bp 18 Jul 1819. Sp. the parents"
 |-
-| align=center | 87 || align=center | 0 || "Willhelm Nehr & Polly:  Samuel b 11 Aug 1820, bp 19 Nov 1820.  Sp. the parents"
+| align=center | 87 || align=center | 144 || "Willhelm Nehr & Polly:  Samuel b 11 Aug 1820, bp 19 Nov 1820.  Sp. the parents"
 |-
-| align=center | 89 || align=center | 0 || "Willhelm Nehr & Polly:  Willhelm b 18 Feb 1822, bp 21 Apr 1822.  Sp. the parents"
+| align=center | 89 || align=center | 147 || "Willhelm Nehr & Polly:  Willhelm b 18 Feb 1822, bp 21 Apr 1822.  Sp. the parents"
 |-
-| align=center | 95 || align=center | 0 || "Willhelm Near & Polley:  George b 14 Dec 1823, bp 16 May 1824.  Sp. the parents"
+| align=center | 95 || align=center | 158 || "Willhelm Near & Polley:  George b 14 Dec 1823, bp 16 May 1824.  Sp. the parents"
 |-
-| align=center | 97 || align=center | 0 || Communicants 15 Sep 1805:  "Willhelm Neer"; also "Maria Rautebusch", "Martin Neer", "Sus. Neer"
+| align=center | 97 || align=center | 162 || Communicants 15 Sep 1805:  "Willhelm Neer"; also "Maria Rautebusch", "Martin Neer", "Sus. Neer"
 |-
-| align=center | 100 || align=center | 0 || Communicants 17 April 1808:  "Willh. Neer"; also "Mart. Neer"
+| align=center | 100 || align=center | 167 || Communicants 17 April 1808:  "Willh. Neer"; also "Mart. Neer"
 |-
-| align=center | 104 || align=center | 0 || Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
+| align=center | 104 || align=center | 176 || Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
 |-
-| align=center | 109 || align=center | 0 || "Willhelm Nehr & Maria Ann:  Joe Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
+| align=center | 109 || align=center | 185 || "Willhelm Nehr & Maria Ann:  Joe Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
 |-
-| align=center | 117 || align=center | 0 || Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
+| align=center | 117 || align=center | 197 || Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
 |-
-| align=center | 121 || align=center | 0 || Communicants 16 Jun 1811:  "Will. Nehr"
+| align=center | 121 || align=center | 204 || Communicants 16 Jun 1811:  "Will. Nehr"
 |-
-| align=center | 122 || align=center | 0 || Communicants September 1812:  "Will. Neer"; also "Joh. Klein", "Elies. Neer", "Elies. Klein", "Maria Rautebusch"
+| align=center | 122 || align=center | 207 || Communicants September 1812:  "Will. Neer"; also "Joh. Klein", "Elies. Neer", "Elies. Klein", "Maria Rautebusch"
 |-
-| align=center | 124 || align=center | 0 || Communicants 19 September 1813:  "Willh. Nehr"; also "Mart. Neher", "Joh. Klein"
+| align=center | 124 || align=center | 210 || Communicants 19 September 1813:  "Willh. Nehr"; also "Mart. Neher", "Joh. Klein"
 |-
-| align=center | 126 || align=center | 0 || Communicants 12 Jun 1814: "Willh. Nehr"; also "Mart. Nehr", "Joh. Klein", "Martin Nehr", "Susanna Nehr", "Maria Rautebusch", 
-"Polly Nehr", "Maria Nehr" (This was a confirmation service)
+| align=center | 126 || align=center | 214 || Communicants 12 Jun 1814: "Willh. Nehr"; also "Mart. Nehr", "Joh. Klein", "Martin Nehr", "Susanna Nehr", "Maria Rautebusch", "Polly Nehr", "Maria Nehr" (This was a confirmation service)
 |-
-| align=center | 133 || align=center | 0 || Communicants 21 September [1817]:  "Willh. Neer"; also "Mart. Neer"
+| align=center | 133 || align=center | 228 || Communicants 21 September [1817]:  "Willh. Neer"; also "Mart. Neer"
 |-
-| align=center | 136 || align=center | 0 || Communicants 19 September [1818]:  "Wilh. Near"; also "Mart. Near"
+| align=center | 136 || align=center | 234 || Communicants 19 September [1818]:  "Wilh. Near"; also "Mart. Near"
 |}
 == Bibliography ==
 * [https://www.rockinghamcountyva.gov/667/Minute-Books | Rockingham County Minute Books]
