@@ -15,45 +15,37 @@
 * "Peter Cline of Conrad" first appeared in the 1830 Rockingham Personal Property Tax list, at age 32.
 
 With the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, the birth year is calculated based on the following:
-# Married without father's consent in 1809 = 1788 or before
+# Married without father's consent<ref> According to Virginia law, individuals under the age of twenty-one needed the consent of a parent
+or guardian to marry.</ref> in 1809 = 1788 or before
 # Census 1810 age 16-25 = 1785-1794
 # Census 1820 age 26-44 = 1776-1794
 # Census 1830 age 40-49 = 1781-1790
 Birth year range is 1785-1788
-
-=== Parents ===
-Based on the birth year calculation and the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, it is unlikely that John B Cline is the ''son'' of Conrad Cline, since Conrad would have been at most 16 years old when John B Cline was born.
-
-Possibilities:
-# He is Conrad's brother.  In this case, based on birth year, Johannes Klein is his father and Christina Catharina Wacker is his mother.  Because he is not named among Johannes and Christina's children in the Schlierbach Konfirmationen u· Familienregister 1742-1886, this seems less likely.
-# He is Conrad's cousin or nephew.
-
-There is another "Klein" family in the Schlierbach Konfirmationen u· Familienregister:
-* Joseph Klein b. 7 Jan 1740, d. 10 Jan 1818 &#91;in Virginia.  See Spouse (3)&#93;
-* Spouse (1) Elisabetha Hausmann b. 6 Jan 1726, (no marriage date), d. 8 Nov 1785; d/o Lorentz Hausmann and Euphrosina Schwartz
-* Spouse (2) Anna Eberlin b. 11 Oct 1751, m. 9 May 1786, d. 13 Mar 1788; d/o Jakob Eberlin and Anna Kohler
-* Spouse (3) Maria Barbara Schmid b 7 May 1742, m. 14 Oct 1788, d. 17 Mar 1813 in Virginia; d/o Christoph Schmid and Anna Maria Rebstock
-* Parents of Joseph:  Benedict Klein and Elisabetha Frowein
-* No children are listed in the family register.
-
-To put John B. Cline in this family is speculative but plausible
-* It is possible that his middle name could be "Benedict".
-* It is possible that Anna Eberlin is his mother, and died giving birth.
-* It is possible that Maria Barbara is his mother, and he is the "first fruit" of the marriage.
-
-
 
 === Marriage ===
 John and Susannah's marriage is listed in John Brown's minister's return.  Also included in the return's long list are Peter Cline to Christina Royer, Jacob Koontz to Nancy Cline, and other daughters of Conrad and Marie Cline.
 
 === Residence: Rockingham County, Virginia ===
 
-Census:
+==== Friedens Church Records ====
+{| border="1" class="wikitable" | style="padding: 10px;"
+! colspan=2 | Page !! rowspan=2 | Entry
+|-
+! English !! German 
+|-
+| align=center | 76 || align=center | 126 || "Johan Klein & Susanne:  Johan Andreas b 14 Sep 1815, bp 19 Nov 1815. Sp. the parents"
+|-
+| align=center | 81 || align=center | 133 || "Johan Klein & Susanna:  Eliesabeth b 28 May 1817, bp 20 Sep 1817. Sp. the parents"
+|-
+| align=center | 82 || align=center | 136 || "Johan Klein & Susanna:  Samuel b 15 Jan [1819], bp 18 Apr 1819. Sp. the parents"
+|}
+
+==== Census ====
 * 1810<ref>Year: 1810; Census Place: New Haven, Rockingham, Virginia; Roll: 67; Page: 133; Image: Vam252_67-0173; FHL Roll: 0181427</ref>:  Age bracket for John and wife is within 16-25, 1 daughter under 10
 * 1820<ref>Fourth Census of the United States, 1820; Census Place: Rockingham, Virginia; Page: 127; NARA Roll: M33_139; Image: 142</ref>:  Age bracket for John and wife is within 26-44, 4 sons under 10, 2 daughters under 10, 1 daughter 16-25
 * 1830<ref>Year: 1830; Census Place: Rockingham, Virginia; Series: M19; Roll: 199; Page: 205; Family History Library Film: 0029678</ref>:  Age bracket for John and wife is within 40-49, 2 sons under 5, 2 sons 5-9, 3 sons 10-14, 1 son 15-19, 2 daughters under 5, 2 daughters 20-29
 
-Property Tax lists:
+==== Property Tax lists ====
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDCL?i=315&cat=411278 1819]:  Kline John (of Conr., 1 tithable, 3 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-W8LP?i=339&cat=411278 1820]:  Kline John of C., 1 tithable, 2 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDN9?i=417&cat=411278 1821]:  Kline John, &#91;1 tithable &#93;, 2 horses
@@ -67,6 +59,11 @@ Property Tax lists:
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSYD-J?i=79&cat=411278 1829]: Cline John, &#91;1 tithable &#93;, 3 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSY4-8?i=180&cat=411278 1830]:  John B Cline, 2 tithables, 3 horses &#91;Peter Cline first appears&#93;
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTF-K?i=210&cat=411278 1831]:  Not present.  "Peter Cline & Father" is in the list with 2 tithables and 5 horses (same number of horses as for Conrad in 1830).
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTN-5?i=243&cat=411278 1832]:  John Cline, 2 tithables, 3 horses "(on A.W. Kilpatricks place)"
+** 8 Oct 1828 Deed Book 8, Page 342 [partial]  Conrad Cline sold his 90 acres on Cooks Creek to John Roads for one hundred dollars.
+** Until 1832 John B. Cline had be listed in the southeast district.  In 1832 moved to northwest district.
+** Conrad died in 1835, but transferred the land to son Peter Cline in April 1835, before his death.  Deed Book 11, Page 533 [none]
+
 
 == Sources ==
 <references />
