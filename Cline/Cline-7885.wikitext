@@ -1,9 +1,22 @@
 == Biography ==
 
 * Name:  John B Cline<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref>
-* [[#birth|Birth]]:  1785-1788
+* [[#Birth|Birth]]:  1785-1788
 * Parents:  Possibly Johannes Klein and Christina Catharina Wacker.
 * Spouse:  Susannah Nair<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref> m. 28 Aug 1809.
+* [[#Death|Death]]: Abt 1837
+
+Children:
+# Levina[?] b 17 Jun 1810, bp 19 Aug 1810.  [Unconfirmed. Wife's name is not indicated in baptismal record.  John's middle initial not on marriage bond<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00034</ref>.
+# Anna Maria b 16 May 1812, bp 20 Jun 1812, m. Jewitt Messick 17 Nov 1829<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00063</ref>
+# Johan Andreas b 14 Sep 1815, bp 19 Nov 1815, likely m. Daniel Rife 12 Jan 1839
+# Eliesabeth b 28 May 1817, bp 20 Sep 1817. m. <ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00081</ref>; Bond shows:  "Daughter of ________ Cline dec'd"
+# Samuel b 15 Jan [1819], bp 18 Apr 1819.
+# Joseph b 27 Mar 1821, bp 17 Jun 1821.
+# Jacob b 22 Jan 1823, bp 15 Jun 1823.
+# Harrison b 12 Dec 1824, bp 19 Jun 1825.
+# John Brown b 16 Dec 1826, bp 16 Sep 1827.
+# Sally b 23 Aug 1829, bp 21 Mar 1830.
 
 == Research Notes ==
 
@@ -33,17 +46,32 @@ John and Susannah's marriage is listed in John Brown's minister's return.  Also 
 |-
 ! English !! German 
 |-
+| align=center | 61 || align=center | 108 || "John Klein & wife:  Levina[?] b 17 Jun 1810, bp 19 Aug 1810. Sp. the parents" (unverified)
+|-
+| align=center | 67 || align=center | 115 || "Johanannes Klein & Susanna:  Anna Maria b 16 May 1812, bp 20 Jun 1812. Sp. the parents"
+|-
 | align=center | 76 || align=center | 126 || "Johan Klein & Susanne:  Johan Andreas b 14 Sep 1815, bp 19 Nov 1815. Sp. the parents"
 |-
 | align=center | 81 || align=center | 133 || "Johan Klein & Susanna:  Eliesabeth b 28 May 1817, bp 20 Sep 1817. Sp. the parents"
 |-
 | align=center | 82 || align=center | 136 || "Johan Klein & Susanna:  Samuel b 15 Jan [1819], bp 18 Apr 1819. Sp. the parents"
+|-
+| align=center | 87 || align=center | 145 || "Johan Cline & Susanna:  Joseph b 27 Mar 1821, bp 17 Jun 1821. Sp. the parents"
+|-
+| align=center | 106 || align=center | 181 || "John Kline & Susanna:  Jacob b 22 Jan 1823, bp 15 Jun 1823. Sp. the parents"
+|-
+| align=center | 109 || align=center | 184 || "John Cline & Susanna:  Harrison b 12 Dec 1824, bp 19 Jun 1825. Sp. the parents"
+|-
+| align=center | 153 || align=center | 263 || "John Cline & Susanna:  John Brown b 16 Dec 1826, bp 16 Sep 1827. Sp. the parents"
+|-
+| align=center | 168 || align=center | 282 || "John Cline & Susanna:  Sally b 23 Aug 1829, bp 21 Mar 1830. Sp. the parents"
 |}
 
 ==== Census ====
 * 1810<ref>Year: 1810; Census Place: New Haven, Rockingham, Virginia; Roll: 67; Page: 133; Image: Vam252_67-0173; FHL Roll: 0181427</ref>:  Age bracket for John and wife is within 16-25, 1 daughter under 10
 * 1820<ref>Fourth Census of the United States, 1820; Census Place: Rockingham, Virginia; Page: 127; NARA Roll: M33_139; Image: 142</ref>:  Age bracket for John and wife is within 26-44, 4 sons under 10, 2 daughters under 10, 1 daughter 16-25
 * 1830<ref>Year: 1830; Census Place: Rockingham, Virginia; Series: M19; Roll: 199; Page: 205; Family History Library Film: 0029678</ref>:  Age bracket for John and wife is within 40-49, 2 sons under 5, 2 sons 5-9, 3 sons 10-14, 1 son 15-19, 2 daughters under 5, 2 daughters 20-29
+* 1840 There is no John Cline in Rockingham that matches the correct age bracket.
 
 ==== Property Tax lists ====
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C37H-WDCL?i=315&cat=411278 1819]:  Kline John (of Conr., 1 tithable, 3 horses
@@ -63,7 +91,23 @@ John and Susannah's marriage is listed in John Brown's minister's return.  Also 
 ** 8 Oct 1828 Deed Book 8, Page 342 [partial]  Conrad Cline sold his 90 acres on Cooks Creek to John Roads for one hundred dollars.
 ** Until 1832 John B. Cline had be listed in the southeast district.  In 1832 moved to northwest district.
 ** Conrad died in 1835, but transferred the land to son Peter Cline in April 1835, before his death.  Deed Book 11, Page 533 [none]
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSRT-H?i=381&cat=411278 1833]:  John B Cline, 3 tithables, 5 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTN-B?i=419&cat=411278 1834]:  John B Cline, 2 tithables, 4 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSR6-Y?i=518&cat=411278 1835]:  John B Cline, 2 tithables, 5 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSRR-W?i=558&cat=411278 1836]:  John B Cline, 3 tithables, 4 horses
+* [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSYY-G?i=661&cat=411278 1837]:  John B Kline, 3 tithables, 4 horses
 
+=== Death ===
+
+It appears that John B Kline died sometime after the enumeration in the 1837 Rockingham Personal Property Tax lists (see [[#Property_Tax_lists|Property Tax Lists]].
+* He is missing the property tax lists after 1837.
+* Susanna Cline is in the 1840 census in Elkhart, Indiana<ref>Year: 1840; Census Place: Elkhart, Indiana; Roll: 79; Page: 11; Family History Library Film: 0007724</ref> with the children.
+** 1 male 10-14
+** 3 males 15-19
+** 1 female 15-19
+** 1 female 40-49
+* Marriage bond for Elizabeth<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00081</ref> shows:  "Daughter of ________ Cline dec'd"
+* The 8 Apr 1890 obituary<ref>Unable to find primary newspaper citation.  Scan of obituary is at Find a Grave, database and images (https://www.findagrave.com/memorial/132155292/doctor_harrison-cline: accessed July 22, 2024), memorial page for Doctor Harrison Cline (13 Dec 1824–8 Apr 1890), Find a Grave Memorial ID 132155292, citing Marion Cemetery, Marion, Marion County, Kansas, USA; Maintained by Marsha P (contributor 46781493).</ref> for Doctor Harrison Cline indicates that he was born in Rockingham County 12 Dec 1824, and lived there until the fall of 1837.  "At this age he became anxious to try his fortune on the frontier and emigrated to Elkhart county Indiana."
 
 == Sources ==
 <references />
