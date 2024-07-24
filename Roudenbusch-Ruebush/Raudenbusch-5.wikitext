@@ -26,16 +26,16 @@ Marriage: Abt 1767 Frieden Church, Rockingham Co., VA
 
 === Research Notes ===
 
-Committee of Observation for Elizabeth Town District:  Minutes of the "Committee appointed for Licencing"<ref>"Proceedings of the Committee of Observation for Elizabeth Town District [Washington County]", Maryland Historical Magazine, Vol. XIII, September, 1918. No. 3., page 240</ref>
-
+Committee of Observation for Elizabeth Town District:  Minutes of the "Committee appointed for Licencing"<ref>"Proceedings of the Committee of Observation for Elizabeth Town District [Washington County]", Maryland Historical Magazine, Vol. XIII, September, 1918. No. 3., page 240</ref>,  John Raudenbusch is on the second line in the list of licenses.
+<pre>
                   Monday 18 December 1775
-                 Joseph Smith in the Chair
+                    Joseph Smith in the Chair
  Christian Orendorph         John Rentch
  Andrew Rentch               Conrad Hogmire
  George Swengle              John Keller
 
     Mick Kiernan @ Thos Nelan.
-    Andw Miller @ '''John Ronderbush''' and Michael Hayes.
+    Andw Miller @ John Ronderbush and Michael Hayes.
     Ignatius Innus @ Thos Morrow.
     If John Stull will not Bring Suit aginst John Adair before
  next meeting Said Adair may have Licence aginst John Stull.
@@ -44,7 +44,10 @@ Committee of Observation for Elizabeth Town District:  Minutes of the "Committee
     Rudolph Souther @ Peter Palmer.
     Ignatius Simms @ Thomas Powel.
     Thomas Simms @ John Lydny—2 Suits.
+</pre>
 
+Guardian Appointment, May 27, 1788, Orphans Court in York Pennsylvania<ref>"Pennsylvania Probate Records, 1683-1994," images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3QS7-L99B-2W67?cc=1999196&wc=9PMD-923%3A268493601%2C268514801 : 3 July 2014), York > Orphans' Court dockets 1782-1803 vol E-H > image 292 of 886; county courthouses, Pennsylvania.</ref>.
+::Came into Court Margaret Roudebush Aged Nineteen Years, Susannah Roudebush Aged Seventeen Years and George Roudebush Aged fourteen Years and upwards Minor Children of John Roudebush deceased.  And Prayed to be Permitted to Choose a Guardian to take Care of their Persons & Estates and being asked by the Court named Michael Roudebush of Berwick Township York County Whereupon the Court Appoint the said Michael Roudebush to be the Guardian of the said Minors.
 == Sources ==
 FamilySearch.org
 
