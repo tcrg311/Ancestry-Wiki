@@ -1,0 +1,50 @@
+== Biography ==
+Marie was born about 1776. She was the daughter of [[Raudenbusch-5|Johann Raudenbusch]] and [[Keller-3030|Mollie Keller]].  She passed away about 1820. 
+
+== Research Notes ==
+
+=== Ruebush-McNeil Family Genealogies ===
+This reference appears no longer to be available.  
+
+An alternative [https://www.habersack.com/?page_id=72 Swank History on Ruebush] by John Robert Swank, along with a few other Ruebush articles, outlines much of the Ruebush genealogy.  It appears originally to have had footnote references, but these have been lost.
+
+=== Marriage ===
+Traditional thought is that Marie married [[Cline-6479|Conrad Cline (abt.1765-abt.1835)]], so much so that the 1820 estimate of her death is based on his 1820 census information, which has no one in her age bracket.
+
+The marriage to Conrad Cline is based on circumstantial information:
+* "Anna Maria Rautenbusch" was the sponsor at the baptism of Susannah Cline, daughter of "Conrad & wife", at Frieden's Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 12</ref>.  An earlier baptism, for Elizabeth Klein, shows parent's names "Conrad Klein & wife Maria".
+* "Anna Maria Rautenbusch" is traditionally thought to be the same person who was buried in Friedens Church Cemetary as "Mary Ruebush" (early headstone) or "Mary Keller Ruebush" (later headstone; see [[Keller-3030|Anna Mary (Keller) Ruebush (1736-1815)]]), b. 1736, d. 1815, "w/John, parents of George, John, Peter".
+* DNA results show common connections with other descendants of Marie (via [[Cline-6415|Nancy (Cline) Koontz (abt.1804-abt.1870)]]) and of Marie's siblings Elizabeth, Susannah, George, and John.
+
+A marriage to Conrad may introduce questions about Marie's lifespan.
+
+=== Birth ===
+
+Marie is thought to have been born about 1776, but there is no reference or explanation.  Considering a marriage to Conrad Cline, there are some reasons to reevaluate the estimate:
+* Conrad and Marie's older children, [[Cline-7885|John B Cline (abt.1788-abt.1837)]] and [[Cline-7903|Mary Ann (Cline) Neher (abt.1788-)]], were born by 1788.  (Friedens Church records do not list a baptism for these two.)
+* Earliest Friedens Church baptism record specifically indicating "Maria" as Conrad's wife is 10 Aug 1792.
+* May 27, 1788, Orphans Court in York Pennsylvania<ref>"Pennsylvania Probate Records, 1683-1994," images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3QS7-L99B-2W67?cc=1999196&wc=9PMD-923%3A268493601%2C268514801 : 3 July 2014), York > Orphans' Court dockets 1782-1803 vol E-H > image 292 of 886; county courthouses, Pennsylvania.</ref>:  Marie is not in this list.
+::Came into Court Margaret Roudebush Aged Nineteen Years, Susannah Roudebush Aged Seventeen Years and George Roudebush Aged fourteen Years and upwards Minor Children of John Roudebush deceased.  And Prayed to be Permitted to Choose a Guardian to take Care of their Persons & Estates and being asked by the Court named Michael Roudebush of Berwick Township York County Whereupon the Court Appoint the said Michael Roudebush to be the Guardian of the said Minors.
+
+Possible conclusions:
+* Considering the c1788 birth years of Conrad's older children, it is possible they had a different mother.
+* Considering Elizabeth's 1792 birth year, it is possible that Marie was married and gave birth when she was around 16 years old.
+* Considering 1788 guardian bond, it is possible that Marie was under the age of 13, and not qualified to choose her own guardian, or that she was just old enough to choose a guardian, but didn't wish to live in Pennsylvania with Michael Roudebush.
+* In each case above, the alternate possibility is to estimate that she was born in the 1767-1771 range.
+
+=== Death ===
+
+Marie is ''thought'' to have died by 1820 because "the Rockingham County Census for that year shows Conrad Kline as being over 45 years of age, and the only other person in his household was a female 16-21, probably his daughter, Susannah<ref>Swank History on Ruebush, by John Robert Swank.  See https://www.habersack.com/?page_id=72, accessed 18 Jul 2024</ref>.  This could also be reconsidered.
+* The 1810 census for Conrad Cline<ref>"United States Census, 1810", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XH2Q-8DS : Sun Mar 10 21:46:57 UTC 2024), Entry for Conrad Kline, 1810.</ref> does not show anyone in the female "26 and under 45" or "45 and over" brackets in his household.  The oldest female is 16-25, probably Elizabeth, who married in 1812, or Susannah who would be just 16 in 1810 (birthday in April, census 6 Aug).
+* In Friedens Church baptism records, there are two instances where only Conrad's name is shown:
+** "A son [Peter] born to Conrad Klein on 17 August 1798, bp 29 September 1798"<ref>Burkett, page 24</ref>. In the German original, the baptisms on the same page include "and his wife", and the child's given name.
+** "Anna" daughter of "Cunrad Klein", baptized 21 May 1804, with Marie's sister, Margaret Lange, and her husband Adam as sponsors<ref>Burkett, page 38</ref>.  In the German original, the baptisms on the same page, five of them having the same baptism date, include mother's name.
+
+Possible conclusions:
+* While estimating death before 1820 would not be inaccurate, it is possibly misleading.
+* Considering the 1810 census, it is possible that Marie died before 1810.
+* Considering the 1804 baptism record, it is possible that Marie died in childbirth, noting that there are instances where a baptism has the father's name with "widow", which is not the case here.
+
+== Sources ==
+<references />
+* [http://jimnmel.org/Genealogies/wc01/wc01_285.html Ruebush-McNeil Family Genealogies]
