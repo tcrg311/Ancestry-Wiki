@@ -1,5 +1,13 @@
 == To Do ==
 
+FamilySearch: Elkhart Indiana
+* [https://www.familysearch.org/search/film/007856916?cat=455090 General deed indexes, A-Z, 1830-1863]
+* [https://www.familysearch.org/search/film/008069436?cat=455090 Deed record, v. 4-6, 1837-1840]
+* [https://www.familysearch.org/search/film/008069438?cat=455090 Deed record, v. 6-8, 1840-1844]
+Searching for records related to John B. Cline's family.
+
+== Completed 24 Jul 2024 ==
+
 FamilySearch: [https://www.familysearch.org/search/film/007836003?cat=77817 Washington County Maryland 1792 Deed from Mollie Roudenbusch to Jonathan Hager]
 * Complete.  Found and downloaded 24 Jul 2024
 
@@ -8,16 +16,10 @@ FamilySearch:  [https://www.familysearch.org/search/film/007575967?cat=39406 Chu
 * Nothing on Maria and Conrad
 * Baptism record for Susanna Raudenbusch
 
-FamilySearch: Elkhart Indiana
-* [https://www.familysearch.org/search/film/007856916?cat=455090 General deed indexes, A-Z, 1830-1863]
-* [https://www.familysearch.org/search/film/008069436?cat=455090 Deed record, v. 4-6, 1837-1840]
-* [https://www.familysearch.org/search/film/008069438?cat=455090 Deed record, v. 6-8, 1840-1844]
-Searching for records related to John B. Cline's family.
-
 Mary Ruebush (1736-1815) and her family in Virginia.
 * Location: Archives and Manuscripts Room Manuscripts 24471
 * Barcode: 417841
-* Requested.
+* Scanned 24 Jul 2024
 
 Microfilm:
 * Rockbridge Property Tax for William Nair, 1852-1856, reels 727 and 728
