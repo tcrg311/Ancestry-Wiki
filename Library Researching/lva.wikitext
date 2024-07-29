@@ -1,19 +1,14 @@
 == To Do ==
 
-FamilySearch: [https://www.familysearch.org/search/catalog/77817?availability=Family%20History%20Library Washington County Maryland Deeds]
-* John Cline/Kline/Klein grantor before ~1787
-
-FamilySearch: [https://www.familysearch.org/search/catalog/13309?availability=Family%20History%20Library Frederick County Maryland Deeds]
-* Koontz/Coontz ~1764-1774 and Cline/Kline/Klein before ~1787
-
-FamilySearch: [https://www.familysearch.org/search/catalog/results?count=20&placeId=2547&query=%2Bplace%3A%22United%20States%2C%20Maryland%2C%20Washington%22%20%2Bavailability%3AOnline Washington County, Maryland] formed September 6, 1776
-
-FamilySearch: [https://www.familysearch.org/search/catalog/results?count=20&placeId=189722&query=%2Bplace%3A%22United%20States%2C%20Maryland%2C%20Frederick%22%20%2Bavailability%3AOnline Frederick County, Maryland] formed 1748 from Prince George's County (1696, Province of Maryland)
-
-
+Hints of migration:  Cline/Kline/Klein before ~1787 and Koontz/Coontz ~1764-1774
+* FamilySearch: [https://www.familysearch.org/search/catalog/77817?availability=Family%20History%20Library Washington County Maryland Deeds]
+* FamilySearch: [https://www.familysearch.org/search/catalog/13309?availability=Family%20History%20Library Frederick County Maryland Deeds]
+* FamilySearch: [https://www.familysearch.org/search/catalog/results?count=20&placeId=2547&query=%2Bplace%3A%22United%20States%2C%20Maryland%2C%20Washington%22%20%2Bavailability%3AOnline Washington County, Maryland] formed September 6, 1776
+* FamilySearch: [https://www.familysearch.org/search/catalog/results?count=20&placeId=189722&query=%2Bplace%3A%22United%20States%2C%20Maryland%2C%20Frederick%22%20%2Bavailability%3AOnline Frederick County, Maryland] formed 1748 from Prince George's County (1696, Province of Maryland)
+* Berwick Pennsylvania (York County created on August 19, 1749, from part of Lancaster County, Adams County created on January 22, 1800, from part of York County)
 
 FamilySearch: Elkhart Indiana
-* Searching for records related to John B. Cline's family after 1837.
+* Searching for records related to [[../Cline/Cline-7885.wikitext|John B. Cline's]] family after 1837.
 ** [https://www.familysearch.org/search/film/007856916?cat=455090 General deed indexes, A-Z, 1830-1863]
 ** [https://www.familysearch.org/search/film/008069436?cat=455090 Deed record, v. 4-6, 1837-1840]
 ** [https://www.familysearch.org/search/film/008069438?cat=455090 Deed record, v. 6-8, 1840-1844]
