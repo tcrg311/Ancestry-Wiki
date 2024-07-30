@@ -7,16 +7,16 @@
 * [[#Death|Death]]: Abt 1837
 
 Children:
-# Levina[?] b 17 Jun 1810, bp 19 Aug 1810.  [Unconfirmed. Wife's name is not indicated in baptismal record.]  m. Michael Hoopes 11 Oct  1830<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00034</ref>, the signature matches the signature on Anna Maria's bond, but the middle initial is missing.
-# Anna Maria b 16 May 1812, bp 20 Jun 1812<ref></ref>, m. Jewitt Messick 17 Nov 1829<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00063</ref> "...daughter of John B Cline"; d. Nov 1844
-# Johan Andreas b 14 Sep 1815, bp 19 Nov 1815; d. 7 Jan 1845
-# Elias b 11 May 1817, bp 20 Sep 1817; m. Martha Jane Drake 10 Jun 1843<ref>German Church Records, p 81</ref>, Elkhart, Indiana; d. 16 Sep 1893.  The German has been transcribed as "Eliesb.", but in the German original<ref>Tauf und Kirchen Buch vor die gemeinschaftliche vereinigte Gemeinde an der Friedens Kirche Rockingham County, page 133, Library of Virginia Microfilm Misc. reel 349</ref> it does not resemble the "Eliesabeth" two lines above.
-# Samuel b 15 Jan [1819], bp 18 Apr 1819.
-# Joseph b 27 Mar 1821, bp 17 Jun 1821.
-# Jacob b 22 Jan 1823, bp 15 Jun 1823.
-# Harrison b 12 Dec 1824, bp 19 Jun 1825.
-# John Brown b 16 Dec 1826, bp 16 Sep 1827.
-# Sally b 23 Aug 1829, bp 21 Mar 1830.
+# Levina[?] b 17 Jun 1810, bp 19 Aug 1810<ref>German Church Records, p 61</ref>; baptismal record parents are "John Klein & wife"; m. Michael Hoopes 11 Oct  1830<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00034</ref>, the signature on Levina's bond matches the signature on Anna Maria's bond, but the middle initial is missing.
+# Anna Maria b 16 May 1812, bp 20 Jun 1812<ref>German Church Records, p 67</ref>, m. Jewitt Messick 17 Nov 1829<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00063</ref> "...daughter of John B Cline"; d. Nov 1844
+# Johan Andreas b 14 Sep 1815, bp 19 Nov 1815<ref>German Church Records, p 76</ref>; d. 7 Jan 1845
+# Elias b 11 May 1817, bp 20 Sep 1817<ref>German Church Records, p 81</ref>; m. Martha Jane Drake 10 Jun 1843<ref>"Indiana Marriages, 1811-2019", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XXBC-Q3B : Fri Mar 08 04:48:50 UTC 2024), Entry for Elias Cline and Martha Jane Drake, 05 Jun 1843.</ref>, Elkhart, Indiana; d. 16 Sep 1893<ref>Tombstone inscription, Find a Grave, database and images (https://www.findagrave.com/memorial/55898574/elias-cline: accessed July 30, 2024), memorial page for Elias Cline (11 May 1817–16 Sep 1893), Find a Grave Memorial ID 55898574, citing Baintertown Cemetery, New Paris, Elkhart County, Indiana, USA; Maintained by Mrs Ward (contributor 47119058).</ref>.  The German has been transcribed as "Eliesb.", but in the German original<ref>Tauf und Kirchen Buch vor die gemeinschaftliche vereinigte Gemeinde an der Friedens Kirche Rockingham County, page 133, Library of Virginia Microfilm Misc. reel 349</ref> it does not resemble the "Eliesabeth" two lines above.
+# Samuel b 15 Jan [1819], bp 18 Apr 1819<ref>German Church Records, p 82</ref>.
+# Joseph b 27 Mar 1821, bp 17 Jun 1821<ref>German Church Records, p 87</ref>.
+# Jacob b 22 Jan 1823, bp 15 Jun 1823<ref>German Church Records, p 106</ref>.
+# Harrison b 12 Dec 1824, bp 19 Jun 1825<ref>German Church Records, p 109</ref>.
+# John Brown b 16 Dec 1826, bp 16 Sep 1827<ref>German Church Records, p 153</ref>.
+# Sally b 23 Aug 1829, bp 21 Mar 1830<ref>German Church Records, p 169</ref>.
 
 == Research Notes ==
 
@@ -25,7 +25,7 @@ Children:
 
 Of Conrad Cline's known children, John B. and Mary Ann do not appear in the Friedens Church baptismal records.  The earliest baptismal record is for Elisabeth<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> b. 19 Feb 1792, which identifies her parents "Conrad Klein & wife Maria".
 
-It is commonly understood that "Maria" is Maria Ruebush (or Raudenbusch), and that she was born about 1776.  It is possible Maria Ruebush is not John B. and Mary Ann's mother is not , or that Maria Ruebush is older than commonly understood.
+It is commonly understood that "Maria" is Maria Ruebush (or Raudenbusch), and that she was born about 1776.  It is possible Maria Ruebush is not the mother of John B. and Mary Ann, or that Maria Ruebush is older than commonly understood.
 
 === Birth ===
 "Kline John (of Conr." first appeared in the 1819 Rockingham Personal Property Tax list.
@@ -53,7 +53,7 @@ John and Susannah's marriage is listed in John Brown's minister's return.  Also 
 |-
 ! English !! German 
 |-
-| align=center | 61 || align=center | 108 || "John Klein & wife:  Levina[?] b 17 Jun 1810, bp 19 Aug 1810. Sp. the parents" (unverified)
+| align=center | 61 || align=center | 108 || "John Klein & wife:  Levina[?] b 17 Jun 1810, bp 19 Aug 1810. Sp. the parents"
 |-
 | align=center | 67 || align=center | 115 || "Johanannes Klein & Susanna:  Anna Maria b 16 May 1812, bp 20 Jun 1812. Sp. the parents"
 |-
