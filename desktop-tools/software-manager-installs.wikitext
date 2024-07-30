@@ -1,0 +1,15 @@
+# git
+# gimp
+# Remmina
+# Ffmpeg
+# Dropbox
+# PDF Arranger
+# Multimedia Codecs
+# Samba
+# OnlyOffice Desktop (flatpak) -- download?
+# Pandoc
+# Cameractrls
+# Zoom
+# Mintupgrade
+# Smb4k
+
