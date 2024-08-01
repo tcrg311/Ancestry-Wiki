@@ -1,5 +1,8 @@
 == To Do ==
 
+Microfilm:
+* Rockbridge Property Tax for William Nair, 1852-1856, reels 727 and 728
+
 Hints of migration:  Cline/Kline/Klein before ~1787 and Koontz/Coontz ~1764-1774
 * FamilySearch: [https://www.familysearch.org/search/catalog/77817?availability=Family%20History%20Library Washington County Maryland Deeds]
 * FamilySearch: [https://www.familysearch.org/search/catalog/13309?availability=Family%20History%20Library Frederick County Maryland Deeds]
@@ -12,6 +15,8 @@ FamilySearch: Elkhart Indiana
 ** [https://www.familysearch.org/search/film/007856916?cat=455090 General deed indexes, A-Z, 1830-1863]
 ** [https://www.familysearch.org/search/film/008069436?cat=455090 Deed record, v. 4-6, 1837-1840]
 ** [https://www.familysearch.org/search/film/008069438?cat=455090 Deed record, v. 6-8, 1840-1844]
+
+[https://www.familysearch.org/search/catalog/226066?availability=Family%20History%20Library WRecord book of Rader's (Roeders) Lutheran Church. (Timbeerville, Rockingham County, Virginia)]
 
 == Completed 24 Jul 2024 ==
 
@@ -27,9 +32,6 @@ Mary Ruebush (1736-1815) and her family in Virginia.
 * Location: Archives and Manuscripts Room Manuscripts 24471
 * Barcode: 417841
 * Scanned 24 Jul 2024
-
-Microfilm:
-* Rockbridge Property Tax for William Nair, 1852-1856, reels 727 and 728
 
 == Archive ==
 
