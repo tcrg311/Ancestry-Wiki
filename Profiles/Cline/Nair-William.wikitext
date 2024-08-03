@@ -14,7 +14,7 @@ Children (as named at baptism;''see [[#Friedens_Luthern_and_Reformed_Church_Reco
 * Samuel b 11 Aug 1820; m. ?; m. Mary Coakley 20 Oct 1857
 * Willhelm b 18 Feb 1822
 * George b 14 Dec 1823
-* [???] Harrisson b 9 Feb 1826 [??? = three letters, transcibed as "Joe", but this is unlikely.  The first letter looks like the second "s" in "Harrison", but it could be understood as "Huc", low German for "Hugh".]
+* Hue Harrisson b 9 Feb 1826 [The first name was transcibed as "Joe" by Burkett<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine</ref>, but this is unlikely.  The first letter looks like the second "s" in "Harrison", but it could also be a lower-case "h", and the name would be "Hue", a form of "Hugh".]
 * Malinda b Abt 1832
 * Simeon b Abt 1834
 
@@ -54,7 +54,7 @@ The 1850 census<ref>"United States Census, 1850", FamilySearch (https://www.fami
 * Wm Nair age 61 years
 * Mary Nair age 68 years (wife or sister?)
 * Geo Nair age 27 years
-* Hugh Nair age 22 years (possibly "??? Harrisson" in [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Church Records]] p 109)
+* Hugh Nair age 22 years
 * Malinda Nair age 18
 * Simeon Nair age 16
 
@@ -85,7 +85,7 @@ Page numbers are of the English transcription<ref>German Church Records of Rocki
 |-
 | align=center | 104 || align=center | 176 || Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
 |-
-| align=center | 109 || align=center | 185 || "Willhelm Nehr & Maria Ann:  &#91;???&#93; Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
+| align=center | 109 || align=center | 185 || "Willhelm Nehr & Maria Ann:  [hue] Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"<ref>Burkett transcribes the first name a "Joe", but "Huc" would be a German form of Hugh (Wikipedia article references E. Förstemann, Altdeutsches Namenbuch, 1856, 750), and the first letter looks like a lower case "h" in Kurrent handwriting.</ref>
 |-
 | align=center | 117 || align=center | 197 || Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
 |-
@@ -130,11 +130,9 @@ See "William (Neher) Nair" in Ancestry.com trees.  The death date 20 Apr 1866 se
 == Sources ==
 <references />
 
-"United States Census, 1850," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8DG-T89 : 23 December 2020), Wm Nair, Pleasant Valley, Rockingham, Virginia, United States; citing family , NARA microfilm publication  (Washington, D.C.: National Archives and Records Administration, n.d.).
+* Death register for Susan (Nair) Sherfey, 1881, Nair in entry for parents' names: "United States Census, 1850," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8DG-T89 : 23 December 2020), Wm Nair, Pleasant Valley, Rockingham, Virginia, United States; citing family , NARA microfilm publication  (Washington, D.C.: National Archives and Records Administration, n.d.). 
 
-"Virginia, County Marriage Records, 1771-1989," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66KZ-NPSP : 28 June 2022), William Nair in entry for George W Nair, 1 Nov 1855; citing Marriage, Rockbridge, Virginia, United States, Circuit court clerk offices, Virginia.
-
-"Virginia, Library of Virginia State Archive, Births, Marriages, and Deaths 1853-1900", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6Z2G-2JNY : 28 October 2021), Nair in entry for Susan Sherfey, 1881.
+* Marriage license for George W Nair, with parents names:  "Virginia, County Marriage Records, 1771-1989," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66KZ-NPSP : 28 June 2022), William Nair in entry for George W Nair, 1 Nov 1855; citing Marriage, Rockbridge, Virginia, United States, Circuit court clerk offices, Virginia.
 
 * WikiTree profile Neher-37 created through the import of My Family File072211.ged on Jul 25, 2011 by [[Lucas-638 | Grady Lucas]]. See the [http://www.wikitree.com/index.php?title=Special:NetworkFeed&who=Neher-37 Changes page] for the details of edits by Grady and others.
 
