@@ -4,17 +4,38 @@
 * Birth:  28 Feb 1781{{Citation needed}}, New Holland, Lancaster County, PA, USA{{Citation needed}}
 * Parents:  [[Neher-50|Hans Martin Neher (1739-1790)]] and [[Oberle-18|Susanna (Oberle) Neher (1750-1790)]]
 * Spouse:  [[Cline-7903|Mary Ann "Polly" (Cline) Neher (abt.1788-)]]
-* Death:  20 Apr 1866{{Citation needed}}, Natural Bridge, Rockbridge County, VA, USA{{Citation needed}}
+* [[#Death|Death]]:  20 Apr 1866, Natural Bridge, Rockbridge, Virginia, United States{{Citation needed}}
+
+Children (as named at baptism;''see [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Luthern and Reformed Church Records]]''):
+* Elisabeth b 5 Dec 1811
+* Susanna b 21 Jan 1813
+* Chadarina b 28 Jan 1814
+* Petrus b 12 Mar 1819
+* Samuel b 11 Aug 1820; m. ?; m. Mary Coakley 20 Oct 1857
+* Willhelm b 18 Feb 1822
+* George b 14 Dec 1823
+* [???] Harrisson b 9 Feb 1826 [??? = three letters, transcibed as "Joe", but this is unlikely.  The first letter looks like the second "s" in "Harrison", but it could be understood as "Huc", low German for "Hugh".]
+* Malinda b Abt 1832
+* Simeon b Abt 1834
 
 == Research Notes ==
 
 === Name ===
 William like some of his other siblings, migrated to a new spelling Nair during his lifetime.  In Friedens Church records he is entered as Wilhelm Neher or Near or Neer.
 
-=== Residence in Rockingham, Virginia ===
-The Rockingham County Personal Property Tax list first shows William in 1809<ref>Another filming, 1992, of lists 1795-1813. (No list for 1808.), Rockingham County, Virginia, South East District, Reuben Harrison's list, page 13 {{FamilySearch Image|3Q9M-CSPG-K359-F}}</ref>, with Martin Sen, Martin Jun, and Henry Nair.
+=== Marriage ===
+William married [[Cline-7903|Mary Ann (Cline) Neher (abt.1788-)]] 29 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number:  1809-00055, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8</ref>, and they had 13 children.
 
-He cannot be found in the 1810 census, but is present in the 1820<ref>"United States Census, 1820", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XHLZ-YC2 : Fri Jul 05 21:52:35 UTC 2024), Entry for William Nair, 1820.</ref>:
+Throughout the church records Mary Ann is variously referred to as "Maria", "Maria Ann", and "Polly".  She cannot be accounted for in the 1820 census, but appears in church records in 1826 (see [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Luthern and Reformed Church Records, page 109]]).
+
+William has a sister named Maria, and care is needed in some records to distinguish between them.
+
+=== Residence in Rockingham, Virginia ===
+The Rockingham County Personal Property Tax list shows William in 1809<ref>Another filming, 1992, of lists 1795-1813. (No list for 1808.), Rockingham County, Virginia, South East District, Reuben Harrison's list, page 13 {{FamilySearch Image|3Q9M-CSPG-K359-F}}</ref>, with Martin Sen, Martin Jun, and Henry Nair.
+
+Personal Propety Tax:  Listed through 1853.  Not found in the Rockingham tax lists after that.  Samuel Nair begins being listed in 1853.
+
+Rockingham in the 1820<ref>"United States Census, 1820", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XHLZ-YC2 : Fri Jul 05 21:52:35 UTC 2024), Entry for William Nair, 1820.</ref>:
 * Rockingham, Virginia
 * 2 males under 10
 * 1 male 26 and under 45
@@ -24,16 +45,6 @@ He cannot be found in the 1810 census, but is present in the 1820<ref>"United St
 
 The oldest female does not appear old enough to be Mary Ann "Polly" (Cline) Nair. 
 
-Personal Propety Tax:  Listed through 1853.  Not found after that.  Samuel Nair begins being listed in 1853.
-
-=== Marriage ===
-He married [[Cline-7903|Mary Ann (Cline) Neher (abt.1788-)]] 29 Sep 1809<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number:  1809-00055, https://rockinghamcountyva-web.tylerhost.net/web/document/DOCCACS-2747165?search=DOCSEARCH133S8</ref>, and they had 13 children.
-
-Throughout the church records Mary Ann is variously referred to as "Maria", "Maria Ann", and "Polly".  She cannot be accounted for in the 1820 census, but appears in church records in 1826 (see [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Luthern and Reformed Church Records, page 109]]).
-
-William has a sister named Maria, and care is needed in some records to distinguish between them.
-
-=== Rockingham County ===
 20 Apr 1840 deed<ref>Burnt Deed Index says Burnt Deed Book 13 p 84 or 64, but not found.  Index indicates nothing of the deed survived.  See Rockingham County Minute Book 20 page 169 for court entry of the deed</ref> from John Robinson to William Nair [et al? undecipherable clerk abbreviation]
 
 1 Mar 1845 deed<ref>Burnt Deed Book 18, page 49, {{FamilySearch Image|3Q9M-CSYX-VDLH}}</ref> from William Nair & wife (Mary Ann per signature line) and Reuben Sherfy (William's son-in-law) & wife (Susan per signature line) to Adam Croushorn 300 acres on Dry River ("N. Mountain" in Land Tax 1844).
@@ -43,7 +54,7 @@ The 1850 census<ref>"United States Census, 1850", FamilySearch (https://www.fami
 * Wm Nair age 61 years
 * Mary Nair age 68 years (wife or sister?)
 * Geo Nair age 27 years
-* Hugh Nair age 22 years (possibly "Joe Harrison" in [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Church Records]] p 109)
+* Hugh Nair age 22 years (possibly "??? Harrisson" in [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Church Records]] p 109)
 * Malinda Nair age 18
 * Simeon Nair age 16
 
@@ -74,7 +85,7 @@ Page numbers are of the English transcription<ref>German Church Records of Rocki
 |-
 | align=center | 104 || align=center | 176 || Communicants 15 September 1822:  "Wm. Near"; also "Mart. Near"
 |-
-| align=center | 109 || align=center | 185 || "Willhelm Nehr & Maria Ann:  Joe Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
+| align=center | 109 || align=center | 185 || "Willhelm Nehr & Maria Ann:  &#91;???&#93; Harrisson b 9 Feb 1826, bp 16 Apr 1826.  Sp. the parents"
 |-
 | align=center | 117 || align=center | 197 || Communicants 7 May 1801:  "Willh. Neer"; also "Mart. Neer", "Sus. Neer" 
 |-
@@ -89,7 +100,28 @@ Page numbers are of the English transcription<ref>German Church Records of Rocki
 | align=center | 133 || align=center | 228 || Communicants 21 September [1817]:  "Willh. Neer"; also "Mart. Neer"
 |-
 | align=center | 136 || align=center | 234 || Communicants 19 September [1818]:  "Wilh. Near"; also "Mart. Near"
+|-
+| align=center | 154 || align=center | 263 || "William Near & Maria Ann:  Harriotte b 8 Feb 1828, bp 16 Mar 1828. sp the parents"
 |}
+
+=== Rockbridge County, Virginia ===
+Willliam's son, known as "William R. Nair", shown as "Wm Nair Jr" in Rockingham in 1844<ref>{{FamilySearch Image|3Q9M-CSKV-PS3M-N}}</ref>, is living in Rockbridge by 1850.
+* 1850 census<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 51 and A Half, Rockbridge, Virginia; Roll: 973; Page: 368b</ref>
+
+Personal Property Tax:  
+* 1852: "Wm R. Nair":  1 tithable, 2 enslaved, 1 horse
+* 1853: "Wm R. Nair" is missing.  "Geo. W. Nair" 1 tithable, 1 horse
+* 1854: "Wm R. Near":  1 tithable, 1 horse; "George Near": 1 tithable, 1 horse
+* 1855: "Wm R. Near":  1 tithable, 2 horses; "George W Near": 1 thithable, 1 horse
+* 1856: "Wm R. Near":  1 tithable, 1 horse; "George W Near": 1 thithable, 1 horse
+* 1857: "Wm R. Nair" is missing.  "George W Near": 1 tithable, 1 horse
+* 1858: "Wm R. Nair" is missing.  "George W Near": 1 tithable, 1 horse;  "S B Near": 1 tithable, 1 horse
+
+The 1860 census<ref>"United States Census, 1860", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMW-NHR : Mon Jul 08 23:13:21 UTC 2024), Entry for Geo Nair and M Jane Nair, 1860.</ref> shows "Wm Nair" age 77 living in the household of "Geo Nair".
+
+=== Death ===
+See "William (Neher) Nair" in Ancestry.com trees.  The death date 20 Apr 1866 seems to be the consensus, and it is plausible but unsourced.
+
 == Bibliography ==
 * [https://www.rockinghamcountyva.gov/667/Minute-Books | Rockingham County Minute Books]
 * German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine
