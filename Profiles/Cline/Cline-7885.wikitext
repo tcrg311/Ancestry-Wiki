@@ -6,7 +6,7 @@
 * Spouse:  Susannah Nair<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref> m. 28 Aug 1809.
 * [[#Death|Death]]: Abt 1837
 
-Children:
+Children, as named in Friedens Church baptism records:
 # Levina[?] b 17 Jun 1810, bp 19 Aug 1810<ref>German Church Records, p 61</ref>; baptismal record parents are "John Klein & wife"; m. Michael Hoopes 11 Oct  1830<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00034</ref>, the signature on Levina's bond matches the signature on Anna Maria's bond, but the middle initial is missing.
 # Anna Maria b 16 May 1812, bp 20 Jun 1812<ref>German Church Records, p 67</ref>, m. Jewitt Messick 17 Nov 1829<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, Document Number: 1829-00063</ref> "...daughter of John B Cline"; d. Nov 1844
 # Johan Andreas b 14 Sep 1815, bp 19 Nov 1815<ref>German Church Records, p 76</ref>; d. 7 Jan 1845
@@ -14,7 +14,7 @@ Children:
 # Samuel b 15 Jan [1819], bp 18 Apr 1819<ref>German Church Records, p 82</ref>.
 # Joseph b 27 Mar 1821, bp 17 Jun 1821<ref>German Church Records, p 87</ref>.
 # Jacob b 22 Jan 1823, bp 15 Jun 1823<ref>German Church Records, p 106</ref>.
-# Harrison b 12 Dec 1824, bp 19 Jun 1825<ref>German Church Records, p 109</ref>.
+# Hue [Hugh] Harrison b 12 Dec 1824, bp 19 Jun 1825<ref>German Church Records, p 109</ref>.
 # John Brown b 16 Dec 1826, bp 16 Sep 1827<ref>German Church Records, p 153</ref>.
 # Sally b 23 Aug 1829, bp 21 Mar 1830<ref>German Church Records, p 169</ref>.
 
@@ -25,7 +25,7 @@ Children:
 
 Of Conrad Cline's known children, John B. and Mary Ann do not appear in the Friedens Church baptismal records.  The earliest baptismal record is for Elisabeth<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 9</ref> b. 19 Feb 1792, which identifies her parents "Conrad Klein & wife Maria".
 
-It is commonly understood that "Maria" is Maria Ruebush (or Raudenbusch), and that she was born about 1776.  It is possible Maria Ruebush is not the mother of John B. and Mary Ann, or that Maria Ruebush is older than commonly understood.
+John B. and Mary are estimated to have been born by or about 1877, based on marriage (both married in 1809) and census documents.  It is commonly understood that "Maria" is Maria Ruebush (or Raudenbusch), and that she was born about 1776.  It is possible Maria Ruebush is not the mother of John B. and Mary Ann, or that Maria Ruebush is older than commonly understood.
 
 === Birth ===
 "Kline John (of Conr." first appeared in the 1819 Rockingham Personal Property Tax list.
@@ -35,11 +35,10 @@ It is commonly understood that "Maria" is Maria Ruebush (or Raudenbusch), and th
 * "Peter Cline of Conrad" first appeared in the 1830 Rockingham Personal Property Tax list, at age 32.
 
 With the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, the birth year is calculated based on the following:
-# Married without father's consent<ref> According to Virginia law, individuals under the age of twenty-one needed the consent of a parent
-or guardian to marry.</ref> in 1809 = 1788 or before
-# Census 1810 age 16-25 = 1785-1794
-# Census 1820 age 26-44 = 1776-1794
-# Census 1830 age 40-49 = 1781-1790
+# There is no record of a father's consent<ref> According to Virginia law, individuals under the age of twenty-one needed the consent of a parent or guardian to marry.</ref> for his marriage to Susanna in 1809 = 1788 or before
+# Census 1810<ref>"United States Census, 1810", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XH2Q-8D3 : Sun Mar 10 21:46:57 UTC 2024), Entry for John Kline, 1810.</ref> age 16-25 = 1785-1794
+# Census 1820<ref>"United States Census, 1820", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XHLZ-T7P : Thu Mar 07 18:07:19 UTC 2024), Entry for John Cline, 1820.</ref> age 26-44 = 1776-1794
+# Census 1830<ref>"United States Census, 1830", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XH5N-PMP : Sat Mar 09 04:36:24 UTC 2024), Entry for John Cline, 1830.</ref> age 40-49 = 1781-1790
 Birth year range is 1785-1788
 
 === Marriage ===
@@ -109,9 +108,9 @@ In the 1850 census<ref>The National Archives in Washington, DC; Record Group: Re
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSY4-8?i=180&cat=411278 1830]:  John B Cline, 2 tithables, 3 horses &#91;Peter Cline first appears&#93;
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTF-K?i=210&cat=411278 1831]:  Not present.  "Peter Cline & Father" is in the list with 2 tithables and 5 horses (same number of horses as for Conrad in 1830).
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTN-5?i=243&cat=411278 1832]:  John Cline, 2 tithables, 3 horses "(on A.W. Kilpatricks place)"
-** 8 Oct 1828 Deed Book 8, Page 342 [partial]  Conrad Cline sold his 90 acres on Cooks Creek to John Roads for one hundred dollars.
+** In an 8 Oct 1828 deed<ref>Deed Book 8, Page 342 [partial]</ref> Conrad Cline sold his 90 acres on Cooks Creek to John Roads for one hundred dollars.
 ** Until 1832 John B. Cline had be listed in the southeast district.  In 1832 moved to northwest district.
-** Conrad died in 1835, but transferred the land to son Peter Cline in April 1835, before his death.  Deed Book 11, Page 533 [none]
+** Conrad died in 1835, but transferred the land to son Peter Cline in April 1835, before his death<ref>Deed Book 11, Page 533 [none]</ref>.
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSRT-H?i=381&cat=411278 1833]:  John B Cline, 3 tithables, 5 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSTN-B?i=419&cat=411278 1834]:  John B Cline, 2 tithables, 4 horses
 * [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPG-LSR6-Y?i=518&cat=411278 1835]:  John B Cline, 2 tithables, 5 horses
