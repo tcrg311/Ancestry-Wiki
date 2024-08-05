@@ -11,15 +11,24 @@ Process:
 # Any conclusions should follow the rule of "fewest assumptions".
 
 Current Rothgeb/Rodecap/Roadcap research:
-* [[Rothgeb/Radtgab-6.wikitext|Hans Jacob Radtgab]] b. 1708 d. 1753
-** [[Rothgeb/Rothgeb-117.wikitext|Peter Roadcap Sr]] b. 1739? d. 1824
-*** [[Rothgeb/Lipp-177.wikitext|Mary Lip/Lipp]] m. Peter Roadcap Sr 28 Dec 1795
-*** [[Rothgeb/Rothgeb-184.wikitext|Peter Roadcap Jr]] b. Abt 1797 d. 1869
-** [[Rothgeb/Rothgeb-69.wikitext|John George Rothgeb/Roadcap]] b. Abt 1741 d. 1823
+* [[Profiles/Rothgeb/Radtgab-6.wikitext|Hans Jacob Radtgab]] b. 1708 d. 1753
+** [[Profiles/Rothgeb/Rothgeb-117.wikitext|Peter Roadcap Sr]] b. 1739? d. 1824
+*** [[Profiles/Rothgeb/Lipp-177.wikitext|Mary Lip/Lipp]] m. Peter Roadcap Sr 28 Dec 1795
+*** [[Profiles/Rothgeb/Rothgeb-184.wikitext|Peter Roadcap Jr]] b. Abt 1797 d. 1869
+** [[Profiles/Rothgeb/Rothgeb-69.wikitext|John George Rothgeb/Roadcap]] b. Abt 1741 d. 1823
 
-* [[Rothgeb/Hollobaugh-G.wikitext|George Hollobaugh]] b. Abt 1720 d. 1791 (Stepfather to Hans Jacob's orphans)
+* [[Profiles/Rothgeb/Hollobaugh-G.wikitext|George Hollobaugh]] b. Abt 1720 d. 1791 (Stepfather to Hans Jacob's orphans)
 
 Current Koontz research:
-* [[Koontz/Koontz-229.wikitext|Peter Koontz Sr (abt.1738-1835)]]
-** [[Koontz/Koontz-1153.wikitext|Peter Koontz Jr (abt.1764-1844)]]
-* [[Koontz/Kunz-676.wikitext|Philip Koontz Sr (abt. 1745 or 1752-1843)]]
+* [[Profiles/Koontz/Koontz-229.wikitext|Peter Koontz Sr (abt.1738-1835)]]
+** [[Profiles/Koontz/Koontz-1153.wikitext|Peter Koontz Jr (abt.1764-1844)]]
+* [[Profiles/Koontz/Kunz-676.wikitext|Philip Koontz Sr (abt. 1745 or 1752-1843)]]
+
+Current Cline research:
+* [[Profiles/Cline/Cline-7891.wikitext|John Cline]] b. Abt 1740 d. Abt 1800
+** [[Profiles/Cline/Cline-6979.wikitext|Conrad Cline]] b. Abt 1765 d. Abt 1835
+*** [[Profiles/Cline/Cline-7885.wikitext|John B. Cline]] b. 1785-1788 d. Abt 1837
+*** [[Profiles/Cline/Cline-7903.wikitext|Mary Ann Cline]] b. Abt 1788 
+**** [[Profiles/Cline/Nair-William.wikitext|William Nair]] b. 28 Feb 1781 d. 20 Apr 1866 m. [[Profiles/Cline/Cline-7903|Mary Ann "Polly" (Cline) Neher (abt.1788-)]]
+*** [[Profiles/Cline/Cline-6480.wikitext|Peter Cline]] b. 29 Sep 1798 d. 8 Jul 1857
+** [[Profiles/Cline/Cline-7892.wikitext|Adam Cline]] b. Abt 1771 or earlier
