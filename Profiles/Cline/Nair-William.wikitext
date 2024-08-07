@@ -7,16 +7,18 @@
 * [[#Death|Death]]:  20 Apr 1866, Natural Bridge, Rockbridge, Virginia, United States{{Citation needed}}
 
 Children (as named at baptism;''see [[#Friedens_Luthern_and_Reformed_Church_Records|Friedens Luthern and Reformed Church Records]]''):
-* Elisabeth b 5 Dec 1811
+* Elisabeth b 5 Dec 1811 
 * Susanna b 21 Jan 1813
 * Chadarina b 28 Jan 1814
 * Petrus b 12 Mar 1819
 * Samuel b 11 Aug 1820; m. ?; m. Mary Coakley 20 Oct 1857
 * Willhelm b 18 Feb 1822
+** Margaret Susan d. 21 Aug 1864, Rockbridge County, Dysentery, parents: William R & Eleanor Nair, age 5 years 3 days<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author), page 8</ref>
 * George b 14 Dec 1823
+** Elizabeth d. 16 Dec 1866<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author), page 66</ref> age 2 years 4 months, Dyptheria, Geo. W & Mary J Nair, unmarried
 * Hue Harrisson b 9 Feb 1826 [The first name was transcibed as "Joe" by Burkett<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine</ref>, but this is unlikely.  The first letter looks like the second "s" in "Harrisson", but it could also be a lower-case "h", and the name would be "Hue", a form of "Hugh".]
 * Malinda b Abt 1832
-* Simeon b Abt 1834
+* Simeon b Abt 1834 d. 31 Jan 1861<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author), page 47</ref> age 31, Consumption, parents: William & Mary Nair, Occupation: Masonry, Unmarried.
 
 == Research Notes ==
 
@@ -121,7 +123,7 @@ The 1860 census<ref>"United States Census, 1860", , FamilySearch (https://www.fa
 
 === Death ===
 See "William (Neher) Nair" in Ancestry.com trees.  The death date 20 Apr 1866 seems to be the consensus, and it is plausible but unsourced.
-
+* Rockbridge County Register of Deaths<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author)</ref> does not list William Nair in its index, and his name is not found in the year 1866,
 == Bibliography ==
 * [https://www.rockinghamcountyva.gov/667/Minute-Books | Rockingham County Minute Books]
 * German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine
