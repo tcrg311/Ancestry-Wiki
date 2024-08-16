@@ -20,3 +20,5 @@ pandoc -s -f html -t mediawiki -o friedens-xfer.wikitext  Friedens.html
 pandoc -s -f html -t mediawiki -o raudenbusch-xfer.wikitext  Treatise
 pandoc -s -f html -t mediawiki -o descendants-of-hans-peter-raudenbusch.wikitext Descendants\ of\ Hans\ Peter\ Raudenbusch.html
 pandoc -s -f html -t mediawiki -o ruebush-connection.wikitext Ruebush\ Connection.html
+
+pandoc Research-Notes.wikitext -s -f mediawiki -t markdown -o Research-Notes.md
