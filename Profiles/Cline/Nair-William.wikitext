@@ -107,6 +107,8 @@ Page numbers are of the English transcription<ref>German Church Records of Rocki
 |}
 
 === Rockbridge County, Virginia ===
+There appears to be some migration of William Nair's family from Rockingham to Rockbridge, Virginia.
+
 Willliam's son, known as "William R. Nair", shown as "Wm Nair Jr" in Rockingham in 1844<ref>{{FamilySearch Image|3Q9M-CSKV-PS3M-N}}</ref>, is living in Rockbridge by 1850.
 * 1850 census<ref>The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 51 and A Half, Rockbridge, Virginia; Roll: 973; Page: 368b</ref>
 
@@ -121,9 +123,15 @@ Personal Property Tax:
 
 The 1860 census<ref>"United States Census, 1860", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMW-NHR : Mon Jul 08 23:13:21 UTC 2024), Entry for Geo Nair and M Jane Nair, 1860.</ref> shows "Wm Nair" age 77 living in the household of "Geo Nair".
 
+It seems likely that William moved from Rockingham to Rockbridge around 1853, when George W is first shown to live there.
+
 === Death ===
 See "William (Neher) Nair" in Ancestry.com trees.  The death date 20 Apr 1866 seems to be the consensus, and it is plausible but unsourced.
-* Rockbridge County Register of Deaths<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author)</ref> does not list William Nair in its index, and his name is not found in the year 1866,
+* William Nair appears is living in Rockbridge in 1860, per the census.
+* A scan of Rockbridge Personal Property Tax lists 1855-1861 did not find William Nair listed.
+* Rockbridge County Register of Deaths<ref>Register of deaths, v. 1, 1853-1870 (missing deaths for 1863), Virginia. Commissioner of the Revenue (Rockbridge County) (Main Author)</ref> does not list William Nair in its index, and his name is not found among the registry list in 1866.
+
+
 == Bibliography ==
 * [https://www.rockinghamcountyva.gov/667/Minute-Books | Rockingham County Minute Books]
 * German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine
