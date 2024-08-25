@@ -1,7 +1,7 @@
 == Biography ==
 
 * Name:  John B Cline<ref>Personal property tax lists of Rockingham County, 1782-1863, Another filming, 1992, of lists 1828-1838, 1830, James Clark's list, page 7, Film # 008248748, image 181, {{FamilySearch Image|3Q9M-CSPG-LSY4-8}}</ref>
-* [[#Birth|Birth]]:  1785-1788
+* [[#Birth|Birth]]:  1785-1788, Virginia
 * Parents:  Conrad Cline and possibly Marie Ruebush
 * Spouse:  Susannah Nair<ref>Rockingham County, Virginia - Self Service SRA, Marriage License, 1809-00042</ref> m. 28 Aug 1809.
 * [[#Death|Death]]: Abt 1837
@@ -14,7 +14,7 @@ Children, as named in Friedens Church baptism records:
 # Samuel b 15 Jan [1819], bp 18 Apr 1819<ref>German Church Records, p 82</ref>.
 # Joseph b 27 Mar 1821, bp 17 Jun 1821<ref>German Church Records, p 87</ref>.
 # Jacob b 22 Jan 1823, bp 15 Jun 1823<ref>German Church Records, p 106</ref>.
-# Hue [Hugh] Harrison b 12 Dec 1824, bp 19 Jun 1825<ref>German Church Records, p 109</ref>.
+# Harrison b 12 Dec 1824, bp 19 Jun 1825<ref>German Church Records, p 109</ref>.
 # John Brown b 16 Dec 1826, bp 16 Sep 1827<ref>German Church Records, p 153</ref>.
 # Sally b 23 Aug 1829, bp 21 Mar 1830<ref>German Church Records, p 169</ref>.
 
@@ -35,11 +35,13 @@ Property Tax lists:
 * "Kline John (of Conr." first appeared in the 1819 Rockingham Personal Property Tax list.
 
 With the assumption that "Kline John (of Conr." in the 1819 property tax is the same person as John B Cline in 1830 property tax, the birth year is calculated based on the following:
-# There is no record of a father's consent<ref> According to Virginia law, individuals under the age of twenty-one needed the consent of a parent or guardian to marry.</ref> for his marriage to Susanna in 1809 = 1788 or before
+# There is no record of a father's consent<ref>According to Virginia law, individuals under the age of twenty-one needed the consent of a parent or guardian to marry.</ref> for his marriage to Susanna in 1809 = 1788 or before
 # Census 1810<ref>"United States Census, 1810", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XH2Q-8D3 : Sun Mar 10 21:46:57 UTC 2024), Entry for John Kline, 1810.</ref> age 16-25 = 1785-1794
 # Census 1820<ref>"United States Census, 1820", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XHLZ-T7P : Thu Mar 07 18:07:19 UTC 2024), Entry for John Cline, 1820.</ref> age 26-44 = 1776-1794
 # Census 1830<ref>"United States Census, 1830", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XH5N-PMP : Sat Mar 09 04:36:24 UTC 2024), Entry for John Cline, 1830.</ref> age 40-49 = 1781-1790
 Birth year range is 1785-1788
+
+Harrison ("D H")<ref>"United States Census, 1880", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MF5H-RWH : Wed Jul 17 02:06:23 UTC 2024), Entry for D. H. Cline and Elizabeth Cline, 1880.</ref>, Samuel<ref>"United States Census, 1880", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMR-1KF : Mon Jul 08 08:31:38 UTC 2024), Entry for Samuel Cline and Delila Cline, 1880.</ref> and Elias<ref>"United States Census, 1880", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMR-1K7 : Sun Jul 07 11:29:21 UTC 2024), Entry for Elias Cline and Martha J. Cline, 1880.</ref> are among the children who were enumerated in the 1880, the first census to include parents' birthplaces.  All identify Virginia as their father's birthplace.
 
 === Marriage ===
 John and Susannah's marriage is listed in John Brown's minister's return.  Also included in the return's long list are Peter Cline to Christina Royer, Jacob Koontz to Nancy Cline, and other daughters of Conrad and Marie Cline.
