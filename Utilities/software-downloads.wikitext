@@ -5,3 +5,4 @@
 # [https://help.ui.com/hc/en-us/articles/220066768-Updating-and-Installing-Self-Hosted-UniFi-Network-Servers-Linux unifi sysvinit all]
 # [https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-845/s/SPT_C11CB92201?review-filter=Windows+10+64-bit Epson printer drivers]
 # [https://bitwarden.com/download/ Bitwarden]
+# [https://obsidian.md Obsidian]
