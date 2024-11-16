@@ -3,7 +3,7 @@
 * Name:  Conrad Cline (''see [[#Schlierbach_Familienregister|Schlierbach Familienregister]] for differentiation'')
 * [[#Birth|Birth]]: Abt 1765
 * [[#Parents|Parents]]:  John Cline, mother's name undetermined
-* Spouse:  [[Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]].  (''See [[#Swank_History_on_Ruebush|Swank History on Ruebush]]'')
+* Spouse:  [[../Roudenbusch-Ruebush/Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]].  (''See [[#Swank_History_on_Ruebush|Swank History on Ruebush]]'')
 * [[#Death|Death]]: Abt Oct 1835
 
 Children:
@@ -31,9 +31,9 @@ John Cline is inferred as Conrad's father from the Rockingham County personal pr
 * 1791 Land Tax lists "John & Conrod" holding a newly acquired 133 acres.  This continues until 1797, when Conrad Cline is listed alone for the land, with the notation "from John".
 
 === Marriage ===
-[[Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]] is believed to be Conrad's wife.
+[[../Roudenbusch-Ruebush/Raudenbusch-15|Marie Raudenbusch (abt.1776-abt.1820)]] is believed to be Conrad's wife.
 * Marie's mother, "Anna Maria Rautenbusch", was the sponsor at the baptism of Marie and Conrad's daughter, Susannah, at Frieden's Church<ref>German Church Records of Rockingham County, Vol 1, Translated and compiled by Brigitte Burkett, Picton Press, Rockport, Maine, page 12</ref>
-* Marie's mother, "Anna Maria Rautenbusch", is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush" (see [[Keller-3030|Anna Mary (Keller) Ruebush (1736-1815)]]), b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.  Marie's sister, Margaret Long, is also buried next to her mother.
+* Marie's mother, "Anna Maria Rautenbusch", is assumed to be the same person who was buried in Friedens Church Cemetary as "Mary Keller Ruebush" (see [[../Roudenbusch-Ruebush/Keller-3030|Anna Mary (Keller) Ruebush (1736-1815)]]), b. 1736, d. 1815, "w/John, parents of George, John, Peter".  Mother, father and these three sons are buried together.  Marie's sister, Margaret Long, is also buried next to her mother.
 
 Marie is thought to have been born about 1776, but it is unclear where this estimate came from.
 * If she was born in 1776, then she is probably not the mother of Conrad's two known oldest children, John B. and Mary Ann, who both appear to have been born by 1788.
