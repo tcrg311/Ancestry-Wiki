@@ -6,7 +6,7 @@
 
 === Children ===
 * Elizabeth<ref> "Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91F-BW7S-C?view=explore : Oct 20, 2025), image 90 of 313; .	Image Group Number: 007747892</ref> C. m. Henry Carper 1 Aug 1849
-* John<ref>Personal property tax lists 1843-1850, Film # 007856304, 1849 image 533, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HK9-9?cat=koha%3A695422&i=532&lang=en</ref>
+* John<ref>Personal property tax lists 1843-1850, Film # 007856304, 1849 image 533, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HK9-9?cat=koha%3A695422&i=532&lang=en</ref>.  Because John was first identified in the tax list in 1849, it is possible that he was just 21, and born in 1828.
 * William<ref>"Virginia, County Marriage Records, 1771-1989", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6DQ4-4JXD : Sat Jan 18 22:59:27 UTC 2025), Entry for William Kounty and Mosees Kounty, 14 Jan 1858.</ref>
 
 == Research Notes ==
@@ -20,7 +20,25 @@ There is some confusion between Nancy (Urt) Koontz (b. Abt. 1801) of Shenandoah 
 
 Nancy Koontz was identified as the wife of Moses Koontz 10 MAR 1854 in his death registry entry.
 
+=== Census Records ===
+* 1830<ref>"Scott, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:33SQ-GYB3-DZG?view=explore : Nov 1, 2025), image 245 of 808; United States. National Archives and Records Administration.  Image Group Number: 005156040</ref> census shows Moses with 1 male 5-9, 1 male 30-39, 2 females under 5, 1 female 20-29.
+* 1840 census<ref>"United States, Census, 1840", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XHT2-BGG : Sun Jan 19 22:55:16 UTC 2025), Entry for Moses Koontz, 1840.</ref> shows Moses with 2 males 5-9, 1 male 15-19, 1 male 40-49; 1 female under 5, 1 female 10-14, 1 female 30-39.
+
 === Tax ===
+Personal Property Tax records from Shenandoah County, with the number of "White males above 16" in the household:
+* 1821<ref>Shenandoah County, Personal property tax lists 1819-1830, Image 164, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2946-P?cat=koha%3A695422&i=163&lang=en</ref> "Moses Kounce 1"
+* 1828<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29Z7-S?cat=koha%3A695422&i=676&lang=en</ref> "Moses Koontz 1"; "John Newland 2"
+* 1829<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29HR-Y?cat=koha%3A695422&i=803&lang=en</ref> "Moses Koontz 1"; 
+* 1830<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29HS-Y?cat=koha%3A695422&i=859&lang=en</ref> "Moses Koontz 1"; "Eve Newland 1"
+* 1831<ref>Shenandoah County, Personal property tax lists 1830-1843, Image 145, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BJSW?cat=koha%3A695422&i=144&lang=en</ref> "Moses Kountz 1"; "Eve Newland 1"
+* 1832<ref>Shenandoah County, Personal property tax lists 1830-1843, Image 226, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BNG7?cat=koha%3A695422&i=225&lang=en</ref> "Moses Kontz 1"; "Eve Newland [blank]"
+* 1833<ref>Shenandoah County, Personal property tax lists 1830-1843, Image 267, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BNGL?cat=koha%3A695422&i=266&lang=en</ref> "Moses Kountz 1"; "Eve Newland [blank]"
+* 1834 "Moses Kountz 1"<ref>Shenandoah County, Personal property tax lists 1830-1843, Image 339, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BN8C?cat=koha%3A695422&i=338&lang=en</ref>; "Eve Newland [blank]"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BNZC?cat=koha%3A695422&i=344&lang=en</ref>
+* 1835 (Moses not listed) "Eve Newland [blank]"<ref>Image 453, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BF2X?cat=koha%3A695422&i=452&lang=en</ref>
+* 1836 (Moses not listed) "Eve Newland [blank]"<ref>Image 495, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BFFT?cat=koha%3A695422&i=494&lang=en</ref>
+* 1837 (Moses not listed) "Eve Newland 1"<ref>Image 581, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BF95?cat=koha%3A695422&i=580&lang=en</ref>; Note:  William H Koontz first entry<ref>Image 578, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BF9B?cat=koha%3A695422&i=577&lang=en</ref> but unlikely son of Moses.
+* 1838 (Moses not listed); "Eve Newland 1"<ref>Image 613, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BXYZ?cat=koha%3A695422&i=612&lang=en</ref>
+* 1839 (Moses not listed); "Eve Newland 1"<ref></ref>
 
 == Sources ==
 <references />
