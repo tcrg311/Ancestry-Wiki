@@ -1,11 +1,14 @@
 == 2025 Nov 4 ==
 Microfilm:
-# Moses Koontz Personal Property Tax 1851-1854
-# John Newland land tax 1828, 1829, 1830
-# Shenandoah research library
+# Moses Koontz Personal Property Tax 1851-1854 Reel 750 1851-1852; Reel 751 1853-1855
 # Shenandoah Land Tax
 ## John Newland 1829 Reel 300 1826-1831
 ## George Koontz Reel 298 1806-1816A; Reel 299 1816B-1825
+
+Genealogy Library:
+# Shenandoah genealogy research
+## George Koontz
+## Moses Koontz
 
 FamilySearch
 # [https://www.familysearch.org/en/search/catalog/koha:366558 FamilySearch Shenandoah Wills]
