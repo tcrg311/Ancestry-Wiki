@@ -7,15 +7,29 @@
 * Marriage:  Elizabeth Kendrick?
 
 === Children ===
-# Nancy
-# Margaret
+# Nancy, m. Moses Koontz 27 Jun 1820<ref>"Virginia, County Marriage Records, 1771-1989", _FamilySearch_ (https://www.familysearch.org/ark:/61903/1:1:6D7F-LVJG : Sun Jan 19 01:55:56 UTC 2025), Entry for Moses Koontz and Nancy Urt, 27 Jun 1820.</ref>
+# Margaret, m. Abraham Reynard 24 Aug 1825<ref>"Virginia, Marriages, 1785-1940", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:XR78-B95 : 6 August 2020), Margaret Urt in entry for Abm. Reynard, 1825.</ref>
 
 == Research Notes ==
 
 === Marriage to Elizabeth Kendrick? ===
-The 10 Feb 1806 marriage bond for Elizabeth Kendrack shows the groom as "John Utz".  
-* Closest in the 1810 census<ref></ref> is John Oatts, with 2 males under 10, 1 male 16-25, and 1 female 16-25.
-* 1810 Personal Property Tax<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HDB-B?cat=koha%3A695422&i=440&lang=en</ref> shows John Ortz ("of John") with 1 white male above 16; "John Otz" is crossed out with a note "see Utz".  "John Utz" shows 1 white male above 16.
+There are some who think the father who signed the marriage bonds for Nancy and Margaret Urt is the same person who married Elizabeth Kendrick 10 Feb 1806<ref>"Virginia, Marriages, 1785-1940", , FamilySearch (https://familysearch.org/ark:/61903/1:1:XR7D-R8J : 6 August 2020), Eliz Kindrick in entry for John Utz, 1806.</ref>, however it is not clear that this is the person who signed the marriage bonds for Nancy and Margaret Urt.
+# The 10 Feb 1806 marriage bond for Elizabeth Kendrack shows the groom as "John Utz".
+# John Utz signed the bond with his signature, while the father of Nancy and Margaret signed their bonds with his mark ("X"), and the clerk provided the written name.
+# It would be unlikely that Elizabeth Kendrick is the mother of Nancy Urt, because Elizabeth's marriage is only 14 years before Nancy's marriage, although census for 1830 and 1840 suggest a birth year between 1801 and 1810.
+# In the 1820 and 1821 Shenandoah County Personal Property tax lists (see below), there is a "John Ort", and this is the closest to "Urt" of any contemporary record.
+
+== Personal Property Tax ==
+* 1805
+** "Ortz John & Son John & Jacob", 3 white males above 16.<ref>Shenandoah County, Virginia Personal property tax lists 1800-1818 (No lists for 1808.), Film 1905723, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H4Y-K?cat=koha%3A695422&i=274&lang=en</ref>
+** John Utts<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H4R-Y?cat=koha%3A695422&i=281&lang=en</ref> with 2 white males above 16.
+* 1806
+** "Ortz John (S of John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6T-Q?cat=koha%3A695422&i=315&lang=en</ref>, 1 white male above 16, 0 horses
+** "Uttz John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6Y-8?cat=koha%3A695422&i=320&lang=en</ref>, 2 white males above 16, 3 horses
+* 1807
+** "Erts John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6K-N?cat=koha%3A695422&i=350&lang=en</ref>, 1 white male above 16, 2 horses
+** "Ortz John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6J-H?cat=koha%3A695422&i=359&lang=en</ref>, 1 white male above 16, 2 horses
+** "Ortz John Sen'r"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6J-H?cat=koha%3A695422&i=359&lang=en</ref>, 2 white males above 16, 5 horses
 * 1820 Personal Property Tax (this is the year Nancy Urt married Moses Koontz.):
 ** John Ort<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29H3-W?cat=koha%3A695422&i=90&lang=en</ref>
 ** John Utz<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2941-N?cat=koha%3A695422&i=100&lang=en</ref>  
@@ -24,10 +38,3 @@ The 10 Feb 1806 marriage bond for Elizabeth Kendrack shows the groom as "John Ut
 ** John Artz<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294F-V?cat=koha%3A695422&i=144&lang=en</ref> (of Jno)
 ** John Ort<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294D-Y?cat=koha%3A695422&i=170&lang=en</ref>
 ** John Uttz<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294Z-K?cat=koha%3A695422&i=180&lang=en</ref>
-
-
-The signature on the 1806 marriage bond was signed by the groom's own hand.  The signature in Nancy's 1820 was signed by the clerk and the bride's father's mark.
-
-=== Personal Property Tax ===
-* 1805<ref>Shenandoah County, Virginia Personal property tax lists 1800-1818 (No lists for 1808.), Film 1905723, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H4Y-K?cat=koha%3A695422&i=274&lang=en</ref> shows "Ortz John & Son John & Jacob", 3 white males above 16.  There is also a John Utts<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H4R-Y?cat=koha%3A695422&i=281&lang=en</ref> with 2 white males above 16.
-* 1806<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6T-Q?cat=koha%3A695422&i=315&lang=en</ref> shows "Ortz John / S of John", with 1 white male above 16.  There is also a "Uttz John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H6Y-8?cat=koha%3A695422&i=320&lang=en</ref> with 2 white males above 16.
