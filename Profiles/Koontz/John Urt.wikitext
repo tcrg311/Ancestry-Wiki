@@ -4,20 +4,18 @@
 * Name:  John Urt (or Utz?)
 * Birth:  Abt. 1784?
 * Death:  1850?
-* Marriage:  Elizabeth Kendrick?
+* Marriage:  Catherine Cline<ref>Shenandoah County, Virginia, Deed Book BB, page 263, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSL6-R7M4-5?cat=385833&lang=en&i=497</ref>
 
 === Children ===
-# Nancy, m. Moses Koontz 27 Jun 1820<ref>"Virginia, County Marriage Records, 1771-1989", _FamilySearch_ (https://www.familysearch.org/ark:/61903/1:1:6D7F-LVJG : Sun Jan 19 01:55:56 UTC 2025), Entry for Moses Koontz and Nancy Urt, 27 Jun 1820.</ref>
+# Nancy, m. Moses Koontz 27 Jun 1820<ref>"Virginia, County Marriage Records, 1771-1989", _FamilySearch_ (https://www.familysearch.org/ark:/61903/1:1:6D7F-LVJG : Sun Jan 19 01:55:56 UTC 2025), Entry for Moses Koontz and Nancy Urt, 27 Jun 1820.</ref>, d. 12 Apr 1858 North River, Shenandoah County, Virginia, age 57<ref>"Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QS7-89XF-C5X5?view=explore : Nov 21, 2025), image 45 of 67; .
+Image Group Number: 007579156</ref>
 # Margaret, m. Abraham Reynard 24 Aug 1825<ref>"Virginia, Marriages, 1785-1940", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:XR78-B95 : 6 August 2020), Margaret Urt in entry for Abm. Reynard, 1825.</ref>
 
 == Research Notes ==
 
-=== Marriage to Elizabeth Kendrick? ===
-There are some who think the father who signed the marriage bonds for Nancy and Margaret Urt is the same person who married Elizabeth Kendrick 10 Feb 1806<ref>"Virginia, Marriages, 1785-1940", , FamilySearch (https://familysearch.org/ark:/61903/1:1:XR7D-R8J : 6 August 2020), Eliz Kindrick in entry for John Utz, 1806.</ref>, however it is not clear that this is the person who signed the marriage bonds for Nancy and Margaret Urt.
-# The 10 Feb 1806 marriage bond for Elizabeth Kendrack shows the groom as "John Utz".
-# Elizabeth Kendrack's groom signed the bond with his signature, while the father of Nancy and Margaret signed their bonds with his mark ("X"), and the clerk provided the written name.
-# The possibility is diminished by Elizabeth's marriage being only 14 years before Nancy's marriage, although census for 1830 and 1840 suggest Nancy's birth year between 1801 and 1810.
-# In the 1820 and 1821 Shenandoah County Personal Property tax lists (see below), there is a "John Ort", and this is the closest to "Urt" of any contemporary record.  There is not similar name (with an "r" and without a "z" or "s") in the 1806 timeframe.
+=== Marriage ===
+Shenandoah County Deed 15 Apr 1822:
+<blockquote>...Between Henry Cline and Elizabeth his wife and John Urt and Catharine his wife late Catharine Cline the said Catharine Urt and Henry Cline being children and heirs at law of Casper Cline late of the County of Shenandoah (deceased)...</blockquote>
 
 == Personal Property Tax ==
 * 1805
@@ -38,6 +36,24 @@ There are some who think the father who signed the marriage bonds for Nancy and 
 ** John Artz<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294F-V?cat=koha%3A695422&i=144&lang=en</ref> (of Jno)
 ** John Ort<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294D-Y?cat=koha%3A695422&i=170&lang=en</ref>
 ** John Uttz<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-294Z-K?cat=koha%3A695422&i=180&lang=en</ref>
+
+* 1843
+** John Ortt<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HNY-M?cat=koha%3A695422&i=84&lang=en</ref>
+* 1844
+** "Ort John alias Urt"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HNX-K?cat=koha%3A695422&i=125&lang=en</ref>
+* 1845
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H2H-Q?cat=koha%3A695422&i=257&lang=en</ref>
+* 1846
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H27-J?cat=koha%3A695422&i=298&lang=en</ref>
+* 1847
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HKN-W?cat=koha%3A695422&i=416&lang=en</ref>
+* 1848
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HKH-Z?cat=koha%3A695422&i=457&lang=en</ref>
+* 1849
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HKS-C?cat=koha%3A695422&i=538&lang=en</ref>
+* 1850
+** "Ort John"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HV3-X?cat=koha%3A695422&i=674&lang=en</ref>
+
 
 
 == Sources ==
