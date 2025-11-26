@@ -3,7 +3,8 @@
 === Vital Information ===
 * Name:  Moses Koontz
 * Birth:  Abt. 1797 (calculated by age at death in the death registry)
-* Death:  10 MAR 1854, age 57<ref>"Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QHN-G3YR-3YN8?view=explore : Oct 20, 2025), image 10 of 38; The Library of Virginia (Richmond, Virginia).  Image Group Number: 107848146</ref>
+* Parents:  Eve Koontz and unknown father (as shown in the death registry entry).  Stepfather is John Newland.
+* Death:  10 MAR 1854, age 57<ref>"Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QHN-G3YR-3YN8?view=explore : Oct 20, 2025), image 10 of 38; The Library of Virginia (Richmond, Virginia).  Image Group Number: 107848146</ref>.  Entry shows only Eve Koontz as parent.
 * Marriage:  Nancy Urt 27 Jun 1820<ref>"Virginia, County Marriage Records, 1771-1989", _FamilySearch_ (https://www.familysearch.org/ark:/61903/1:1:6D7F-LVJG : Sun Jan 19 01:55:56 UTC 2025), Entry for Moses Koontz and Nancy Urt, 27 Jun 1820.</ref>
 
 === Children ===
@@ -14,8 +15,6 @@
 == Research Notes ==
 
 === Parents ===
-The name of Moses' father has not been found in any record.  Death registry lists only "Eve Koontz" as parent.  
-
 There is a close association with Moses' stepfather, John Newland, who co-signed a Chancery Court bond<ref>Moses Koontz vs George Ruddell https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=171-1822-004, bond dated 9 Oct 1821 https://old.lva.virginia.gov/chancery/full_case_detail.asp?CFN=171-1822-004#img .</ref>, purchasing personal property from Moses so that Moses could pay the bond<ref>Shenandoah County Deed Book BA page 84</ref>, and made some provisions in his will<ref>Shenandoah County Will Book Z, page 180</ref>:
 <blockquote>It is my will and desire that my wife son Moses live on the premises with his mother undisturbed until such sale as named in the first item be effected or as long as my wife lives in order to assist her in raising the children</blockquote>
 
@@ -23,19 +22,6 @@ There is a close association with Moses' stepfather, John Newland, who co-signed
 There is some confusion between Nancy (Urt) Koontz (b. Abt. 1801) of Shenandoah County and Nancy (Cline) Koontz (b. Abt. 1804) of Rockingham County.  The U.S. Federal Census Mortality Schedule for 1870<ref>National Archives and Records Administration (NARA); Washington, D.C.; Non-population Census Schedules for Virginia, 1850-1880; Archive Collection: T1132; Archive Roll Number: 10; Census Year: 1870; Census Place: Ashby, Rockingham, Virginia; Page: 390</ref> shows a "Nancy Koontz" who died in Apr 1870 at age 65.  This entry has been applied to Nancy Urt in most family trees in Ancestry, and also asserted by Lowell Koontz from his research.
 
 Nancy Koontz was identified as the wife of Moses Koontz 10 MAR 1854 in his death registry entry, as well as the informant.
-
-Death Register entry<ref>"Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QS7-89XF-C5X5?view=explore : Nov 22, 2025), image 45 of 67; .
-Image Group Number: 007579156</ref> for Shenandoah County, 1858, line 9 (page number obscured):
-* Name of deceased:  "Countz, Nancy" (transcribed as "Cuntz").
-* Date of death:  "Apr 12" [1858]
-* Place of death:  N River
-* Cause of death: "do" ("ditto" for "fever" on line above)
-* Age: "57 abt" (months and days columns are empty)
-* Names of Parents:  "Jno & Cath Ort" or "Orts"
-* Where born:  "Shend'h"
-* Consort of or unmarried:  "Widow"
-* Name of person giving information of death:  "Hy Carper"
-* Relation of information:  "Brother-in-law" (Henry Carper was her son-in-law)
 
 The 1860 census<ref>"United States, Census, 1860", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMQ-QX3 : Mon Jul 08 23:26:09 UTC 2024), Entry for Henry Carper and Elizabeth C Carper, 1860.</ref> shows Henry and Elizabeth Carper still living in Edinburg, Shenandoah, Virginia, with 4 children.  William Koontz is listed on the same page with wife Elizabeth (nee Reynard) and two children, and he is likely the son of Moses Koontz.  The Reynards appear to be living nearby.
 
@@ -57,7 +43,7 @@ Personal Property Tax records from Shenandoah County, with the number of "White 
 * 1836 (Moses not listed) "Eve Newland [blank]"<ref>Image 495, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BFFT?cat=koha%3A695422&i=494&lang=en</ref>
 * 1837 (Moses not listed) "Eve Newland 1"<ref>Image 581, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BF95?cat=koha%3A695422&i=580&lang=en</ref>; Note:  William H Koontz first entry<ref>Image 578, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BF9B?cat=koha%3A695422&i=577&lang=en</ref> but unlikely son of Moses.
 * 1838 (Moses not listed); "Eve Newland 1"<ref>Image 613, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BXYZ?cat=koha%3A695422&i=612&lang=en</ref>
-* 1839 (Moses not listed); "Eve Newland 1"<ref></ref>
+* 1839 (Moses not listed); "Eve Newland 1"<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-BVCL?cat=koha%3A695422&i=702&lang=en</ref>
 
 == Sources ==
 <references />
