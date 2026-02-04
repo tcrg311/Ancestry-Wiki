@@ -1,7 +1,7 @@
 === Vital Facts ===
 * Name:  George Koontz
 * Birth: TBD 
-* Marriage Eve
+* Marriage Eve (? On daughter' Eve's death information)
 
 === Children ===
 * Eve b. Abt. 1766; d. 23 Jun 1853<ref>"Virginia, Vital Records, 1715-1912", _FamilySearch_ (https://www.familysearch.org/ark:/61903/1:1:6J2Y-JV3G : Wed Jul 03 22:08:36 UTC 2024), Entry for Eva Newlands and Geo Kountz, 23 Jun 1853.</ref>.  Birth year is calculated by age at death, but 1850 census<ref>"Shenandoah, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:S3HT-67RW-73V?view=explore : Oct 21, 2025), image 144 of 312; United States. National Archives and Records Administration. Image Group Number: 004206466</ref> shows age 80 (i.e. b. Abt. 1770).  Death registry shows "Geo. & Eve Kountz" as Eve's parents.
@@ -22,8 +22,53 @@
 === Death ===
 
 
-=== Tax ===
-Personal Property Tax records for 1810 enumerates George Koontz on 11 Apr 1810<ref>Personal property tax lists 1800-1818 (No lists for 1808.) https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HDT-4?cat=koha%3A695422&i=458&lang=en</ref>, in a different district in 1811<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HD6-N?cat=koha%3A695422&i=492&lang=en</ref>, and not enumerated in 1812.
+=== Personal Property Tax, Shenandoah ===
+* 1782
+** George Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 419, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL3-P?cat=koha%3A695422&i=418&lang=en</ref>
+** John Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 420, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL3-6?cat=koha%3A695422&i=419&lang=en</ref>
+** Daniel Newland 1 > 16; Wm Newland 1 > 15<ref>Personal property tax lists 1782-1799, Image 426, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QLS-2?cat=koha%3A695422&i=425&lang=en</ref>
+* 1783
+** John Countz 1 > 16; George Coons 1 > 16<ref>Personal property tax lists 1782-1799, Image 436 (pages 4-5), https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QVS-P?cat=koha%3A695422&i=435&lang=en</ref>
+** John Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 437 (page 7), https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL9-K?cat=koha%3A695422&i=436&lang=en</ref>
+** George Kontz 1 > 16<ref>Personal property tax lists 1782-1799, Image 443, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QLM-B?cat=koha%3A695422&i=442&lang=en</ref>
+** Daniel Newland and William his son 2 white tithables<ref>Personal property tax lists 1782-1799, Image 443, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QLM-B?cat=koha%3A695422&i=442&lang=en</ref>
+* 1784
+** George Countz 1 > 16; John Countz (Preacher); Jacob Countz; John Countz; George Countz<ref>Personal property tax lists 1782-1799, Image 458, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QVM-L?cat=koha%3A695422&i=457&lang=en</ref>
+** Daniel Newland 2 [William?] > 16<ref>ersonal property tax lists 1782-1799, Image 476, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q2B-P?cat=koha%3A695422&i=466&lang=en</ref>
+* 1785
+** George Countz 1 > 16; Jacob Countz 1 > 16; John Countz (Preacher) 1 > 16; Philip Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 478, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QJ1-4?cat=koha%3A695422&i=477&lang=en</ref>
+* 1786
+** Jacob Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 501, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q2R-5?cat=koha%3A695422&i=500&lang=en</ref>
+** John Countz 1 > 16; John Countz (Fatherman[?]) 1 > 16; Philip Countz 1 > 16; George Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 502, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QJT-B?cat=koha%3A695422&i=501&lang=en</ref>
+** George Koonts 1 > 16<ref>Personal property tax lists 1782-1799, Image 508, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QJY-D?cat=koha%3A695422&i=507&lang=en</ref>
+** William Nulin 1 > 16; Daniel Nulin 2 > 16<ref>Personal property tax lists 1782-1799, Image 510, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q25-T?cat=koha%3A695422&i=509&lang=en</ref>
+* 1787
+** George Counts 1 > 21<ref>Personal property tax lists 1782-1799, Image 525, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QJR-3?cat=koha%3A695422&i=524&lang=en</ref>
+** George Koonts 1 > 21; John Koonts 1 > 21; Jacob Koonts 1 > 21<ref>Personal property tax lists 1782-1799, Image 531, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QJ5-B?cat=koha%3A695422&i=530&lang=en</ref>
+** Daniel Newland Sr and John Newland 2 > 21<ref>Personal property tax lists 1782-1799, Image 557, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPV-C?cat=koha%3A695422&i=556&lang=en</ref>
+* 1788
+** George Counts 1 > 21; Philip Counts 1 > 21<ref>Personal property tax lists 1782-1799, Image 548, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPV-M?cat=koha%3A695422&i=547&lang=en</ref>
+** Jacob Counts 1 > 21 <ref>Personal property tax lists 1782-1799, Image 549, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPJ-W?cat=koha%3A695422&i=548&lang=en</ref>
+** Daniel Newland and John Newland 2 > 21; William Newland 1 > 21
+
+* 1797 by W Jennings, 97th regiment
+** George Koontz 3 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 827, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QKP-P?cat=koha%3A695422&i=826&lang=en</ref>
+* 1797 by Joseph Young:
+** George Koontz 2 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 850, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QGJ-M?cat=koha%3A695422&i=849&lang=en</ref>
+** John Newland 1 > 16; Daniel Newland 3 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 850, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QGJ-M?cat=koha%3A695422&i=849&lang=en</ref>
+* 1798 by Wm. Jennings, 97th regiment
+** George Koontz 1 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 873, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QKF-F?cat=koha%3A695422&i=872&lang=en</ref>
+* 1798 by Joseph Young
+** George Koontz 2 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 891, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QG4-L?cat=koha%3A695422&i=890&lang=en</ref>
+** John Newland 1 > 16; Daniel Newland 2 > 16; <ref>Personal property tax lists 1782-1799, 1797, Image 894, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QG4-4?cat=koha%3A695422&i=893&lang=en</ref>
+
+
+* 1810 Jennings 
+** George Koontz 11 Apr 1810<ref>Personal property tax lists 1800-1818 (No lists for 1808.) https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HDT-4?cat=koha%3A695422&i=458&lang=en</ref>, 
+* 1810 Young
+** George Coonts 2 > 16
+** Daniel Newland 1 > 16
+** John Newland 4 > 16
 
 == Sources ==
 <references />
