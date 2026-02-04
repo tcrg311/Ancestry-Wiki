@@ -26,7 +26,7 @@
 * 1782
 ** George Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 419, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL3-P?cat=koha%3A695422&i=418&lang=en</ref>
 ** John Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 420, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL3-6?cat=koha%3A695422&i=419&lang=en</ref>
-** Daniel Newland 1 > 16; Wm Newland 1 > 15<ref>Personal property tax lists 1782-1799, Image 426, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QLS-2?cat=koha%3A695422&i=425&lang=en</ref>
+** Daniel Newland 1 > 16; Wm Newland 1 > 16<ref>Personal property tax lists 1782-1799, Image 426, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QLS-2?cat=koha%3A695422&i=425&lang=en</ref>
 * 1783
 ** John Countz 1 > 16; George Coons 1 > 16<ref>Personal property tax lists 1782-1799, Image 436 (pages 4-5), https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QVS-P?cat=koha%3A695422&i=435&lang=en</ref>
 ** John Countz 1 > 16<ref>Personal property tax lists 1782-1799, Image 437 (page 7), https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QL9-K?cat=koha%3A695422&i=436&lang=en</ref>
@@ -50,6 +50,22 @@
 ** George Counts 1 > 21; Philip Counts 1 > 21<ref>Personal property tax lists 1782-1799, Image 548, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPV-M?cat=koha%3A695422&i=547&lang=en</ref>
 ** Jacob Counts 1 > 21 <ref>Personal property tax lists 1782-1799, Image 549, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPJ-W?cat=koha%3A695422&i=548&lang=en</ref>
 ** Daniel Newland and John Newland 2 > 21; William Newland 1 > 21
+
+After 1788, Property Tax Lists were split into two districts.  Lists below are identified by year and commissioner.
+
+* 1789 William Headley
+** George Coontz 1, Jacob Coons 1, John Coons 1, Philip Counts 1, John Counts 1, George Coons 1<ref>Personal property tax lists 1782-1799, Image 569, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q22-B?cat=koha%3A695422&i=568&lang=en</ref>
+* 1789 Taverner Beale
+** George Counce 1, Philip Counce 1<ref>Personal property tax lists 1782-1799, Image 582, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPF-8?cat=koha%3A695422&i=581&lang=en</ref>
+** Daniel Newland, John Newland 2<ref>Personal property tax lists 1782-1799, Image 589, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q2V-Z?cat=koha%3A695422&i=588&lang=en</ref>
+* 1790 Taverner Beale
+** George Counts 1; Philip Counts 1<ref>Personal property tax lists 1782-1799, Image 599, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q2V-G?cat=koha%3A695422&i=598&lang=en</ref>
+** Daniel Newland, John Newland 2; William Newland 1<ref>Personal property tax lists 1782-1799, Image 605, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QP6-D?cat=koha%3A695422&i=604&lang=en</ref>
+* 1790 William Headley
+** George Coons 1<ref>Personal property tax lists 1782-1799, Image 614, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2Q2J-B?cat=koha%3A695422&i=613&lang=en</ref>
+** Jacob Coons 1; John Coons 2; Philip Counts 1; George Coons 1<ref>Personal property tax lists 1782-1799, Image 615, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QPD-R?cat=koha%3A695422&i=614&lang=en</ref>
+
+
 
 * 1797 by W Jennings, 97th regiment
 ** George Koontz 3 > 16<ref>Personal property tax lists 1782-1799, 1797, Image 827, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2QKP-P?cat=koha%3A695422&i=826&lang=en</ref>

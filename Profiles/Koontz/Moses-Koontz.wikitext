@@ -31,7 +31,13 @@ The 1860 census<ref>"United States, Census, 1860", FamilySearch (https://www.fam
 
 === Tax ===
 Personal Property Tax records from Shenandoah County, with the number of "White males above 16" in the household:
-* 1821<ref>Shenandoah County, Personal property tax lists 1819-1830, Image 164, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2946-P?cat=koha%3A695422&i=163&lang=en</ref> "Moses Kounce 1"
+* 1812<ref>Personal property tax lists 1800-1818 (No lists for 1808.), Image 516, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HD8-Q?cat=koha%3A695422&i=515&lang=en</ref> George Koontz 2
+* 1812<ref>Personal property tax lists 1800-1818 (No lists for 1808.), Image 519, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2HDD-R?cat=koha%3A695422&i=518&lang=en</ref> John Newland 3
+* 1813<ref>Personal property tax lists 1800-1818 (No lists for 1808.), Image 554, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H81-P?cat=koha%3A695422&i=553&lang=en</ref> Moses Coontz 1
+* 1813<ref>Personal property tax lists 1800-1818 (No lists for 1808.), Image 556, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H81-7?cat=koha%3A695422&i=555&lang=en</ref> George Coontz 4
+* 1813<ref>Personal property tax lists 1800-1818 (No lists for 1808.), Image 573, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2H8R-9?cat=koha%3A695422&i=572&lang=en</ref> John Newlan 3
+
+* 1821<ref>Shenandoah County, Personal property tax lists 1819-1830, Image 164, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2946-P?cat=koha%3A695422&i=163&lang=en</ref> "Moses Kounce 1".  Enumerated 19 Mar 1821, which is the same day that "John Newlin" was enumerated<ref>Shenandoah County, Personal property tax lists 1819-1830, Image 170, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-2948-5?cat=koha%3A695422&i=169&lang=en</ref>
 * 1828<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29Z7-S?cat=koha%3A695422&i=676&lang=en</ref> "Moses Koontz 1"; "John Newland 2"
 * 1829<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29HR-Y?cat=koha%3A695422&i=803&lang=en</ref> "Moses Koontz 1"; 
 * 1830<ref>https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS79-29HS-Y?cat=koha%3A695422&i=859&lang=en</ref> "Moses Koontz 1"; "Eve Newland 1"
